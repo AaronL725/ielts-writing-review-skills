@@ -1,65 +1,41 @@
-<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">IELTS Writing Review Skills</title>
-  <desc id="desc">A polished hero image for IELTS Writing Task 1 and Task 2 AI agent review skills.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#08111f"/>
-      <stop offset="0.42" stop-color="#0b2740"/>
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.48" stop-color="#0b2440"/>
       <stop offset="1" stop-color="#102317"/>
     </linearGradient>
-    <linearGradient id="accent" x1="148" y1="80" x2="1120" y2="440" gradientUnits="userSpaceOnUse">
+    <linearGradient id="arrow" x1="916" y1="384" x2="1068" y2="104" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#62d2ff"/>
-      <stop offset="0.5" stop-color="#8ef0b0"/>
+      <stop offset="0.52" stop-color="#8ef0b0"/>
       <stop offset="1" stop-color="#ffd166"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity="0.38"/>
     </filter>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1"/>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
     </pattern>
   </defs>
 
   <rect width="1280" height="520" rx="34" fill="url(#bg)"/>
   <rect width="1280" height="520" rx="34" fill="url(#grid)"/>
-  <path d="M108 420C222 257 350 199 491 246C632 293 704 250 799 162C893 75 1038 87 1164 130" stroke="url(#accent)" stroke-width="3" stroke-opacity="0.85"/>
-  <path d="M104 427C247 320 371 306 492 358C614 410 733 396 850 314C967 232 1063 214 1182 257" stroke="#62d2ff" stroke-width="2" stroke-opacity="0.35"/>
 
   <g filter="url(#shadow)">
-    <rect x="86" y="74" width="1108" height="372" rx="26" fill="#08111f" fill-opacity="0.76" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="86" y="74" width="1108" height="372" rx="26" fill="#08111f" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.12"/>
   </g>
 
-  <g transform="translate(126 112)">
+  <g transform="translate(126 142)">
     <rect x="0" y="0" width="148" height="34" rx="17" fill="#62d2ff" fill-opacity="0.14" stroke="#62d2ff" stroke-opacity="0.45"/>
     <text x="74" y="23" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#a9ecff">AGENT SKILLS</text>
-
-    <text x="0" y="92" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#f7fbff" letter-spacing="0">IELTS Writing Review Skills</text>
-    <text x="0" y="136" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500" fill="#c7d8e8">中文主页 · DOCX 真批注 · 官方评分 · 教师风格范文</text>
-
-    <g transform="translate(0 190)">
-      <rect x="0" y="0" width="186" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="24" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">默认 Band 7.5</text>
-
-      <rect x="204" y="0" width="178" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="228" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">Word 批注</text>
-
-      <rect x="400" y="0" width="174" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="424" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">教师风格</text>
-    </g>
+    <text x="0" y="112" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="800" fill="#f7fbff" letter-spacing="0">IELTS Writing Review Skills</text>
   </g>
 
-  <g transform="translate(802 112)" filter="url(#shadow)">
-    <rect x="0" y="0" width="312" height="286" rx="22" fill="#f8fbff"/>
-    <rect x="28" y="30" width="118" height="12" rx="6" fill="#102317" fill-opacity="0.82"/>
-    <rect x="28" y="58" width="228" height="10" rx="5" fill="#d6e0ea"/>
-    <rect x="28" y="82" width="256" height="10" rx="5" fill="#d6e0ea"/>
-    <rect x="28" y="106" width="206" height="10" rx="5" fill="#d6e0ea"/>
-    <rect x="28" y="146" width="160" height="12" rx="6" fill="#0b2740" fill-opacity="0.72"/>
-    <rect x="28" y="176" width="234" height="10" rx="5" fill="#d6e0ea"/>
-    <rect x="28" y="200" width="248" height="10" rx="5" fill="#d6e0ea"/>
-    <rect x="28" y="224" width="198" height="10" rx="5" fill="#d6e0ea"/>
-    <path d="M244 20L284 52L244 84V20Z" fill="#ffd166"/>
-    <rect x="206" y="36" width="56" height="38" rx="10" fill="#062033" stroke="#62d2ff" stroke-opacity="0.42"/>
-    <text x="234" y="61" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="800" fill="#a9ecff">7.5</text>
+  <g>
+    <text x="1030" y="122" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="78" font-weight="900" fill="#f7fbff" letter-spacing="0">9.0</text>
+    <path d="M1000 406H1060V238H1148L1030 154L912 238H1000V406Z" fill="#000000" fill-opacity="0.22" transform="translate(0 16)"/>
+    <path d="M1000 406H1060V238H1148L1030 154L912 238H1000V406Z" fill="url(#arrow)"/>
+    <path d="M1000 406H1060V238H1148L1030 154L912 238H1000V406Z" stroke="#ffffff" stroke-opacity="0.32" stroke-width="2"/>
   </g>
 </svg>
