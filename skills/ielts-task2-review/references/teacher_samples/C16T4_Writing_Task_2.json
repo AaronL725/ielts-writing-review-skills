@@ -1,0 +1,408 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 2/C16T4 Writing Task 2.docx",
+  "title": "Write about the following topic:",
+  "prompt": "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?",
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "Write about the following topic:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "Do you think the advantages of driverless vehicles outweigh the disadvantages?",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 4,
+      "text": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "Write at least 250 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 7,
+      "text": "Agree",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 8,
+      "text": "Disadvantage",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "Trust issue",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 10,
+      "text": "Replace human drivers",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 11,
+      "text": "Advantage",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 12,
+      "text": "More efficient & less traffic jam",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "Free time",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 15,
+      "text": "Technology is changing people’s lives rapidly.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "It is predicted that all vehicles such as cars, trucks and buses will be driverless in the future and only passengers will travel inside these vehicles.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 19,
+      "text": "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+      "italic_text": "",
+      "comment_ids": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "Although driverless transport may lead to certain concerns, I believe that its benefits, particularly improved safety and efficiency, outweigh the drawbacks.",
+      "italic_text": "Although driverless transport may lead to certain concerns, I believe that its benefits, particularly improved safety and efficiency, outweigh the drawbacks.",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "Admittedly, there will be trust issues among the public regarding driverless cars.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "One important reason is that most people do not understand how self-driving cars work, and people are naturally unlikely to trust what they cannot understand.",
+      "italic_text": "",
+      "comment_ids": [
+        "4"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "This is largely because the general public does not fully understand how such technology functions, and individuals tend to distrust systems they cannot control or comprehend.",
+      "italic_text": "This is largely because the general public does not fully understand how such technology functions, and individuals tend to distrust systems they cannot control or comprehend.",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "As a result, as long as some people who do not fully trust self-driving technology, making all vehicles driverless is unlikely to happen.",
+      "italic_text": "",
+      "comment_ids": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "Consequently, public resistance could slow down the widespread adoption of driverless transport.",
+      "italic_text": "Consequently, public resistance could slow down the widespread adoption of driverless transport.",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "However, despite the disadvantage that driverless cars may replace human drivers and decrease job opportunities, the advantages outweigh the disadvantages.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 35,
+      "text": "With driverless vehicles, traveling becomes more efficient and fewer traffic jam will occur.",
+      "italic_text": "",
+      "comment_ids": [
+        "7"
+      ]
+    },
+    {
+      "index": 37,
+      "text": "For example, if people use artificial intelligence to manage the traffic, it can calculate and choose the optimal route and avoid traffic jam from the first place, which will significantly improve efficiency.",
+      "italic_text": "",
+      "comment_ids": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "index": 39,
+      "text": "For instance, artificial intelligence could analyse traffic conditions in real time and select the most efficient routes, thereby preventing unnecessary congestion.",
+      "italic_text": "For instance, artificial intelligence could analyse traffic conditions in real time and select the most efficient routes, thereby preventing unnecessary congestion.",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "In addition, self-driving cars provide people with more free time during commuting, as they no longer need to drive by themselves.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 43,
+      "text": "They can choose to work, watching movies, or even rest instead of driving while tired.",
+      "italic_text": "",
+      "comment_ids": [
+        "10"
+      ]
+    },
+    {
+      "index": 45,
+      "text": "Passengers could work, watch films, or even rest during long journeys, which may also reduce fatigue-related accidents.",
+      "italic_text": "Passengers could work, watch films, or even rest during long journeys, which may also reduce fatigue-related accidents.",
+      "comment_ids": []
+    },
+    {
+      "index": 47,
+      "text": "In conclusion, it is unlikely that all vehicles will become driverless. However, the advantages of efficiency and time saving still outweigh the potential disadvantages, such as job losses.",
+      "italic_text": "",
+      "comment_ids": [
+        "11"
+      ]
+    },
+    {
+      "index": 49,
+      "text": "In conclusion, although autonomous vehicles may create concerns regarding employment and public trust, their advantages in terms of efficiency, convenience and road safety are more substantial.",
+      "italic_text": "In conclusion, although autonomous vehicles may create concerns regarding employment and public trust, their advantages in terms of efficiency, convenience and road safety are more substantial.",
+      "comment_ids": []
+    },
+    {
+      "index": 55,
+      "text": "Many people believe that in the future all forms of transport, including cars, buses and trucks, will become fully autonomous. Although this development may cause certain social problems, I believe that the advantages of driverless vehicles outweigh the disadvantages because they could significantly improve road safety, traffic efficiency and quality of life.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 56,
+      "text": "One disadvantage of autonomous vehicles is that they may lead to unemployment in transport-related industries. Millions of people around the world currently work as taxi drivers, truck drivers and delivery drivers, and many of these jobs could disappear if vehicles no longer required human operators. This could create serious economic difficulties, particularly for workers with limited qualifications or alternative career opportunities. In addition, some members of the public may initially distrust self-driving technology due to concerns about software failures or accidents caused by artificial intelligence.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 57,
+      "text": "Despite these concerns, the benefits of driverless transport are far more substantial. First of all, autonomous vehicles have the potential to dramatically reduce road accidents. Human error, such as speeding, distraction and drunk driving, is responsible for the majority of traffic collisions today. Self-driving systems, however, can continuously monitor road conditions and react more quickly than humans, making roads considerably safer.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 58,
+      "text": "Furthermore, driverless technology could improve traffic flow and reduce congestion in large cities. Artificial intelligence systems would be able to calculate the most efficient routes, communicate with other vehicles and minimise unnecessary delays. As a result, commuters could save a significant amount of time each day. Moreover, passengers would be free to work, relax or sleep during journeys instead of focusing on driving, which would make travelling more convenient and less stressful.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 59,
+      "text": "In conclusion, although autonomous vehicles may result in job losses and public concerns about safety, I believe their advantages greatly outweigh the disadvantages due to their potential to improve safety, efficiency and overall convenience.",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:41:00Z",
+      "target": "unlikely to happen",
+      "paragraph_index": 19,
+      "paragraph_text": "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+      "text": "Off-topic. (adv/disadv)"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:39:00Z",
+      "target": "I will also share my view",
+      "paragraph_index": 19,
+      "paragraph_text": "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+      "text": "informal"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:39:00Z",
+      "target": "I strongly believe",
+      "paragraph_index": 19,
+      "paragraph_text": "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+      "text": "repetitive"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:40:00Z",
+      "target": "",
+      "paragraph_index": 19,
+      "paragraph_text": "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+      "text": "long sentence"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:42:00Z",
+      "target": "people",
+      "paragraph_index": 25,
+      "paragraph_text": "One important reason is that most people do not understand how self-driving cars work, and people are naturally unlikely to trust what they cannot understand.",
+      "text": "slightly repetitive"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:43:00Z",
+      "target": "people who do not fully",
+      "paragraph_index": 29,
+      "paragraph_text": "As a result, as long as some people who do not fully trust self-driving technology, making all vehicles driverless is unlikely to happen.",
+      "text": "missing verb after “people who do not fully trust…”"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:43:00Z",
+      "target": ".",
+      "paragraph_index": 29,
+      "paragraph_text": "As a result, as long as some people who do not fully trust self-driving technology, making all vehicles driverless is unlikely to happen.",
+      "text": "again slightly off-topic."
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:44:00Z",
+      "target": "jam",
+      "paragraph_index": 35,
+      "paragraph_text": "With driverless vehicles, traveling becomes more efficient and fewer traffic jam will occur.",
+      "text": "jams"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:45:00Z",
+      "target": "from",
+      "paragraph_index": 37,
+      "paragraph_text": "For example, if people use artificial intelligence to manage the traffic, it can calculate and choose the optimal route and avoid traffic jam from the first place, which will significantly improve efficiency.",
+      "text": "at"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:45:00Z",
+      "target": "",
+      "paragraph_index": 37,
+      "paragraph_text": "For example, if people use artificial intelligence to manage the traffic, it can calculate and choose the optimal route and avoid traffic jam from the first place, which will significantly improve efficiency.",
+      "text": "slightly wordy"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:46:00Z",
+      "target": "watching movies",
+      "paragraph_index": 43,
+      "paragraph_text": "They can choose to work, watching movies, or even rest instead of driving while tired.",
+      "text": "parallel structure error: to work, watchingshould be: to work, watch movies, or rest"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:47:00Z",
+      "target": "unlikely",
+      "paragraph_index": 47,
+      "paragraph_text": "In conclusion, it is unlikely that all vehicles will become driverless. However, the advantages of efficiency and time saving still outweigh the potential disadvantages, such as job losses.",
+      "text": "not answering the question directly"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "Although driverless transport may lead to certain concerns, I believe that its benefits, particularly improved safety and efficiency, outweigh the drawbacks.",
+      "italic_text": "Although driverless transport may lead to certain concerns, I believe that its benefits, particularly improved safety and efficiency, outweigh the drawbacks."
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "This is largely because the general public does not fully understand how such technology functions, and individuals tend to distrust systems they cannot control or comprehend.",
+      "italic_text": "This is largely because the general public does not fully understand how such technology functions, and individuals tend to distrust systems they cannot control or comprehend."
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "Consequently, public resistance could slow down the widespread adoption of driverless transport.",
+      "italic_text": "Consequently, public resistance could slow down the widespread adoption of driverless transport."
+    },
+    {
+      "paragraph_index": 39,
+      "paragraph_text": "For instance, artificial intelligence could analyse traffic conditions in real time and select the most efficient routes, thereby preventing unnecessary congestion.",
+      "italic_text": "For instance, artificial intelligence could analyse traffic conditions in real time and select the most efficient routes, thereby preventing unnecessary congestion."
+    },
+    {
+      "paragraph_index": 45,
+      "paragraph_text": "Passengers could work, watch films, or even rest during long journeys, which may also reduce fatigue-related accidents.",
+      "italic_text": "Passengers could work, watch films, or even rest during long journeys, which may also reduce fatigue-related accidents."
+    },
+    {
+      "paragraph_index": 49,
+      "paragraph_text": "In conclusion, although autonomous vehicles may create concerns regarding employment and public trust, their advantages in terms of efficiency, convenience and road safety are more substantial.",
+      "italic_text": "In conclusion, although autonomous vehicles may create concerns regarding employment and public trust, their advantages in terms of efficiency, convenience and road safety are more substantial."
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_essay_paragraphs": [
+    "It is predicted that all vehicles such as cars, trucks and buses will be driverless in the future and only passengers will travel inside these vehicles.",
+    "This essay discusses why converting all vehicles to driverless is unlikely to happen, and I will also share my view that I strongly believe that the advantages of self-driving vehicles outweigh the disadvantages.",
+    "Although driverless transport may lead to certain concerns, I believe that its benefits, particularly improved safety and efficiency, outweigh the drawbacks.",
+    "Admittedly, there will be trust issues among the public regarding driverless cars.",
+    "One important reason is that most people do not understand how self-driving cars work, and people are naturally unlikely to trust what they cannot understand.",
+    "This is largely because the general public does not fully understand how such technology functions, and individuals tend to distrust systems they cannot control or comprehend.",
+    "As a result, as long as some people who do not fully trust self-driving technology, making all vehicles driverless is unlikely to happen.",
+    "Consequently, public resistance could slow down the widespread adoption of driverless transport.",
+    "However, despite the disadvantage that driverless cars may replace human drivers and decrease job opportunities, the advantages outweigh the disadvantages.",
+    "With driverless vehicles, traveling becomes more efficient and fewer traffic jam will occur.",
+    "For example, if people use artificial intelligence to manage the traffic, it can calculate and choose the optimal route and avoid traffic jam from the first place, which will significantly improve efficiency.",
+    "For instance, artificial intelligence could analyse traffic conditions in real time and select the most efficient routes, thereby preventing unnecessary congestion.",
+    "In addition, self-driving cars provide people with more free time during commuting, as they no longer need to drive by themselves.",
+    "They can choose to work, watching movies, or even rest instead of driving while tired.",
+    "Passengers could work, watch films, or even rest during long journeys, which may also reduce fatigue-related accidents.",
+    "In conclusion, it is unlikely that all vehicles will become driverless. However, the advantages of efficiency and time saving still outweigh the potential disadvantages, such as job losses.",
+    "In conclusion, although autonomous vehicles may create concerns regarding employment and public trust, their advantages in terms of efficiency, convenience and road safety are more substantial.",
+    "Many people believe that in the future all forms of transport, including cars, buses and trucks, will become fully autonomous. Although this development may cause certain social problems, I believe that the advantages of driverless vehicles outweigh the disadvantages because they could significantly improve road safety, traffic efficiency and quality of life.",
+    "One disadvantage of autonomous vehicles is that they may lead to unemployment in transport-related industries. Millions of people around the world currently work as taxi drivers, truck drivers and delivery drivers, and many of these jobs could disappear if vehicles no longer required human operators. This could create serious economic difficulties, particularly for workers with limited qualifications or alternative career opportunities. In addition, some members of the public may initially distrust self-driving technology due to concerns about software failures or accidents caused by artificial intelligence.",
+    "Despite these concerns, the benefits of driverless transport are far more substantial. First of all, autonomous vehicles have the potential to dramatically reduce road accidents. Human error, such as speeding, distraction and drunk driving, is responsible for the majority of traffic collisions today. Self-driving systems, however, can continuously monitor road conditions and react more quickly than humans, making roads considerably safer.",
+    "Furthermore, driverless technology could improve traffic flow and reduce congestion in large cities. Artificial intelligence systems would be able to calculate the most efficient routes, communicate with other vehicles and minimise unnecessary delays. As a result, commuters could save a significant amount of time each day. Moreover, passengers would be free to work, relax or sleep during journeys instead of focusing on driving, which would make travelling more convenient and less stressful.",
+    "In conclusion, although autonomous vehicles may result in job losses and public concerns about safety, I believe their advantages greatly outweigh the disadvantages due to their potential to improve safety, efficiency and overall convenience."
+  ],
+  "counts": {
+    "paragraphs": 35,
+    "comments": 12,
+    "italic_rewrites": 6
+  }
+}

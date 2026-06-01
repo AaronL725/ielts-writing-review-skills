@@ -1,0 +1,15 @@
+# Teacher Sample Index
+
+Full teacher-reviewed samples extracted from the 11 Task 2 DOCX files.
+
+- C15T1 Writing Task 2.docx: comments=24, italic_rewrites=13, prompt=In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+- C15T2 Writing Task 2.docx: comments=16, italic_rewrites=10, prompt=In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement?
+- C15T3 Writing Task 2.docx: comments=26, italic_rewrites=11, prompt=Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion.
+- C15T4 Writing Task 2.docx: comments=15, italic_rewrites=0, prompt=In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?
+- C16T1 Writing Task 2.docx: comments=12, italic_rewrites=12, prompt=In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?
+- C16T2 Writing Task 2.docx: comments=13, italic_rewrites=10, prompt=In their advertising, businesses nowadays usually emphasise that their products are new in some way. Why is this? Do you think it is a positive or negative development?
+- C16T3 Writing Task 2.docx: comments=12, italic_rewrites=10, prompt=Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?
+- C16T4 Writing Task 2.docx: comments=12, italic_rewrites=6, prompt=In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?
+- C17T1 Writing Task 2.docx: comments=7, italic_rewrites=3, prompt=It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?
+- C17T2 Writing Task 2.docx: comments=6, italic_rewrites=6, prompt=Some children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or a negative development?
+- C17T3 Writing Task 2.docx: comments=5, italic_rewrites=2, prompt=Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. Discuss both these views and give your own opinion.

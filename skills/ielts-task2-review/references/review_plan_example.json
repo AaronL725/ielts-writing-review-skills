@@ -1,0 +1,64 @@
+{
+  "prompt": "Some people believe that children should spend more time learning practical skills at school, while others think academic subjects are more important. Discuss both views and give your own opinion.",
+  "review_units": [
+    {
+      "original": "Some people think practical skills are very important for students, and academic subjects are also important.",
+      "comments": [
+        {
+          "target": "very important",
+          "text": "Try to be more precise"
+        },
+        {
+          "target": "also important",
+          "text": "This sounds repetitive"
+        }
+      ],
+      "rewrite": "Some people argue that practical skills should receive greater attention at school, while others believe academic subjects remain more valuable."
+    },
+    {
+      "original": "I think both sides have reasons but practical skills are better because students can use them in real life.",
+      "comments": [
+        {
+          "target": "have reasons",
+          "text": "Slightly vague"
+        },
+        {
+          "target": "better",
+          "text": "Use a more academic comparison"
+        }
+      ],
+      "rewrite": "In my view, although academic subjects are essential, practical skills deserve more emphasis because they prepare students for everyday and professional challenges."
+    },
+    {
+      "original": "For example, cooking and managing money can help students become independent.",
+      "comments": [
+        {
+          "target": "managing money",
+          "text": "Good example"
+        }
+      ],
+      "rewrite": "For example, learning basic cooking and financial management can help young people become more independent."
+    }
+  ],
+  "scores": {
+    "Task Response": "6.5",
+    "Coherence & Cohesion": "6.5",
+    "Lexical Resource": "6.5",
+    "Grammatical Range & Accuracy": "6.5",
+    "Overall": "6.5"
+  },
+  "score_explanation": [
+    "The position is relevant, but the support is still quite general.",
+    "Vocabulary is clear, but several phrases are repetitive or vague."
+  ],
+  "focus_feedback": [
+    "To reach a secure Band 7, develop each main idea with a clearer explanation and a specific example.",
+    "To move toward 7.5, focus on natural academic collocations and more precise topic vocabulary."
+  ],
+  "model_essay": [
+    "There is ongoing debate about whether schools should place greater emphasis on practical skills or traditional academic subjects. While academic learning remains essential for intellectual development and future study, I believe practical skills should also receive more attention because they prepare students for real-life challenges.",
+    "On the one hand, academic subjects provide students with important knowledge and mental discipline. Subjects such as mathematics, science and literature help young people develop analytical thinking, problem-solving ability and communication skills. These areas are also necessary for students who want to enter university or pursue professional careers. For example, a student who hopes to become an engineer needs a strong foundation in mathematics and physics. Therefore, it would be unwise for schools to reduce academic learning too much.",
+    "On the other hand, practical skills can make education more useful and relevant to daily life. Many young people leave school with strong exam results but limited ability to manage money, cook basic meals or communicate effectively in a workplace. Teaching these skills can help students become more independent and confident after graduation. In addition, practical lessons may benefit students who are less interested in purely academic study, as they can see a clearer connection between school and their future lives. This could also reduce anxiety when they begin living away from their families.",
+    "In conclusion, academic subjects are clearly important, but schools should not ignore practical skills. A balanced curriculum would give students both the knowledge needed for further study and the practical abilities required for adult life."
+  ]
+}

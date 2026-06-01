@@ -1,0 +1,450 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 2/C16T3 Writing Task 2.docx",
+  "title": "Write about the following topic:",
+  "prompt": "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?",
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "Write about the following topic:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "Do you agree or disagree?",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 4,
+      "text": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "Write at least 250 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 7,
+      "text": "Mostly disagree",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 8,
+      "text": "Price wont solve the prob (jewelry)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 10,
+      "text": "Edu & clearer food label more efficient (ppl don’t know)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "People nowadays have become much more concerned about health.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 15,
+      "text": "Many food and drinks contain high levels of sugar, which can cause numerous health issues.",
+      "italic_text": "",
+      "comment_ids": [
+        "1"
+      ]
+    },
+    {
+      "index": 17,
+      "text": "Many manufactured food and drink products contain excessive amounts of sugar, which can lead to a range of health problems.",
+      "italic_text": "Many manufactured food and drink products contain excessive amounts of sugar, which can lead to a range of health problems.",
+      "comment_ids": []
+    },
+    {
+      "index": 19,
+      "text": "Some suggest that the price of sugary products should be increased to discourage people to consume sugar.",
+      "italic_text": "",
+      "comment_ids": [
+        "2"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "Some people argue that sugary products should be made more expensive in order to discourage consumers from purchasing them.",
+      "italic_text": "Some people argue that sugary products should be made more expensive in order to discourage consumers from purchasing them.",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "However, I strongly disagree with this view, as raising the price will not solve the underlying problems and there are more effective ways to address the issue.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "Admittedly, higher prices for sugary products may successfully lower sugar consumption but it will not solve the problem from the root.",
+      "italic_text": "",
+      "comment_ids": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Admittedly, increasing the price of sugary products may reduce sugar consumption to some extent, but it would not tackle the problem at its root.",
+      "italic_text": "Admittedly, increasing the price of sugary products may reduce sugar consumption to some extent, but it would not tackle the problem at its root.",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "Price will not be a barrier for those who are really into something.",
+      "italic_text": "",
+      "comment_ids": [
+        "5"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "Price is unlikely to discourage individuals who are strongly attached to certain products.",
+      "italic_text": "Price is unlikely to discourage individuals who are strongly attached to certain products.",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "For example, jewelry is very expensive, but that does not stop jewelry lovers from buying it, despite its negative effect on sales.",
+      "italic_text": "",
+      "comment_ids": [
+        "6"
+      ]
+    },
+    {
+      "index": 35,
+      "text": "For instance, despite the high taxes imposed on cigarettes in many countries, a significant number of smokers continue purchasing them regularly.",
+      "italic_text": "For instance, despite the high taxes imposed on cigarettes in many countries, a significant number of smokers continue purchasing them regularly.",
+      "comment_ids": []
+    },
+    {
+      "index": 37,
+      "text": "Those who have a strong preference on sugary foods may continue to buy them even if the prices rise, so this policy is unlikely to be effective.",
+      "italic_text": "",
+      "comment_ids": [
+        "7"
+      ]
+    },
+    {
+      "index": 39,
+      "text": "Similarly, consumers with a strong preference for sugary foods may continue purchasing them despite higher prices, making this policy relatively ineffective.",
+      "italic_text": "Similarly, consumers with a strong preference for sugary foods may continue purchasing them despite higher prices, making this policy relatively ineffective.",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "In addition, people who love sugary products may not understand the health problems that consuming high levels of sugar can cause.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 43,
+      "text": "Thus, educating them about the harmful effects of sugary foods and adopting clearer food label may be more effective.",
+      "italic_text": "",
+      "comment_ids": [
+        "8"
+      ]
+    },
+    {
+      "index": 45,
+      "text": "Therefore, public health education and clearer nutritional labelling may be more effective solutions.",
+      "italic_text": "Therefore, public health education and clearer nutritional labelling may be more effective solutions.",
+      "comment_ids": []
+    },
+    {
+      "index": 47,
+      "text": "By teaching people that eating sugary foods may negatively affect their health, people are less likely to purchase sugary products in the future, which can have a long-term positive effect.",
+      "italic_text": "",
+      "comment_ids": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "index": 49,
+      "text": "If consumers are educated about the long-term health consequences of excessive sugar intake, they may become less likely to purchase such products in the future.",
+      "italic_text": "If consumers are educated about the long-term health consequences of excessive sugar intake, they may become less likely to purchase such products in the future.",
+      "comment_ids": []
+    },
+    {
+      "index": 51,
+      "text": "What is more, showing how much sugar products contain will help people better identify foods which are likely to harm their health if consumed regularly.",
+      "italic_text": "",
+      "comment_ids": [
+        "11"
+      ]
+    },
+    {
+      "index": 53,
+      "text": "Moreover, displaying sugar content clearly on packaging would enable consumers to identify unhealthy products more easily.",
+      "italic_text": "Moreover, displaying sugar content clearly on packaging would enable consumers to identify unhealthy products more easily.",
+      "comment_ids": []
+    },
+    {
+      "index": 55,
+      "text": "In conclusion, the policy that increases the prices of sugary products to reduce sugar consumption is unlikely to succeed because those who love these products will still buy them.",
+      "italic_text": "",
+      "comment_ids": [
+        "12"
+      ]
+    },
+    {
+      "index": 57,
+      "text": "In conclusion, raising the prices of sugary products is unlikely to be fully effective because many consumers would continue purchasing them despite the higher cost.",
+      "italic_text": "In conclusion, raising the prices of sugary products is unlikely to be fully effective because many consumers would continue purchasing them despite the higher cost.",
+      "comment_ids": []
+    },
+    {
+      "index": 59,
+      "text": "The effective way to address this problem is to educate people about the harmful effects of consuming high levels of sugar and to label foods more clearly.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 61,
+      "text": "Many manufactured food and drink products contain excessive amounts of sugar, which contributes to a variety of serious health problems. Some people argue that increasing the price of sugary products is the best way to discourage consumption. However, I disagree with this view because such a policy would have limited effectiveness, and education-based measures are likely to produce better long-term results.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 63,
+      "text": "Admittedly, raising the cost of sugary foods and beverages could reduce consumption to a certain extent. Some consumers may choose healthier alternatives if sugary products become less affordable. However, this approach is unlikely to solve the problem entirely, as many people would continue purchasing these items regardless of price increases. For example, despite the high taxes placed on cigarettes in many countries, a large number of smokers still buy them regularly due to habit and addiction. Similarly, individuals who frequently consume sugary foods may be unwilling to change their behaviour simply because prices rise.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 65,
+      "text": "In my opinion, educating the public about the dangers of excessive sugar intake would be a more effective solution. Many people are unaware of the long-term health consequences associated with high sugar consumption, including obesity, diabetes and heart disease. By improving public awareness through school programs, advertisements and health campaigns, governments can encourage healthier eating habits. In addition, clearer nutritional labelling would allow consumers to make more informed decisions about the products they purchase. If people can easily identify foods with high sugar content, they may become more likely to reduce their intake voluntarily.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 67,
+      "text": "In conclusion, although increasing the price of sugary products may discourage some consumers, it is unlikely to be a complete solution. I believe that education and clearer food labelling are more effective ways to reduce sugar consumption and improve public health.(290)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:51:00Z",
+      "target": "Many food and drinks",
+      "paragraph_index": 15,
+      "paragraph_text": "Many food and drinks contain high levels of sugar, which can cause numerous health issues.",
+      "text": "Uncountable. Should be “foods and drinks” or “food and drink products”"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:52:00Z",
+      "target": "discourage people to consume",
+      "paragraph_index": 19,
+      "paragraph_text": "Some suggest that the price of sugary products should be increased to discourage people to consume sugar.",
+      "text": "discourage people from consuming"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:53:00Z",
+      "target": "but",
+      "paragraph_index": 25,
+      "paragraph_text": "Admittedly, higher prices for sugary products may successfully lower sugar consumption but it will not solve the problem from the root.",
+      "text": "missing comma before “but”"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:54:00Z",
+      "target": "solve the problem from the root",
+      "paragraph_index": 25,
+      "paragraph_text": "Admittedly, higher prices for sugary products may successfully lower sugar consumption but it will not solve the problem from the root.",
+      "text": "unnatural"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:55:00Z",
+      "target": "really into something",
+      "paragraph_index": 29,
+      "paragraph_text": "Price will not be a barrier for those who are really into something.",
+      "text": "informal"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:56:00Z",
+      "target": "",
+      "paragraph_index": 33,
+      "paragraph_text": "For example, jewelry is very expensive, but that does not stop jewelry lovers from buying it, despite its negative effect on sales.",
+      "text": "Weak example\nComparison is not convincing\n“negative effect on sales” is unclear"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:57:00Z",
+      "target": "on",
+      "paragraph_index": 37,
+      "paragraph_text": "Those who have a strong preference on sugary foods may continue to buy them even if the prices rise, so this policy is unlikely to be effective.",
+      "text": "for"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:58:00Z",
+      "target": "label",
+      "paragraph_index": 43,
+      "paragraph_text": "Thus, educating them about the harmful effects of sugary foods and adopting clearer food label may be more effective.",
+      "text": "labels"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:58:00Z",
+      "target": "people",
+      "paragraph_index": 47,
+      "paragraph_text": "By teaching people that eating sugary foods may negatively affect their health, people are less likely to purchase sugary products in the future, which can have a long-term positive effect.",
+      "text": "repetition"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:59:00Z",
+      "target": ".",
+      "paragraph_index": 47,
+      "paragraph_text": "By teaching people that eating sugary foods may negatively affect their health, people are less likely to purchase sugary products in the future, which can have a long-term positive effect.",
+      "text": "slightly wordy"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T04:01:00Z",
+      "target": "how much sugar products contain",
+      "paragraph_index": 51,
+      "paragraph_text": "What is more, showing how much sugar products contain will help people better identify foods which are likely to harm their health if consumed regularly.",
+      "text": "slightly unnatural"
+    },
+    {
+      "id": "12",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T04:00:00Z",
+      "target": "",
+      "paragraph_index": 55,
+      "paragraph_text": "In conclusion, the policy that increases the prices of sugary products to reduce sugar consumption is unlikely to succeed because those who love these products will still buy them.",
+      "text": "slightly wordy"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "Many manufactured food and drink products contain excessive amounts of sugar, which can lead to a range of health problems.",
+      "italic_text": "Many manufactured food and drink products contain excessive amounts of sugar, which can lead to a range of health problems."
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "Some people argue that sugary products should be made more expensive in order to discourage consumers from purchasing them.",
+      "italic_text": "Some people argue that sugary products should be made more expensive in order to discourage consumers from purchasing them."
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "Admittedly, increasing the price of sugary products may reduce sugar consumption to some extent, but it would not tackle the problem at its root.",
+      "italic_text": "Admittedly, increasing the price of sugary products may reduce sugar consumption to some extent, but it would not tackle the problem at its root."
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "Price is unlikely to discourage individuals who are strongly attached to certain products.",
+      "italic_text": "Price is unlikely to discourage individuals who are strongly attached to certain products."
+    },
+    {
+      "paragraph_index": 35,
+      "paragraph_text": "For instance, despite the high taxes imposed on cigarettes in many countries, a significant number of smokers continue purchasing them regularly.",
+      "italic_text": "For instance, despite the high taxes imposed on cigarettes in many countries, a significant number of smokers continue purchasing them regularly."
+    },
+    {
+      "paragraph_index": 39,
+      "paragraph_text": "Similarly, consumers with a strong preference for sugary foods may continue purchasing them despite higher prices, making this policy relatively ineffective.",
+      "italic_text": "Similarly, consumers with a strong preference for sugary foods may continue purchasing them despite higher prices, making this policy relatively ineffective."
+    },
+    {
+      "paragraph_index": 45,
+      "paragraph_text": "Therefore, public health education and clearer nutritional labelling may be more effective solutions.",
+      "italic_text": "Therefore, public health education and clearer nutritional labelling may be more effective solutions."
+    },
+    {
+      "paragraph_index": 49,
+      "paragraph_text": "If consumers are educated about the long-term health consequences of excessive sugar intake, they may become less likely to purchase such products in the future.",
+      "italic_text": "If consumers are educated about the long-term health consequences of excessive sugar intake, they may become less likely to purchase such products in the future."
+    },
+    {
+      "paragraph_index": 53,
+      "paragraph_text": "Moreover, displaying sugar content clearly on packaging would enable consumers to identify unhealthy products more easily.",
+      "italic_text": "Moreover, displaying sugar content clearly on packaging would enable consumers to identify unhealthy products more easily."
+    },
+    {
+      "paragraph_index": 57,
+      "paragraph_text": "In conclusion, raising the prices of sugary products is unlikely to be fully effective because many consumers would continue purchasing them despite the higher cost.",
+      "italic_text": "In conclusion, raising the prices of sugary products is unlikely to be fully effective because many consumers would continue purchasing them despite the higher cost."
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_essay_paragraphs": [
+    "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar.",
+    "Do you agree or disagree?",
+    "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "Write at least 250 words.",
+    "Mostly disagree",
+    "Price wont solve the prob (jewelry)",
+    "Edu & clearer food label more efficient (ppl don’t know)",
+    "People nowadays have become much more concerned about health.",
+    "Many food and drinks contain high levels of sugar, which can cause numerous health issues.",
+    "Many manufactured food and drink products contain excessive amounts of sugar, which can lead to a range of health problems.",
+    "Some suggest that the price of sugary products should be increased to discourage people to consume sugar.",
+    "Some people argue that sugary products should be made more expensive in order to discourage consumers from purchasing them.",
+    "However, I strongly disagree with this view, as raising the price will not solve the underlying problems and there are more effective ways to address the issue.",
+    "Admittedly, higher prices for sugary products may successfully lower sugar consumption but it will not solve the problem from the root.",
+    "Admittedly, increasing the price of sugary products may reduce sugar consumption to some extent, but it would not tackle the problem at its root.",
+    "Price will not be a barrier for those who are really into something.",
+    "Price is unlikely to discourage individuals who are strongly attached to certain products.",
+    "For example, jewelry is very expensive, but that does not stop jewelry lovers from buying it, despite its negative effect on sales.",
+    "For instance, despite the high taxes imposed on cigarettes in many countries, a significant number of smokers continue purchasing them regularly.",
+    "Those who have a strong preference on sugary foods may continue to buy them even if the prices rise, so this policy is unlikely to be effective.",
+    "Similarly, consumers with a strong preference for sugary foods may continue purchasing them despite higher prices, making this policy relatively ineffective.",
+    "In addition, people who love sugary products may not understand the health problems that consuming high levels of sugar can cause.",
+    "Thus, educating them about the harmful effects of sugary foods and adopting clearer food label may be more effective.",
+    "Therefore, public health education and clearer nutritional labelling may be more effective solutions.",
+    "By teaching people that eating sugary foods may negatively affect their health, people are less likely to purchase sugary products in the future, which can have a long-term positive effect.",
+    "If consumers are educated about the long-term health consequences of excessive sugar intake, they may become less likely to purchase such products in the future.",
+    "What is more, showing how much sugar products contain will help people better identify foods which are likely to harm their health if consumed regularly.",
+    "Moreover, displaying sugar content clearly on packaging would enable consumers to identify unhealthy products more easily.",
+    "In conclusion, the policy that increases the prices of sugary products to reduce sugar consumption is unlikely to succeed because those who love these products will still buy them.",
+    "In conclusion, raising the prices of sugary products is unlikely to be fully effective because many consumers would continue purchasing them despite the higher cost.",
+    "The effective way to address this problem is to educate people about the harmful effects of consuming high levels of sugar and to label foods more clearly.",
+    "Many manufactured food and drink products contain excessive amounts of sugar, which contributes to a variety of serious health problems. Some people argue that increasing the price of sugary products is the best way to discourage consumption. However, I disagree with this view because such a policy would have limited effectiveness, and education-based measures are likely to produce better long-term results.",
+    "Admittedly, raising the cost of sugary foods and beverages could reduce consumption to a certain extent. Some consumers may choose healthier alternatives if sugary products become less affordable. However, this approach is unlikely to solve the problem entirely, as many people would continue purchasing these items regardless of price increases. For example, despite the high taxes placed on cigarettes in many countries, a large number of smokers still buy them regularly due to habit and addiction. Similarly, individuals who frequently consume sugary foods may be unwilling to change their behaviour simply because prices rise.",
+    "In my opinion, educating the public about the dangers of excessive sugar intake would be a more effective solution. Many people are unaware of the long-term health consequences associated with high sugar consumption, including obesity, diabetes and heart disease. By improving public awareness through school programs, advertisements and health campaigns, governments can encourage healthier eating habits. In addition, clearer nutritional labelling would allow consumers to make more informed decisions about the products they purchase. If people can easily identify foods with high sugar content, they may become more likely to reduce their intake voluntarily.",
+    "In conclusion, although increasing the price of sugary products may discourage some consumers, it is unlikely to be a complete solution. I believe that education and clearer food labelling are more effective ways to reduce sugar consumption and improve public health.(290)"
+  ],
+  "counts": {
+    "paragraphs": 36,
+    "comments": 12,
+    "italic_rewrites": 10
+  }
+}

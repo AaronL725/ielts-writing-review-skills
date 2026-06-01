@@ -1,0 +1,293 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C16T3 Writing Task 1.docx",
+  "title": "The plans below show the site of an airport now and how it will look after redevelopment next year.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "prompt": "The plans below show the site of an airport now and how it will look after redevelopment next year.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.jpeg",
+      "path": "references/sample_images/C16T3_Writing_Task_1_image1.jpeg",
+      "filename": "C16T3_Writing_Task_1_image1.jpeg"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The plans below show the site of an airport now and how it will look after redevelopment next year.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 4,
+      "text": "The plans show how the southwest airport will be redeveloped next year.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 6,
+      "text": "Overall, the gate area of the airport will be redeveloped from an I-shaped area into a Y-shaped area, and the number of gates will increase.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 8,
+      "text": "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+      "italic_text": "",
+      "comment_ids": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "index": 10,
+      "text": "In addition, several new facilities, including shops, a bag-drop area, an ATM, a sky train and a car-hire service, will be introduced, while both the departures and arrivals areas will be expanded.",
+      "italic_text": "In addition, several new facilities, including shops, a bag-drop area, an ATM, a sky train and a car-hire service, will be introduced, while both the departures and arrivals areas will be expanded.",
+      "comment_ids": []
+    },
+    {
+      "index": 12,
+      "text": "In the upper part of the airport, the old I-shaped gate area will be converted into a Y-shaped area, which will have 18 gates, compared with the current 8.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 14,
+      "text": "The old walkway will be turned into the sky train, as the area will become larger.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 16,
+      "text": "The existing walkway will also be replaced by a sky train in order to improve transport within the enlarged terminal area.",
+      "italic_text": "The existing walkway will also be replaced by a sky train in order to improve transport within the enlarged terminal area.",
+      "comment_ids": []
+    },
+    {
+      "index": 18,
+      "text": "Moreover, there will be a new shop above the security on the map.",
+      "italic_text": "",
+      "comment_ids": [
+        "4"
+      ]
+    },
+    {
+      "index": 20,
+      "text": "Furthermore, a new shop will be constructed just beyond the security checkpoint.",
+      "italic_text": "Furthermore, a new shop will be constructed just beyond the security checkpoint.",
+      "comment_ids": []
+    },
+    {
+      "index": 22,
+      "text": "In the lower part of the airport, the number of departures and arrivals gates will be doubled.",
+      "italic_text": "",
+      "comment_ids": [
+        "5"
+      ]
+    },
+    {
+      "index": 24,
+      "text": "In the southern section, both the departures and arrivals areas will be expanded to approximately double their current size.",
+      "italic_text": "In the southern section, both the departures and arrivals areas will be expanded to approximately double their current size.",
+      "comment_ids": []
+    },
+    {
+      "index": 26,
+      "text": "The lower right corner of the airport will be expanded and a car hire area will be built there.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 28,
+      "text": "The café will be moved from the departure side to the arrival side of the airport and a new ATM will be added next to the café.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 30,
+      "text": "In addition, the check-in sector will be relocated to the other side of the departures area and the bag drop will occupy its former site, beside a new café.",
+      "italic_text": "",
+      "comment_ids": [
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "index": 32,
+      "text": "Finally, the check-in area will be moved to the opposite side of the departures hall, while its current location will be converted into a bag-drop facility next to a new café.",
+      "italic_text": "Finally, the check-in area will be moved to the opposite side of the departures hall, while its current location will be converted into a bag-drop facility next to a new café.",
+      "comment_ids": []
+    },
+    {
+      "index": 35,
+      "text": "The plans illustrate how Southwest Airport is expected to change following a major redevelopment next year.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 37,
+      "text": "Overall, the airport will undergo substantial expansion, particularly in the gate area, which will be transformed from a straight layout into a Y-shaped structure. In addition, the number of gates will increase considerably, while several new facilities and transport services will be introduced.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 39,
+      "text": "In the northern part of the airport, the existing I-shaped gate area will be replaced by a larger Y-shaped terminal containing 18 gates, compared with only 8 currently. As a result of this expansion, the present walkway will be removed and replaced by a sky train to improve passenger transport. Furthermore, a new shop will be added just beyond the security checkpoint.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "In the southern section, both the departures and arrivals areas will be enlarged to around twice their present size. The café currently situated in the departures area will be relocated to the arrivals side, where an ATM will also be installed. Meanwhile, the check-in area will be moved to the opposite side of the departures hall, and its former location will become a bag-drop facility beside a new café. Finally, the southeastern corner of the airport will be extended in order to accommodate a car-hire service.(207)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:42:00Z",
+      "target": "bag drop",
+      "paragraph_index": 8,
+      "paragraph_text": "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+      "text": "A bag drop"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:42:00Z",
+      "target": "ATM",
+      "paragraph_index": 8,
+      "paragraph_text": "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+      "text": "an ATM"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:43:00Z",
+      "target": "sky train and car hire",
+      "paragraph_index": 8,
+      "paragraph_text": "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+      "text": "missing articles"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:43:00Z",
+      "target": "gates",
+      "paragraph_index": 8,
+      "paragraph_text": "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+      "text": "“departure and arrival gates” is inaccurate because departures/arrivals are usually areas, not gates"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:46:00Z",
+      "target": "above the security on the map.",
+      "paragraph_index": 18,
+      "paragraph_text": "Moreover, there will be a new shop above the security on the map.",
+      "text": "a bit informal and unclear"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:47:00Z",
+      "target": "departures and arrivals gates",
+      "paragraph_index": 22,
+      "paragraph_text": "In the lower part of the airport, the number of departures and arrivals gates will be doubled.",
+      "text": "same issue as above"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:49:00Z",
+      "target": "check-in sector",
+      "paragraph_index": 30,
+      "paragraph_text": "In addition, the check-in sector will be relocated to the other side of the departures area and the bag drop will occupy its former site, beside a new café.",
+      "text": "check-in area"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:49:00Z",
+      "target": "the other side",
+      "paragraph_index": 30,
+      "paragraph_text": "In addition, the check-in sector will be relocated to the other side of the departures area and the bag drop will occupy its former site, beside a new café.",
+      "text": "vague"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-16T03:49:00Z",
+      "target": "bag drop",
+      "paragraph_index": 30,
+      "paragraph_text": "In addition, the check-in sector will be relocated to the other side of the departures area and the bag drop will occupy its former site, beside a new café.",
+      "text": "bag drop area"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "In addition, several new facilities, including shops, a bag-drop area, an ATM, a sky train and a car-hire service, will be introduced, while both the departures and arrivals areas will be expanded.",
+      "italic_text": "In addition, several new facilities, including shops, a bag-drop area, an ATM, a sky train and a car-hire service, will be introduced, while both the departures and arrivals areas will be expanded."
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "The existing walkway will also be replaced by a sky train in order to improve transport within the enlarged terminal area.",
+      "italic_text": "The existing walkway will also be replaced by a sky train in order to improve transport within the enlarged terminal area."
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "Furthermore, a new shop will be constructed just beyond the security checkpoint.",
+      "italic_text": "Furthermore, a new shop will be constructed just beyond the security checkpoint."
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "In the southern section, both the departures and arrivals areas will be expanded to approximately double their current size.",
+      "italic_text": "In the southern section, both the departures and arrivals areas will be expanded to approximately double their current size."
+    },
+    {
+      "paragraph_index": 32,
+      "paragraph_text": "Finally, the check-in area will be moved to the opposite side of the departures hall, while its current location will be converted into a bag-drop facility next to a new café.",
+      "italic_text": "Finally, the check-in area will be moved to the opposite side of the departures hall, while its current location will be converted into a bag-drop facility next to a new café."
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_answer_paragraphs": [
+    "The plans below show the site of an airport now and how it will look after redevelopment next year.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "Write at least 150 words.",
+    "The plans show how the southwest airport will be redeveloped next year.",
+    "Overall, the gate area of the airport will be redeveloped from an I-shaped area into a Y-shaped area, and the number of gates will increase.",
+    "New functional areas such as shops, bag drop, ATM, sky train and car hire will be added to the airport and the departure and arrival gates will be enlarged.",
+    "In addition, several new facilities, including shops, a bag-drop area, an ATM, a sky train and a car-hire service, will be introduced, while both the departures and arrivals areas will be expanded.",
+    "In the upper part of the airport, the old I-shaped gate area will be converted into a Y-shaped area, which will have 18 gates, compared with the current 8.",
+    "The old walkway will be turned into the sky train, as the area will become larger.",
+    "The existing walkway will also be replaced by a sky train in order to improve transport within the enlarged terminal area.",
+    "Moreover, there will be a new shop above the security on the map.",
+    "Furthermore, a new shop will be constructed just beyond the security checkpoint.",
+    "In the lower part of the airport, the number of departures and arrivals gates will be doubled.",
+    "In the southern section, both the departures and arrivals areas will be expanded to approximately double their current size.",
+    "The lower right corner of the airport will be expanded and a car hire area will be built there.",
+    "The café will be moved from the departure side to the arrival side of the airport and a new ATM will be added next to the café.",
+    "In addition, the check-in sector will be relocated to the other side of the departures area and the bag drop will occupy its former site, beside a new café.",
+    "Finally, the check-in area will be moved to the opposite side of the departures hall, while its current location will be converted into a bag-drop facility next to a new café.",
+    "The plans illustrate how Southwest Airport is expected to change following a major redevelopment next year.",
+    "Overall, the airport will undergo substantial expansion, particularly in the gate area, which will be transformed from a straight layout into a Y-shaped structure. In addition, the number of gates will increase considerably, while several new facilities and transport services will be introduced.",
+    "In the northern part of the airport, the existing I-shaped gate area will be replaced by a larger Y-shaped terminal containing 18 gates, compared with only 8 currently. As a result of this expansion, the present walkway will be removed and replaced by a sky train to improve passenger transport. Furthermore, a new shop will be added just beyond the security checkpoint.",
+    "In the southern section, both the departures and arrivals areas will be enlarged to around twice their present size. The café currently situated in the departures area will be relocated to the arrivals side, where an ATM will also be installed. Meanwhile, the check-in area will be moved to the opposite side of the departures hall, and its former location will become a bag-drop facility beside a new café. Finally, the southeastern corner of the airport will be extended in order to accommodate a car-hire service.(207)"
+  ],
+  "counts": {
+    "paragraphs": 21,
+    "comments": 9,
+    "italic_rewrites": 5,
+    "images": 1
+  }
+}

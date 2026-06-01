@@ -1,0 +1,337 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C16T4 Writing Task 1.docx",
+  "title": "The diagram below shows the process for recycling plastic bottles.",
+  "prompt": "The diagram below shows the process for recycling plastic bottles. Summarise the information by selecting and reporting the main features,and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.jpeg",
+      "path": "references/sample_images/C16T4_Writing_Task_1_image1.jpeg",
+      "filename": "C16T4_Writing_Task_1_image1.jpeg"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The diagram below shows the process for recycling plastic bottles.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Summarise the information by selecting and reporting the main features,and make comparisons where relevant.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "The diagram illustrates how plastic bottles are recycled, from being thrown into the rubbish bin to producing end products using raw material for consumers.",
+      "italic_text": "",
+      "comment_ids": [
+        "0"
+      ]
+    },
+    {
+      "index": 7,
+      "text": "The diagram illustrates the process of recycling plastic bottles into new products.",
+      "italic_text": "The diagram illustrates the process of recycling plastic bottles into new products.",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "Overall, the process consists of nine stages, which can be broadly divided into two phases: processing plastic bottles and manufacturing end products from recycled plastic.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 11,
+      "text": "Plastic bottles are first transported and sorted, then compressed into blocks and crushed into small pieces.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "In the final stage, those pieces are crushed into plastic pellets and heated to form raw material, which is used to produce the final products.",
+      "italic_text": "",
+      "comment_ids": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "index": 15,
+      "text": "In the final stages, the cleaned plastic fragments are processed into pellets and heated to create raw material for manufacturing new products.",
+      "italic_text": "In the final stages, the cleaned plastic fragments are processed into pellets and heated to create raw material for manufacturing new products.",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "At the beginning of the process, the plastic bottles are being thrown into the rubbish bin, before the garbage truck come to collect them.",
+      "italic_text": "",
+      "comment_ids": [
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "index": 19,
+      "text": "At the beginning of the process, plastic bottles are discarded in recycling bins before being collected by garbage trucks.",
+      "italic_text": "At the beginning of the process, plastic bottles are discarded in recycling bins before being collected by garbage trucks.",
+      "comment_ids": []
+    },
+    {
+      "index": 21,
+      "text": "After that, those wastes are being sorted in the recycling centre and then the bottles are picked out by workers.",
+      "italic_text": "",
+      "comment_ids": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "index": 23,
+      "text": "The bottles are then transported to a recycling centre, where they are sorted.",
+      "italic_text": "The bottles are then transported to a recycling centre, where they are sorted.",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "Follwing this, those bottles are being compressed into blocks and being crushed by the machine into smaller pieces and being washed.",
+      "italic_text": "",
+      "comment_ids": [
+        "8"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Following this, the selected bottles are compressed into blocks, crushed into small pieces, and washed thoroughly.",
+      "italic_text": "Following this, the selected bottles are compressed into blocks, crushed into small pieces, and washed thoroughly.",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "In the final stage, the washed pieces are put in another device to produce plastic pellets, which are heated in the next step to form raw material.",
+      "italic_text": "",
+      "comment_ids": [
+        "9"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "Next, the cleaned plastic fragments are processed into plastic pellets, which are subsequently heated to create raw material.",
+      "italic_text": "Next, the cleaned plastic fragments are processed into plastic pellets, which are subsequently heated to create raw material.",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "Finally, raw material is used to manufacture end priducts and sell to the consumers.",
+      "italic_text": "",
+      "comment_ids": [
+        "10"
+      ]
+    },
+    {
+      "index": 35,
+      "text": "Finally, the raw material is used to manufacture a variety of products for consumers.",
+      "italic_text": "Finally, the raw material is used to manufacture a variety of products for consumers.",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "The diagram illustrates the process by which plastic bottles are recycled and transformed into new products.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 39,
+      "text": "Overall, the recycling procedure consists of nine stages, beginning with the disposal and collection of used plastic bottles and ending with the manufacture of various consumer goods. The bottles are sorted, compressed, crushed, and processed into raw plastic material before being reused.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 40,
+      "text": "At the first stage, plastic bottles are discarded in designated recycling bins. They are then collected by garbage trucks and transported to a recycling centre, where recyclable bottles are separated from other waste materials. After sorting, the selected bottles are compressed into large blocks to facilitate transportation and processing.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "Next, the compressed plastic is crushed into small fragments, which are subsequently washed to remove impurities. The clean pieces are then processed into plastic pellets. Following this, the pellets are heated to produce raw plastic material. In the final stage, this material is used to manufacture a range of end products, including bottles, containers, clothing, and other consumer items.",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:26:00Z",
+      "target": "raw material",
+      "paragraph_index": 5,
+      "paragraph_text": "The diagram illustrates how plastic bottles are recycled, from being thrown into the rubbish bin to producing end products using raw material for consumers.",
+      "text": "raw materials"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:33:00Z",
+      "target": "those pieces are crushed into plastic",
+      "paragraph_index": 13,
+      "paragraph_text": "In the final stage, those pieces are crushed into plastic pellets and heated to form raw material, which is used to produce the final products.",
+      "text": "This is inaccurate.The pieces are usually processed, not crushed again."
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:33:00Z",
+      "target": "the final products",
+      "paragraph_index": 13,
+      "paragraph_text": "In the final stage, those pieces are crushed into plastic pellets and heated to form raw material, which is used to produce the final products.",
+      "text": "repetitive"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:29:00Z",
+      "target": "are being thrown",
+      "paragraph_index": 17,
+      "paragraph_text": "At the beginning of the process, the plastic bottles are being thrown into the rubbish bin, before the garbage truck come to collect them.",
+      "text": "wrong passive tense, are thrown"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:28:00Z",
+      "target": "the rubbish bin",
+      "paragraph_index": 17,
+      "paragraph_text": "At the beginning of the process, the plastic bottles are being thrown into the rubbish bin, before the garbage truck come to collect them.",
+      "text": "rubbish bin"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:33:00Z",
+      "target": "come",
+      "paragraph_index": 17,
+      "paragraph_text": "At the beginning of the process, the plastic bottles are being thrown into the rubbish bin, before the garbage truck come to collect them.",
+      "text": "comes"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:30:00Z",
+      "target": "are being sorted",
+      "paragraph_index": 21,
+      "paragraph_text": "After that, those wastes are being sorted in the recycling centre and then the bottles are picked out by workers.",
+      "text": "are sorted"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:34:00Z",
+      "target": "picked out",
+      "paragraph_index": 21,
+      "paragraph_text": "After that, those wastes are being sorted in the recycling centre and then the bottles are picked out by workers.",
+      "text": "informal"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:34:00Z",
+      "target": "are being compressed",
+      "paragraph_index": 25,
+      "paragraph_text": "Follwing this, those bottles are being compressed into blocks and being crushed by the machine into smaller pieces and being washed.",
+      "text": "are compressed"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:35:00Z",
+      "target": "another device",
+      "paragraph_index": 29,
+      "paragraph_text": "In the final stage, the washed pieces are put in another device to produce plastic pellets, which are heated in the next step to form raw material.",
+      "text": "vague"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-17T19:36:00Z",
+      "target": "the consumers",
+      "paragraph_index": 33,
+      "paragraph_text": "Finally, raw material is used to manufacture end priducts and sell to the consumers.",
+      "text": "consumers"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "The diagram illustrates the process of recycling plastic bottles into new products.",
+      "italic_text": "The diagram illustrates the process of recycling plastic bottles into new products."
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "In the final stages, the cleaned plastic fragments are processed into pellets and heated to create raw material for manufacturing new products.",
+      "italic_text": "In the final stages, the cleaned plastic fragments are processed into pellets and heated to create raw material for manufacturing new products."
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "At the beginning of the process, plastic bottles are discarded in recycling bins before being collected by garbage trucks.",
+      "italic_text": "At the beginning of the process, plastic bottles are discarded in recycling bins before being collected by garbage trucks."
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "The bottles are then transported to a recycling centre, where they are sorted.",
+      "italic_text": "The bottles are then transported to a recycling centre, where they are sorted."
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "Following this, the selected bottles are compressed into blocks, crushed into small pieces, and washed thoroughly.",
+      "italic_text": "Following this, the selected bottles are compressed into blocks, crushed into small pieces, and washed thoroughly."
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "Next, the cleaned plastic fragments are processed into plastic pellets, which are subsequently heated to create raw material.",
+      "italic_text": "Next, the cleaned plastic fragments are processed into plastic pellets, which are subsequently heated to create raw material."
+    },
+    {
+      "paragraph_index": 35,
+      "paragraph_text": "Finally, the raw material is used to manufacture a variety of products for consumers.",
+      "italic_text": "Finally, the raw material is used to manufacture a variety of products for consumers."
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_answer_paragraphs": [
+    "The diagram illustrates how plastic bottles are recycled, from being thrown into the rubbish bin to producing end products using raw material for consumers.",
+    "The diagram illustrates the process of recycling plastic bottles into new products.",
+    "Overall, the process consists of nine stages, which can be broadly divided into two phases: processing plastic bottles and manufacturing end products from recycled plastic.",
+    "Plastic bottles are first transported and sorted, then compressed into blocks and crushed into small pieces.",
+    "In the final stage, those pieces are crushed into plastic pellets and heated to form raw material, which is used to produce the final products.",
+    "In the final stages, the cleaned plastic fragments are processed into pellets and heated to create raw material for manufacturing new products.",
+    "At the beginning of the process, the plastic bottles are being thrown into the rubbish bin, before the garbage truck come to collect them.",
+    "At the beginning of the process, plastic bottles are discarded in recycling bins before being collected by garbage trucks.",
+    "After that, those wastes are being sorted in the recycling centre and then the bottles are picked out by workers.",
+    "The bottles are then transported to a recycling centre, where they are sorted.",
+    "Follwing this, those bottles are being compressed into blocks and being crushed by the machine into smaller pieces and being washed.",
+    "Following this, the selected bottles are compressed into blocks, crushed into small pieces, and washed thoroughly.",
+    "In the final stage, the washed pieces are put in another device to produce plastic pellets, which are heated in the next step to form raw material.",
+    "Next, the cleaned plastic fragments are processed into plastic pellets, which are subsequently heated to create raw material.",
+    "Finally, raw material is used to manufacture end priducts and sell to the consumers.",
+    "Finally, the raw material is used to manufacture a variety of products for consumers.",
+    "The diagram illustrates the process by which plastic bottles are recycled and transformed into new products.",
+    "Overall, the recycling procedure consists of nine stages, beginning with the disposal and collection of used plastic bottles and ending with the manufacture of various consumer goods. The bottles are sorted, compressed, crushed, and processed into raw plastic material before being reused.",
+    "At the first stage, plastic bottles are discarded in designated recycling bins. They are then collected by garbage trucks and transported to a recycling centre, where recyclable bottles are separated from other waste materials. After sorting, the selected bottles are compressed into large blocks to facilitate transportation and processing.",
+    "Next, the compressed plastic is crushed into small fragments, which are subsequently washed to remove impurities. The clean pieces are then processed into plastic pellets. Following this, the pellets are heated to produce raw plastic material. In the final stage, this material is used to manufacture a range of end products, including bottles, containers, clothing, and other consumer items."
+  ],
+  "counts": {
+    "paragraphs": 23,
+    "comments": 11,
+    "italic_rewrites": 7,
+    "images": 1
+  }
+}

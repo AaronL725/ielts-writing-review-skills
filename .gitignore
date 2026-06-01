@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+/review_plan_*.json
+/ielts_task1_images_*/
+*(reviewed).docx

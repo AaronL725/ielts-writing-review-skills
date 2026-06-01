@@ -1,0 +1,492 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C15T2 Writing Task 1.docx",
+  "title": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "prompt": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.jpeg",
+      "path": "references/sample_images/C15T2_Writing_Task_1_image1.jpeg",
+      "filename": "C15T2_Writing_Task_1_image1.jpeg"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "The chart illustrates the number of visitors of a Caribbean island from 2010 to 2017.",
+      "italic_text": "",
+      "comment_ids": [
+        "0"
+      ]
+    },
+    {
+      "index": 6,
+      "text": "The chart illustrates the number of visitors to a Caribbean island from 2010 to 2017, measured in millions.",
+      "italic_text": "The chart illustrates the number of visitors to a Caribbean island from 2010 to 2017, measured in millions.",
+      "comment_ids": [
+        "1"
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Overall, the number of visitors visiting the island increased steadily over the period.",
+      "italic_text": "",
+      "comment_ids": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Overall, the total number of visitors increased significantly over the period.",
+      "italic_text": "Overall, the total number of visitors increased significantly over the period.",
+      "comment_ids": [
+        "4"
+      ]
+    },
+    {
+      "index": 11,
+      "text": "In addition, tourists staying on cruise ships recorded the lowest figure, at approximately a quarter of a million, while the number of visitors staying on the island remained below 1.5 million.",
+      "italic_text": "",
+      "comment_ids": [
+        "5"
+      ]
+    },
+    {
+      "index": 12,
+      "text": "In addition, visitors staying on cruise ships started at the lowest level but grew rapidly, while those staying on the island increased more gradually and then stabilized.",
+      "italic_text": "In addition, visitors staying on cruise ships started at the lowest level but grew rapidly, while those staying on the island increased more gradually and then stabilized.",
+      "comment_ids": [
+        "6"
+      ]
+    },
+    {
+      "index": 14,
+      "text": "In terms of visitors staying on cruise ships, it had a slight decline in 2012 which brought the number back to an all times low at around 0.25 million.",
+      "italic_text": "",
+      "comment_ids": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "index": 15,
+      "text": "In terms of visitors staying on cruise ships, the figure declined slightly in 2012, falling to an all-time low of around 0.25 million.",
+      "italic_text": "In terms of visitors staying on cruise ships, the figure declined slightly in 2012, falling to an all-time low of around 0.25 million.",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "However, the figure increased rapidly with a steady pace and reached the highest point, at 2 million, after surpassed the number of tourists staying on the island in 2016.",
+      "italic_text": "",
+      "comment_ids": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "index": 18,
+      "text": "However, the figure then increased rapidly and reached a peak of 2 million in 2017, after surpassing the number of visitors staying on the island in 2016.",
+      "italic_text": "However, the figure then increased rapidly and reached a peak of 2 million in 2017, after surpassing the number of visitors staying on the island in 2016.",
+      "comment_ids": [
+        "11"
+      ]
+    },
+    {
+      "index": 20,
+      "text": "Regarding visitors staying on the island, after stayed constant between 2010 and 2011, the figure started to grow gradually till 2013.",
+      "italic_text": "",
+      "comment_ids": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "Regarding visitors staying on the island, after remaining stable between 2010 and 2011, the figure grew gradually until 2013.",
+      "italic_text": "Regarding visitors staying on the island, after remaining stable between 2010 and 2011, the figure grew gradually until 2013.",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "In comparison with a significant climb of the number of visitors on cruise ships, the growing trend stopped and the figure became stable, only showed little drop in 2016 but recovered quickly. (169 words)",
+      "italic_text": "",
+      "comment_ids": [
+        "14",
+        "15",
+        "16"
+      ]
+    },
+    {
+      "index": 24,
+      "text": "In contrast to the sharp increase in cruise ship visitors, this figure stabilized after 2013. It showed a slight decline in 2016 before recovering in the following year.",
+      "italic_text": "In contrast to the sharp increase in cruise ship visitors, this figure stabilized after 2013. It showed a slight decline in 2016 before recovering in the following year.",
+      "comment_ids": []
+    },
+    {
+      "index": 26,
+      "text": "1. Grammar accuracy",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 27,
+      "text": "You have several small errors:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 28,
+      "text": "“after stayed”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "“after surpassed”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 30,
+      "text": "article/preposition issues",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 32,
+      "text": "2. Lexical resource",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "Good range, but:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 34,
+      "text": "Avoid repetition (“visitors visiting”)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 35,
+      "text": "Use more natural collocations:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 36,
+      "text": "grew gradually",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 37,
+      "text": "reached a peak",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "remained stable",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 40,
+      "text": "3. Cohesion & sentence control",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "Some sentences are too long and unclear",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 42,
+      "text": "Break them into shorter, clearer ones",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 44,
+      "text": "4. Overview quality",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 45,
+      "text": "Focus on main trends, not numbers",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 46,
+      "text": "Include comparisons",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 48,
+      "text": "The line graph illustrates the number of tourists visiting a Caribbean island between 2010 and 2017, measured in millions, and distinguishes between visitors staying on cruise ships and those staying on the island.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 49,
+      "text": "Overall, the total number of tourists increased substantially over the period. While visitors staying on the island initially made up the majority, the number of cruise ship tourists rose rapidly and eventually overtook them. In contrast, the figure for those staying on the island grew more moderately before leveling off.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 50,
+      "text": "In 2010, approximately 0.75 million tourists stayed on the island, compared to only 0.25 million cruise ship visitors, giving a total of around 1 million. The number of visitors staying on the island increased steadily to about 1.5 million by 2013, after which it remained relatively stable, with a slight dip in 2016 before recovering in the final year.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 51,
+      "text": "By comparison, the number of tourists staying on cruise ships remained low and even declined slightly in 2012, falling to around 0.25 million. However, from 2013 onwards, this figure rose sharply, reaching 1 million in 2014 and continuing to climb to 2 million by 2017. Notably, cruise ship visitors surpassed those staying on the island in 2016. (184)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:36:00Z",
+      "target": "number of visitors of",
+      "paragraph_index": 5,
+      "paragraph_text": "The chart illustrates the number of visitors of a Caribbean island from 2010 to 2017.",
+      "text": "“visitors to” is the correct collocation"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:37:00Z",
+      "target": "in millions.",
+      "paragraph_index": 6,
+      "paragraph_text": "The chart illustrates the number of visitors to a Caribbean island from 2010 to 2017, measured in millions.",
+      "text": "Including units improves Task Achievement"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:37:00Z",
+      "target": "visitors visiting",
+      "paragraph_index": 8,
+      "paragraph_text": "Overall, the number of visitors visiting the island increased steadily over the period.",
+      "text": "Repetition: “visitors visiting”"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:38:00Z",
+      "target": "steadily",
+      "paragraph_index": 8,
+      "paragraph_text": "Overall, the number of visitors visiting the island increased steadily over the period.",
+      "text": "“steadily” is slightly inaccurate (growth wasn’t perfectly steady)"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:38:00Z",
+      "target": "significantly",
+      "paragraph_index": 9,
+      "paragraph_text": "Overall, the total number of visitors increased significantly over the period.",
+      "text": "“significantly” is safer and more accurate"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:39:00Z",
+      "target": "In addition",
+      "paragraph_index": 11,
+      "paragraph_text": "In addition, tourists staying on cruise ships recorded the lowest figure, at approximately a quarter of a million, while the number of visitors staying on the island remained below 1.5 million.",
+      "text": "Overview should focus on main trends, not too many specific numbers"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:40:00Z",
+      "target": "while",
+      "paragraph_index": 12,
+      "paragraph_text": "In addition, visitors staying on cruise ships started at the lowest level but grew rapidly, while those staying on the island increased more gradually and then stabilized.",
+      "text": "Don’t forget to show comparison"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:42:00Z",
+      "target": "it",
+      "paragraph_index": 14,
+      "paragraph_text": "In terms of visitors staying on cruise ships, it had a slight decline in 2012 which brought the number back to an all times low at around 0.25 million.",
+      "text": "“it” might be unclear – you want the examiner to know you are referring to the number of visitors"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:43:00Z",
+      "target": "all times low",
+      "paragraph_index": 14,
+      "paragraph_text": "In terms of visitors staying on cruise ships, it had a slight decline in 2012 which brought the number back to an all times low at around 0.25 million.",
+      "text": "“all-time low” would be the correct term"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:49:00Z",
+      "target": ", at",
+      "paragraph_index": 17,
+      "paragraph_text": "However, the figure increased rapidly with a steady pace and reached the highest point, at 2 million, after surpassed the number of tourists staying on the island in 2016.",
+      "text": "Of 2 millions"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:47:00Z",
+      "target": "after surpassed",
+      "paragraph_index": 17,
+      "paragraph_text": "However, the figure increased rapidly with a steady pace and reached the highest point, at 2 million, after surpassed the number of tourists staying on the island in 2016.",
+      "text": "after surpassing"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:50:00Z",
+      "target": "in 2017",
+      "paragraph_index": 18,
+      "paragraph_text": "However, the figure then increased rapidly and reached a peak of 2 million in 2017, after surpassing the number of visitors staying on the island in 2016.",
+      "text": "you would want to give an accurate timeline"
+    },
+    {
+      "id": "12",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:51:00Z",
+      "target": "stayed",
+      "paragraph_index": 20,
+      "paragraph_text": "Regarding visitors staying on the island, after stayed constant between 2010 and 2011, the figure started to grow gradually till 2013.",
+      "text": "staying"
+    },
+    {
+      "id": "13",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:50:00Z",
+      "target": "till",
+      "paragraph_index": 20,
+      "paragraph_text": "Regarding visitors staying on the island, after stayed constant between 2010 and 2011, the figure started to grow gradually till 2013.",
+      "text": "informal (use “until”)"
+    },
+    {
+      "id": "14",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:53:00Z",
+      "target": "In comparison",
+      "paragraph_index": 23,
+      "paragraph_text": "In comparison with a significant climb of the number of visitors on cruise ships, the growing trend stopped and the figure became stable, only showed little drop in 2016 but recovered quickly. (169 words)",
+      "text": "‘in comparison’ shows similarity, ‘in contrast’ shows difference. That would be the phrase you are looking for."
+    },
+    {
+      "id": "15",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:54:00Z",
+      "target": "only showed little drop",
+      "paragraph_index": 23,
+      "paragraph_text": "In comparison with a significant climb of the number of visitors on cruise ships, the growing trend stopped and the figure became stable, only showed little drop in 2016 but recovered quickly. (169 words)",
+      "text": "incorrect grammar"
+    },
+    {
+      "id": "16",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-29T05:52:00Z",
+      "target": ".",
+      "paragraph_index": 23,
+      "paragraph_text": "In comparison with a significant climb of the number of visitors on cruise ships, the growing trend stopped and the figure became stable, only showed little drop in 2016 but recovered quickly. (169 words)",
+      "text": "try to avoid very long, hard-to-follow sentence"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "The chart illustrates the number of visitors to a Caribbean island from 2010 to 2017, measured in millions.",
+      "italic_text": "The chart illustrates the number of visitors to a Caribbean island from 2010 to 2017, measured in millions."
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "Overall, the total number of visitors increased significantly over the period.",
+      "italic_text": "Overall, the total number of visitors increased significantly over the period."
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "In addition, visitors staying on cruise ships started at the lowest level but grew rapidly, while those staying on the island increased more gradually and then stabilized.",
+      "italic_text": "In addition, visitors staying on cruise ships started at the lowest level but grew rapidly, while those staying on the island increased more gradually and then stabilized."
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "In terms of visitors staying on cruise ships, the figure declined slightly in 2012, falling to an all-time low of around 0.25 million.",
+      "italic_text": "In terms of visitors staying on cruise ships, the figure declined slightly in 2012, falling to an all-time low of around 0.25 million."
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "However, the figure then increased rapidly and reached a peak of 2 million in 2017, after surpassing the number of visitors staying on the island in 2016.",
+      "italic_text": "However, the figure then increased rapidly and reached a peak of 2 million in 2017, after surpassing the number of visitors staying on the island in 2016."
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "Regarding visitors staying on the island, after remaining stable between 2010 and 2011, the figure grew gradually until 2013.",
+      "italic_text": "Regarding visitors staying on the island, after remaining stable between 2010 and 2011, the figure grew gradually until 2013."
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "In contrast to the sharp increase in cruise ship visitors, this figure stabilized after 2013. It showed a slight decline in 2016 before recovering in the following year.",
+      "italic_text": "In contrast to the sharp increase in cruise ship visitors, this figure stabilized after 2013. It showed a slight decline in 2016 before recovering in the following year."
+    }
+  ],
+  "feedback_paragraphs": [
+    "Avoid repetition (“visitors visiting”)",
+    "Use more natural collocations:",
+    "grew gradually",
+    "reached a peak",
+    "remained stable",
+    "3. Cohesion & sentence control",
+    "Some sentences are too long and unclear",
+    "Break them into shorter, clearer ones",
+    "4. Overview quality",
+    "Focus on main trends, not numbers",
+    "Include comparisons"
+  ],
+  "model_answer_paragraphs": [
+    "The line graph illustrates the number of tourists visiting a Caribbean island between 2010 and 2017, measured in millions, and distinguishes between visitors staying on cruise ships and those staying on the island.",
+    "Overall, the total number of tourists increased substantially over the period. While visitors staying on the island initially made up the majority, the number of cruise ship tourists rose rapidly and eventually overtook them. In contrast, the figure for those staying on the island grew more moderately before leveling off.",
+    "In 2010, approximately 0.75 million tourists stayed on the island, compared to only 0.25 million cruise ship visitors, giving a total of around 1 million. The number of visitors staying on the island increased steadily to about 1.5 million by 2013, after which it remained relatively stable, with a slight dip in 2016 before recovering in the final year.",
+    "By comparison, the number of tourists staying on cruise ships remained low and even declined slightly in 2012, falling to around 0.25 million. However, from 2013 onwards, this figure rose sharply, reaching 1 million in 2014 and continuing to climb to 2 million by 2017. Notably, cruise ship visitors surpassed those staying on the island in 2016. (184)"
+  ],
+  "counts": {
+    "paragraphs": 38,
+    "comments": 17,
+    "italic_rewrites": 8,
+    "images": 1
+  }
+}

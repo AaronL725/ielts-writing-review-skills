@@ -1,0 +1,374 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C15T4 Writing Task 1.docx",
+  "title": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years.",
+  "prompt": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.jpeg",
+      "path": "references/sample_images/C15T4_Writing_Task_1_image1.jpeg",
+      "filename": "C15T4_Writing_Task_1_image1.jpeg"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 6,
+      "text": "The chart illustrates the destinations of Anthropology graduates from one university, while the table demonstrates their salaries after 5 years’ work.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 8,
+      "text": "The pie chart illustrates the destinations of Anthropology graduates from one university after completing their undergraduate degree, while the table shows the salaries of employed graduates after five years of work.",
+      "italic_text": "The pie chart illustrates the destinations of Anthropology graduates from one university after completing their undergraduate degree, while the table shows the salaries of employed graduates after five years of work.",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "“Pie chart” is more specific.",
+      "italic_text": "“Pie chart” is more specific.",
+      "comment_ids": []
+    },
+    {
+      "index": 10,
+      "text": "“shows” sounds more natural than “demonstrates” for T1.",
+      "italic_text": "“shows” sounds more natural than “demonstrates” for T1.",
+      "comment_ids": []
+    },
+    {
+      "index": 11,
+      "text": "“after completing their undergraduate degree” is clearer and more formal.",
+      "italic_text": "“after completing their undergraduate degree” is clearer and more formal.",
+      "comment_ids": []
+    },
+    {
+      "index": 12,
+      "text": "“after five years of work” is more natural than “5 years’ work.”",
+      "italic_text": "“after five years of work” is more natural than “5 years’ work.”",
+      "comment_ids": []
+    },
+    {
+      "index": 14,
+      "text": "Overall, more than half of the graduates are in full-time work after graduation, whereas part-time work combined with postgraduate study is the least common. In terms of salary, anthropologists working in the government sector are the most likely to earn more than $100000 after 5 years.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 16,
+      "text": "Overall, full-time employment was by far the most common destination among graduates, whereas combining part-time work with postgraduate study was the least common option. In terms of salaries, the government sector had the highest proportion of anthropologists earning over $100,000 after five years.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "Consistent past tense “was” instead of “are”",
+      "italic_text": "Consistent past tense “was” instead of “are”",
+      "comment_ids": []
+    },
+    {
+      "index": 18,
+      "text": "Stronger academic phrasing “by far the most common”",
+      "italic_text": "Stronger academic phrasing “by far the most common”",
+      "comment_ids": []
+    },
+    {
+      "index": 19,
+      "text": "More formal vocabulary “destination”, “option”",
+      "italic_text": "More formal vocabulary “destination”, “option”",
+      "comment_ids": []
+    },
+    {
+      "index": 20,
+      "text": "More analytical comparison “highest proportion earning”",
+      "italic_text": "More analytical comparison “highest proportion earning”",
+      "comment_ids": []
+    },
+    {
+      "index": 21,
+      "text": "Correct formatting of large numbers",
+      "italic_text": "Correct formatting of large numbers",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "Regarding the destinations of Anthropology graduates, full-time work accounts for the highest percentage of 52%. Apart from the 8% with unknown destinations, part-time workers and those who are unemployed have similar proportions, at between 10% and 15%. Only 13% of Anthropology graduates continue their study, with 8% in full-time postgraduate students and another 5% with part-time jobs.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "Regarding graduate destinations, full-time employment accounted for the largest proportion, at 52%. Excluding the 8% whose destinations were unknown, the figures for part-time work and unemployment were relatively similar, at 15% and 12% respectively. Meanwhile, 13% of graduates pursued postgraduate study, including 8% studying full-time and 5% combining further study with part-time work.",
+      "italic_text": "Regarding graduate destinations, full-time employment accounted for the largest proportion, at 52%. Excluding the 8% whose destinations were unknown, the figures for part-time work and unemployment were relatively similar, at 15% and 12% respectively. Meanwhile, 13% of graduates pursued postgraduate study, including 8% studying full-time and 5% combining further study with part-time work.",
+      "comment_ids": []
+    },
+    {
+      "index": 26,
+      "text": "Better tense consistency “accounted for”, “pursued”",
+      "italic_text": "Better tense consistency “accounted for”, “pursued”",
+      "comment_ids": []
+    },
+    {
+      "index": 27,
+      "text": "More advanced vocabulary “largest proportion”",
+      "italic_text": "More advanced vocabulary “largest proportion”",
+      "comment_ids": []
+    },
+    {
+      "index": 28,
+      "text": "Exact data reporting instead of vague ranges",
+      "italic_text": "Exact data reporting instead of vague ranges",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "More natural collocations “pursued postgraduate study”",
+      "italic_text": "More natural collocations “pursued postgraduate study”",
+      "comment_ids": []
+    },
+    {
+      "index": 30,
+      "text": "Improved sentence structure and flow",
+      "italic_text": "Improved sentence structure and flow",
+      "comment_ids": []
+    },
+    {
+      "index": 32,
+      "text": "When it comes to salaries, 50% of anthropologists employed by the government sector have a salary of over $100000, which is the highest percentage recorded among all types of employment. The proportion of Anthropology graduates earning lower salaries was higher in private companies compared with the other two types in the $25000-74999 salary range. Freelance consultants have the largest share, at 40%, in the range between $75000 and $99999.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 34,
+      "text": "In terms of earnings, 50% of anthropologists working in the government sector earned over $100,000, representing the highest figure among the three employment types. By contrast, private companies had the highest proportions of lower-paid graduates, with 10% earning $25,000–49,999 and 35% receiving salaries between $50,000 and $74,999. Freelance consultants, meanwhile, recorded the largest share in the $75,000–99,999 range, at 40%.",
+      "italic_text": "In terms of earnings, 50% of anthropologists working in the government sector earned over $100,000, representing the highest figure among the three employment types. By contrast, private companies had the highest proportions of lower-paid graduates, with 10% earning $25,000–49,999 and 35% receiving salaries between $50,000 and $74,999. Freelance consultants, meanwhile, recorded the largest share in the $75,000–99,999 range, at 40%.",
+      "comment_ids": []
+    },
+    {
+      "index": 35,
+      "text": "Better vocabulary variation “earnings”, “lower-paid graduates”",
+      "italic_text": "Better vocabulary variation “earnings”, “lower-paid graduates”",
+      "comment_ids": []
+    },
+    {
+      "index": 36,
+      "text": "More natural collocations “working in the government sector”",
+      "italic_text": "More natural collocations “working in the government sector”",
+      "comment_ids": []
+    },
+    {
+      "index": 37,
+      "text": "Clearer comparisons using linking phrases “By contrast”, “meanwhile”",
+      "italic_text": "Clearer comparisons using linking phrases “By contrast”, “meanwhile”",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "More precise use of statistics",
+      "italic_text": "More precise use of statistics",
+      "comment_ids": []
+    },
+    {
+      "index": 39,
+      "text": "Stronger academic style overall",
+      "italic_text": "Stronger academic style overall",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "The pie chart illustrates the destinations of Anthropology graduates from a particular university after completing their undergraduate studies, while the table compares the salaries of employed anthropologists after five years of work.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 42,
+      "text": "Overall, full-time employment was by far the most common destination among graduates, whereas combining part-time work with postgraduate study was the least popular choice. In terms of earnings, anthropologists working in the government sector were the most likely to receive salaries exceeding $100,000 after five years.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 43,
+      "text": "In detail, just over half of the graduates (52%) secured full-time employment after graduation. Part-time work was the second most common outcome, accounting for 15% of graduates, while 12% were unemployed. A further 8% pursued full-time postgraduate study, compared with only 5% who combined part-time work with further education. The destinations of the remaining 8% were not known.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 44,
+      "text": "Regarding salaries, government employees earned the highest incomes overall, with exactly half receiving salaries of more than $100,000 annually. By contrast, freelance consultants and those employed by private companies recorded figures of 40% and 30% respectively in this salary bracket. Freelance consultants were particularly concentrated in the $75,000–99,999 range, where 40% earned salaries at this level, compared with 30% of government employees and 25% of those in private companies. Meanwhile, private companies had the largest proportion of employees earning between $50,000 and $74,999, at 35%.(222)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "The pie chart illustrates the destinations of Anthropology graduates from one university after completing their undergraduate degree, while the table shows the salaries of employed graduates after five years of work.",
+      "italic_text": "The pie chart illustrates the destinations of Anthropology graduates from one university after completing their undergraduate degree, while the table shows the salaries of employed graduates after five years of work."
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "“Pie chart” is more specific.",
+      "italic_text": "“Pie chart” is more specific."
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "“shows” sounds more natural than “demonstrates” for T1.",
+      "italic_text": "“shows” sounds more natural than “demonstrates” for T1."
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "“after completing their undergraduate degree” is clearer and more formal.",
+      "italic_text": "“after completing their undergraduate degree” is clearer and more formal."
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "“after five years of work” is more natural than “5 years’ work.”",
+      "italic_text": "“after five years of work” is more natural than “5 years’ work.”"
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "Consistent past tense “was” instead of “are”",
+      "italic_text": "Consistent past tense “was” instead of “are”"
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "Stronger academic phrasing “by far the most common”",
+      "italic_text": "Stronger academic phrasing “by far the most common”"
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "More formal vocabulary “destination”, “option”",
+      "italic_text": "More formal vocabulary “destination”, “option”"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "More analytical comparison “highest proportion earning”",
+      "italic_text": "More analytical comparison “highest proportion earning”"
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "Correct formatting of large numbers",
+      "italic_text": "Correct formatting of large numbers"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "Regarding graduate destinations, full-time employment accounted for the largest proportion, at 52%. Excluding the 8% whose destinations were unknown, the figures for part-time work and unemployment were relatively similar, at 15% and 12% respectively. Meanwhile, 13% of graduates pursued postgraduate study, including 8% studying full-time and 5% combining further study with part-time work.",
+      "italic_text": "Regarding graduate destinations, full-time employment accounted for the largest proportion, at 52%. Excluding the 8% whose destinations were unknown, the figures for part-time work and unemployment were relatively similar, at 15% and 12% respectively. Meanwhile, 13% of graduates pursued postgraduate study, including 8% studying full-time and 5% combining further study with part-time work."
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "Better tense consistency “accounted for”, “pursued”",
+      "italic_text": "Better tense consistency “accounted for”, “pursued”"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "More advanced vocabulary “largest proportion”",
+      "italic_text": "More advanced vocabulary “largest proportion”"
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "Exact data reporting instead of vague ranges",
+      "italic_text": "Exact data reporting instead of vague ranges"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "More natural collocations “pursued postgraduate study”",
+      "italic_text": "More natural collocations “pursued postgraduate study”"
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "Improved sentence structure and flow",
+      "italic_text": "Improved sentence structure and flow"
+    },
+    {
+      "paragraph_index": 34,
+      "paragraph_text": "In terms of earnings, 50% of anthropologists working in the government sector earned over $100,000, representing the highest figure among the three employment types. By contrast, private companies had the highest proportions of lower-paid graduates, with 10% earning $25,000–49,999 and 35% receiving salaries between $50,000 and $74,999. Freelance consultants, meanwhile, recorded the largest share in the $75,000–99,999 range, at 40%.",
+      "italic_text": "In terms of earnings, 50% of anthropologists working in the government sector earned over $100,000, representing the highest figure among the three employment types. By contrast, private companies had the highest proportions of lower-paid graduates, with 10% earning $25,000–49,999 and 35% receiving salaries between $50,000 and $74,999. Freelance consultants, meanwhile, recorded the largest share in the $75,000–99,999 range, at 40%."
+    },
+    {
+      "paragraph_index": 35,
+      "paragraph_text": "Better vocabulary variation “earnings”, “lower-paid graduates”",
+      "italic_text": "Better vocabulary variation “earnings”, “lower-paid graduates”"
+    },
+    {
+      "paragraph_index": 36,
+      "paragraph_text": "More natural collocations “working in the government sector”",
+      "italic_text": "More natural collocations “working in the government sector”"
+    },
+    {
+      "paragraph_index": 37,
+      "paragraph_text": "Clearer comparisons using linking phrases “By contrast”, “meanwhile”",
+      "italic_text": "Clearer comparisons using linking phrases “By contrast”, “meanwhile”"
+    },
+    {
+      "paragraph_index": 38,
+      "paragraph_text": "More precise use of statistics",
+      "italic_text": "More precise use of statistics"
+    },
+    {
+      "paragraph_index": 39,
+      "paragraph_text": "Stronger academic style overall",
+      "italic_text": "Stronger academic style overall"
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_answer_paragraphs": [
+    "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years.",
+    "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "Write at least 150 words.",
+    "The chart illustrates the destinations of Anthropology graduates from one university, while the table demonstrates their salaries after 5 years’ work.",
+    "The pie chart illustrates the destinations of Anthropology graduates from one university after completing their undergraduate degree, while the table shows the salaries of employed graduates after five years of work.",
+    "“Pie chart” is more specific.",
+    "“shows” sounds more natural than “demonstrates” for T1.",
+    "“after completing their undergraduate degree” is clearer and more formal.",
+    "“after five years of work” is more natural than “5 years’ work.”",
+    "Overall, more than half of the graduates are in full-time work after graduation, whereas part-time work combined with postgraduate study is the least common. In terms of salary, anthropologists working in the government sector are the most likely to earn more than $100000 after 5 years.",
+    "Overall, full-time employment was by far the most common destination among graduates, whereas combining part-time work with postgraduate study was the least common option. In terms of salaries, the government sector had the highest proportion of anthropologists earning over $100,000 after five years.",
+    "Consistent past tense “was” instead of “are”",
+    "Stronger academic phrasing “by far the most common”",
+    "More formal vocabulary “destination”, “option”",
+    "More analytical comparison “highest proportion earning”",
+    "Correct formatting of large numbers",
+    "Regarding the destinations of Anthropology graduates, full-time work accounts for the highest percentage of 52%. Apart from the 8% with unknown destinations, part-time workers and those who are unemployed have similar proportions, at between 10% and 15%. Only 13% of Anthropology graduates continue their study, with 8% in full-time postgraduate students and another 5% with part-time jobs.",
+    "Regarding graduate destinations, full-time employment accounted for the largest proportion, at 52%. Excluding the 8% whose destinations were unknown, the figures for part-time work and unemployment were relatively similar, at 15% and 12% respectively. Meanwhile, 13% of graduates pursued postgraduate study, including 8% studying full-time and 5% combining further study with part-time work.",
+    "Better tense consistency “accounted for”, “pursued”",
+    "More advanced vocabulary “largest proportion”",
+    "Exact data reporting instead of vague ranges",
+    "More natural collocations “pursued postgraduate study”",
+    "Improved sentence structure and flow",
+    "When it comes to salaries, 50% of anthropologists employed by the government sector have a salary of over $100000, which is the highest percentage recorded among all types of employment. The proportion of Anthropology graduates earning lower salaries was higher in private companies compared with the other two types in the $25000-74999 salary range. Freelance consultants have the largest share, at 40%, in the range between $75000 and $99999.",
+    "In terms of earnings, 50% of anthropologists working in the government sector earned over $100,000, representing the highest figure among the three employment types. By contrast, private companies had the highest proportions of lower-paid graduates, with 10% earning $25,000–49,999 and 35% receiving salaries between $50,000 and $74,999. Freelance consultants, meanwhile, recorded the largest share in the $75,000–99,999 range, at 40%.",
+    "Better vocabulary variation “earnings”, “lower-paid graduates”",
+    "More natural collocations “working in the government sector”",
+    "Clearer comparisons using linking phrases “By contrast”, “meanwhile”",
+    "More precise use of statistics",
+    "Stronger academic style overall",
+    "The pie chart illustrates the destinations of Anthropology graduates from a particular university after completing their undergraduate studies, while the table compares the salaries of employed anthropologists after five years of work.",
+    "Overall, full-time employment was by far the most common destination among graduates, whereas combining part-time work with postgraduate study was the least popular choice. In terms of earnings, anthropologists working in the government sector were the most likely to receive salaries exceeding $100,000 after five years.",
+    "In detail, just over half of the graduates (52%) secured full-time employment after graduation. Part-time work was the second most common outcome, accounting for 15% of graduates, while 12% were unemployed. A further 8% pursued full-time postgraduate study, compared with only 5% who combined part-time work with further education. The destinations of the remaining 8% were not known.",
+    "Regarding salaries, government employees earned the highest incomes overall, with exactly half receiving salaries of more than $100,000 annually. By contrast, freelance consultants and those employed by private companies recorded figures of 40% and 30% respectively in this salary bracket. Freelance consultants were particularly concentrated in the $75,000–99,999 range, where 40% earned salaries at this level, compared with 30% of government employees and 25% of those in private companies. Meanwhile, private companies had the largest proportion of employees earning between $50,000 and $74,999, at 35%.(222)"
+  ],
+  "counts": {
+    "paragraphs": 34,
+    "comments": 0,
+    "italic_rewrites": 22,
+    "images": 1
+  }
+}

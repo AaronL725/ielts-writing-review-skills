@@ -1,0 +1,309 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C16T1 Writing Task 1.docx",
+  "title": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "prompt": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.png",
+      "path": "references/sample_images/C16T1_Writing_Task_1_image1.png",
+      "filename": "C16T1_Writing_Task_1_image1.png"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "The line chart illustrates the percentage of households owning electrical appliances and the amount of time spent on housework per household in one country over a century from 1920 to 2019.",
+      "italic_text": "",
+      "comment_ids": [
+        "0"
+      ]
+    },
+    {
+      "index": 7,
+      "text": "The line chart shows the percentage of households owning electrical appliances and the number of hours spent on housework per week in one country between 1920 and 2019.",
+      "italic_text": "The line chart shows the percentage of households owning electrical appliances and the number of hours spent on housework per week in one country between 1920 and 2019.",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "Overall, the proportion of households with all kinds of electrical appliances showed an rising trend, and the figure for refrigerator increased from the lowest to the highest during this period.  The number of hours of housework per week per household decreased steadily throughout the 100 years.",
+      "italic_text": "",
+      "comment_ids": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Overall, ownership of all electrical appliances increased over the period, with refrigerators rising from the lowest level to near universal ownership. In contrast, the number of hours spent on housework declined steadily throughout the period.",
+      "italic_text": "Overall, ownership of all electrical appliances increased over the period, with refrigerators rising from the lowest level to near universal ownership. In contrast, the number of hours spent on housework declined steadily throughout the period.",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "In 1920, the lowest percentage was for refrigerators, at slightly above 0%.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 15,
+      "text": "Washing machines and vacuum cleaners had relatively higher percentage, at around 40% and 30% respectively.",
+      "italic_text": "",
+      "comment_ids": [
+        "3"
+      ]
+    },
+    {
+      "index": 17,
+      "text": "Washing machines and vacuum cleaners had higher ownership levels, at around 40% and 30% respectively.",
+      "italic_text": "Washing machines and vacuum cleaners had higher ownership levels, at around 40% and 30% respectively.",
+      "comment_ids": []
+    },
+    {
+      "index": 19,
+      "text": "Around 1980, the figure of refrigerators reached its highest level, at approximately 100, and remained at the level in the following 40 years.",
+      "italic_text": "",
+      "comment_ids": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "By 1980, refrigerator ownership had reached almost 100% and remained at this level for the rest of the period.",
+      "italic_text": "By 1980, refrigerator ownership had reached almost 100% and remained at this level for the rest of the period.",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "Regarding washing machines, despite a slight drop to under 70 in 1980, the proportion resumed its climbing trend after that.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "The percentage of vacuum cleaners grew rapidly from 30 to 100 from 1920 to 2000 and remained steady.",
+      "italic_text": "",
+      "comment_ids": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Vacuum cleaner ownership rose rapidly from 30% to 100% between 1920 and 2000 and then remained stable.",
+      "italic_text": "Vacuum cleaner ownership rose rapidly from 30% to 100% between 1920 and 2000 and then remained stable.",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "The number of hours of household per household per week recorded the highest figure of 50 in 1920, followed by a significant decline to the lowest, at around 10, in 2019.",
+      "italic_text": "",
+      "comment_ids": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "index": 30,
+      "text": "The number of hours spent on housework per household was highest at 50 hours per week in 1920, before falling significantly to around 10 hours in 2019.",
+      "italic_text": "The number of hours spent on housework per household was highest at 50 hours per week in 1920, before falling significantly to around 10 hours in 2019.",
+      "comment_ids": []
+    },
+    {
+      "index": 32,
+      "text": "Your essay shows a good understanding of the main trends, and you successfully include key data and comparisons, which is essential for Band 7. Your overview is present and generally accurate, and your structure is logical and easy to follow. You organise information clearly between appliance ownership and housework time, which is effective.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "However, your main weakness is accuracy and precision in language. There are several grammatical and expression issues. You also sometimes omit important details like percentage signs, which is critical in Task 1. In addition, some expressions are awkward or unnatural, which could be replaced with more standard academic phrasing.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 34,
+      "text": "To reach a consistent Band 7, you need to focus on precise data description, correct grammar in trend expressions, and more natural vocabulary.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 36,
+      "text": "The line graph compares the proportion of households owning three types of electrical appliances—refrigerators, washing machines, and vacuum cleaners—with the average time spent on housework per household in one country between 1920 and 2019.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "Overall, ownership of all electrical appliances increased dramatically over the period, with refrigerators and vacuum cleaners eventually reaching full penetration. In contrast, the amount of time spent on housework declined steadily and significantly.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 40,
+      "text": "In 1920, refrigerator ownership was negligible at just over 0%, while washing machines and vacuum cleaners were more common, at approximately 40% and 30% respectively. Over the following decades, all appliances became increasingly widespread. Refrigerator ownership rose sharply and reached almost 100% by 1980, remaining stable thereafter. Vacuum cleaners followed a similar pattern, increasing steadily to 100% by 2000 and then levelling off. Although washing machine ownership experienced a slight decline to just under 70% around 1980, it subsequently recovered and continued to rise.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 42,
+      "text": "In contrast, the average weekly time spent on housework per household fell dramatically from 50 hours in 1920 to approximately 10 hours in 2019, reflecting the growing impact of domestic technology. (184)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:35:00Z",
+      "target": ".",
+      "paragraph_index": 5,
+      "paragraph_text": "The line chart illustrates the percentage of households owning electrical appliances and the amount of time spent on housework per household in one country over a century from 1920 to 2019.",
+      "text": "Good task understanding, but slightly wordy - “per household” is repeated indirectly,\nover a century from…is a bit awkward."
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:36:00Z",
+      "target": "an",
+      "paragraph_index": 9,
+      "paragraph_text": "Overall, the proportion of households with all kinds of electrical appliances showed an rising trend, and the figure for refrigerator increased from the lowest to the highest during this period.  The number of hours of housework per week per household decreased steadily throughout the 100 years.",
+      "text": "a"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:37:00Z",
+      "target": ".",
+      "paragraph_index": 9,
+      "paragraph_text": "Overall, the proportion of households with all kinds of electrical appliances showed an rising trend, and the figure for refrigerator increased from the lowest to the highest during this period.  The number of hours of housework per week per household decreased steadily throughout the 100 years.",
+      "text": "Slight over-detailing for an overview"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:39:00Z",
+      "target": "percentage",
+      "paragraph_index": 15,
+      "paragraph_text": "Washing machines and vacuum cleaners had relatively higher percentage, at around 40% and 30% respectively.",
+      "text": "percentages"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:40:00Z",
+      "target": "100",
+      "paragraph_index": 19,
+      "paragraph_text": "Around 1980, the figure of refrigerators reached its highest level, at approximately 100, and remained at the level in the following 40 years.",
+      "text": "100%"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:41:00Z",
+      "target": "at the level",
+      "paragraph_index": 19,
+      "paragraph_text": "Around 1980, the figure of refrigerators reached its highest level, at approximately 100, and remained at the level in the following 40 years.",
+      "text": "repetition"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:42:00Z",
+      "target": "30 to 100",
+      "paragraph_index": 25,
+      "paragraph_text": "The percentage of vacuum cleaners grew rapidly from 30 to 100 from 1920 to 2000 and remained steady.",
+      "text": "missing 100%"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:42:00Z",
+      "target": "from 1920 to 2000",
+      "paragraph_index": 25,
+      "paragraph_text": "The percentage of vacuum cleaners grew rapidly from 30 to 100 from 1920 to 2000 and remained steady.",
+      "text": "repetition “from…to…from…to…”"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:45:00Z",
+      "target": "hours of household",
+      "paragraph_index": 29,
+      "paragraph_text": "The number of hours of household per household per week recorded the highest figure of 50 in 1920, followed by a significant decline to the lowest, at around 10, in 2019.",
+      "text": "unnatural phrasing"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-11T21:44:00Z",
+      "target": "household per household",
+      "paragraph_index": 29,
+      "paragraph_text": "The number of hours of household per household per week recorded the highest figure of 50 in 1920, followed by a significant decline to the lowest, at around 10, in 2019.",
+      "text": "repetition"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "The line chart shows the percentage of households owning electrical appliances and the number of hours spent on housework per week in one country between 1920 and 2019.",
+      "italic_text": "The line chart shows the percentage of households owning electrical appliances and the number of hours spent on housework per week in one country between 1920 and 2019."
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "Overall, ownership of all electrical appliances increased over the period, with refrigerators rising from the lowest level to near universal ownership. In contrast, the number of hours spent on housework declined steadily throughout the period.",
+      "italic_text": "Overall, ownership of all electrical appliances increased over the period, with refrigerators rising from the lowest level to near universal ownership. In contrast, the number of hours spent on housework declined steadily throughout the period."
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "Washing machines and vacuum cleaners had higher ownership levels, at around 40% and 30% respectively.",
+      "italic_text": "Washing machines and vacuum cleaners had higher ownership levels, at around 40% and 30% respectively."
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "By 1980, refrigerator ownership had reached almost 100% and remained at this level for the rest of the period.",
+      "italic_text": "By 1980, refrigerator ownership had reached almost 100% and remained at this level for the rest of the period."
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "Vacuum cleaner ownership rose rapidly from 30% to 100% between 1920 and 2000 and then remained stable.",
+      "italic_text": "Vacuum cleaner ownership rose rapidly from 30% to 100% between 1920 and 2000 and then remained stable."
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "The number of hours spent on housework per household was highest at 50 hours per week in 1920, before falling significantly to around 10 hours in 2019.",
+      "italic_text": "The number of hours spent on housework per household was highest at 50 hours per week in 1920, before falling significantly to around 10 hours in 2019."
+    }
+  ],
+  "feedback_paragraphs": [
+    "Your essay shows a good understanding of the main trends, and you successfully include key data and comparisons, which is essential for Band 7. Your overview is present and generally accurate, and your structure is logical and easy to follow. You organise information clearly between appliance ownership and housework time, which is effective."
+  ],
+  "model_answer_paragraphs": [
+    "However, your main weakness is accuracy and precision in language. There are several grammatical and expression issues. You also sometimes omit important details like percentage signs, which is critical in Task 1. In addition, some expressions are awkward or unnatural, which could be replaced with more standard academic phrasing.",
+    "To reach a consistent Band 7, you need to focus on precise data description, correct grammar in trend expressions, and more natural vocabulary.",
+    "The line graph compares the proportion of households owning three types of electrical appliances—refrigerators, washing machines, and vacuum cleaners—with the average time spent on housework per household in one country between 1920 and 2019.",
+    "Overall, ownership of all electrical appliances increased dramatically over the period, with refrigerators and vacuum cleaners eventually reaching full penetration. In contrast, the amount of time spent on housework declined steadily and significantly.",
+    "In 1920, refrigerator ownership was negligible at just over 0%, while washing machines and vacuum cleaners were more common, at approximately 40% and 30% respectively. Over the following decades, all appliances became increasingly widespread. Refrigerator ownership rose sharply and reached almost 100% by 1980, remaining stable thereafter. Vacuum cleaners followed a similar pattern, increasing steadily to 100% by 2000 and then levelling off. Although washing machine ownership experienced a slight decline to just under 70% around 1980, it subsequently recovered and continued to rise.",
+    "In contrast, the average weekly time spent on housework per household fell dramatically from 50 hours in 1920 to approximately 10 hours in 2019, reflecting the growing impact of domestic technology. (184)"
+  ],
+  "counts": {
+    "paragraphs": 23,
+    "comments": 10,
+    "italic_rewrites": 6,
+    "images": 1
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C16T2 Writing Task 1.docx",
+  "title": "The diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "prompt": "The diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_part": "word/media/image1.jpeg",
+      "path": "references/sample_images/C16T2_Writing_Task_1_image1.jpeg",
+      "filename": "C16T2_Writing_Task_1_image1.jpeg"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "The diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 2,
+      "text": "Write at least 150 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "The diagram illustrates how sugar is manufactured from sugar cane, from the initial planting of sugar canes to the final drying and cooling of the product – sugar.",
+      "italic_text": "",
+      "comment_ids": [
+        "0"
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Overall, the production involves seven stages, which can be broadly divided into two phases: producing sugar cane juice and extracting sugar from the juice.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "Sugar cane is first crushed into juice after 12-18 months of growth and harvesting by farmers and harvesters.",
+      "italic_text": "",
+      "comment_ids": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "index": 11,
+      "text": "After growing for 12–18 months, the sugar cane is harvested either manually or mechanically before being crushed to extract the juice.",
+      "italic_text": "After growing for 12–18 months, the sugar cane is harvested either manually or mechanically before being crushed to extract the juice.",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "In the final stage, the juice is purified and heated to produce syrup, which is then centrifuged, dried and cooled to form sugar.",
+      "italic_text": "",
+      "comment_ids": [
+        "3"
+      ]
+    },
+    {
+      "index": 15,
+      "text": "The extracted juice is then purified and heated to form syrup, after which a centrifuge separates the sugar crystals before they are dried and cooled.",
+      "italic_text": "The extracted juice is then purified and heated to form syrup, after which a centrifuge separates the sugar crystals before they are dried and cooled.",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "At the beginning of the process, sugar canes need to be grew for 12-18 months to become mature.",
+      "italic_text": "",
+      "comment_ids": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "index": 19,
+      "text": "At the first stage, sugar cane is cultivated for 12–18 months until it reaches maturity.",
+      "italic_text": "At the first stage, sugar cane is cultivated for 12–18 months until it reaches maturity.",
+      "comment_ids": []
+    },
+    {
+      "index": 21,
+      "text": "After that, the fully-grown sugar canes are cut down by farmers and harvesters, before being loaded.",
+      "italic_text": "",
+      "comment_ids": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "index": 23,
+      "text": "The mature crop is then harvested either by hand or with harvesting machines before being transported for processing.",
+      "italic_text": "The mature crop is then harvested either by hand or with harvesting machines before being transported for processing.",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "Following this, sugar cane gathered is crushed by the machine and made into juice for the next stage process.",
+      "italic_text": "",
+      "comment_ids": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Next, the harvested sugar cane is crushed in a mill to extract the juice for the following stage.",
+      "italic_text": "Next, the harvested sugar cane is crushed in a mill to extract the juice for the following stage.",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "In the subsequent stage, the juice is purified using limestone filter and then heated in the evaporator so that the juice becomes syrup.",
+      "italic_text": "",
+      "comment_ids": [
+        "11"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "The juice is subsequently purified through a limestone filter before being heated in an evaporator, where it thickens into syrup.",
+      "italic_text": "The juice is subsequently purified through a limestone filter before being heated in an evaporator, where it thickens into syrup.",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "After the centrifuge helps separate sugar crystals from syrup, the intermediate product is made into sugar trough drying and cooling.",
+      "italic_text": "",
+      "comment_ids": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "index": 35,
+      "text": "Finally, a centrifuge separates the sugar crystals from the syrup, and the crystals are then dried and cooled to produce sugar.",
+      "italic_text": "Finally, a centrifuge separates the sugar crystals from the syrup, and the crystals are then dried and cooled to produce sugar.",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "The diagram illustrates the process used to produce sugar from sugar cane.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 40,
+      "text": "Overall, the production of sugar consists of seven stages, beginning with the cultivation of sugar cane and ending with the drying and cooling of sugar crystals. Broadly speaking, the process can be divided into two phases: extracting juice from the sugar cane and converting this liquid into sugar.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 42,
+      "text": "At the first stage, sugar cane is grown for a period of 12 to 18 months until it reaches maturity. Once fully grown, the crop is harvested either manually, with workers cutting the stalks by hand, or mechanically using harvesting machines. The harvested sugar cane is then transported to a mill, where it is crushed in order to extract the juice.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 44,
+      "text": "In the next stage, the juice passes through a limestone filter to remove impurities. The purified liquid is then heated in an evaporator, causing it to thicken into syrup. Following this, the syrup is placed in a centrifuge, which separates the sugar crystals from the remaining liquid. Finally, the crystals undergo drying and cooling processes, resulting in the finished sugar product.(182)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:44:00Z",
+      "target": "sugar canes",
+      "paragraph_index": 5,
+      "paragraph_text": "The diagram illustrates how sugar is manufactured from sugar cane, from the initial planting of sugar canes to the final drying and cooling of the product – sugar.",
+      "text": "Sugar cane"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:46:00Z",
+      "target": "crushed into juice",
+      "paragraph_index": 9,
+      "paragraph_text": "Sugar cane is first crushed into juice after 12-18 months of growth and harvesting by farmers and harvesters.",
+      "text": "unnatural"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:45:00Z",
+      "target": "by farmers and harvesters.",
+      "paragraph_index": 9,
+      "paragraph_text": "Sugar cane is first crushed into juice after 12-18 months of growth and harvesting by farmers and harvesters.",
+      "text": "“farmers and harvesters” is repetitive because harvesters are machines."
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:48:00Z",
+      "target": "which is",
+      "paragraph_index": 13,
+      "paragraph_text": "In the final stage, the juice is purified and heated to produce syrup, which is then centrifuged, dried and cooled to form sugar.",
+      "text": "May cause confusion, syrup or juice is centrifuged"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:49:00Z",
+      "target": "be grew",
+      "paragraph_index": 17,
+      "paragraph_text": "At the beginning of the process, sugar canes need to be grew for 12-18 months to become mature.",
+      "text": "be grown"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:49:00Z",
+      "target": "become mature",
+      "paragraph_index": 17,
+      "paragraph_text": "At the beginning of the process, sugar canes need to be grew for 12-18 months to become mature.",
+      "text": "unnatural"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:51:00Z",
+      "target": "farmers and harvesters",
+      "paragraph_index": 21,
+      "paragraph_text": "After that, the fully-grown sugar canes are cut down by farmers and harvesters, before being loaded.",
+      "text": "see above"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:50:00Z",
+      "target": "loaded",
+      "paragraph_index": 21,
+      "paragraph_text": "After that, the fully-grown sugar canes are cut down by farmers and harvesters, before being loaded.",
+      "text": "incomplete -- loaded onto what?"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:51:00Z",
+      "target": ", sugar cane gathered",
+      "paragraph_index": 25,
+      "paragraph_text": "Following this, sugar cane gathered is crushed by the machine and made into juice for the next stage process.",
+      "text": "gathered sugar cane"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:52:00Z",
+      "target": "the machine",
+      "paragraph_index": 25,
+      "paragraph_text": "Following this, sugar cane gathered is crushed by the machine and made into juice for the next stage process.",
+      "text": "can be  more precise, what machine?"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:52:00Z",
+      "target": "the next stage process",
+      "paragraph_index": 25,
+      "paragraph_text": "Following this, sugar cane gathered is crushed by the machine and made into juice for the next stage process.",
+      "text": "A bit awkward"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:53:00Z",
+      "target": "limestone filter",
+      "paragraph_index": 29,
+      "paragraph_text": "In the subsequent stage, the juice is purified using limestone filter and then heated in the evaporator so that the juice becomes syrup.",
+      "text": "a limestone filter"
+    },
+    {
+      "id": "12",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:54:00Z",
+      "target": "made into sugar",
+      "paragraph_index": 33,
+      "paragraph_text": "After the centrifuge helps separate sugar crystals from syrup, the intermediate product is made into sugar trough drying and cooling.",
+      "text": "repetitive"
+    },
+    {
+      "id": "13",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-05-13T23:53:00Z",
+      "target": "trough",
+      "paragraph_index": 33,
+      "paragraph_text": "After the centrifuge helps separate sugar crystals from syrup, the intermediate product is made into sugar trough drying and cooling.",
+      "text": "through"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "After growing for 12–18 months, the sugar cane is harvested either manually or mechanically before being crushed to extract the juice.",
+      "italic_text": "After growing for 12–18 months, the sugar cane is harvested either manually or mechanically before being crushed to extract the juice."
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "The extracted juice is then purified and heated to form syrup, after which a centrifuge separates the sugar crystals before they are dried and cooled.",
+      "italic_text": "The extracted juice is then purified and heated to form syrup, after which a centrifuge separates the sugar crystals before they are dried and cooled."
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "At the first stage, sugar cane is cultivated for 12–18 months until it reaches maturity.",
+      "italic_text": "At the first stage, sugar cane is cultivated for 12–18 months until it reaches maturity."
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "The mature crop is then harvested either by hand or with harvesting machines before being transported for processing.",
+      "italic_text": "The mature crop is then harvested either by hand or with harvesting machines before being transported for processing."
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "Next, the harvested sugar cane is crushed in a mill to extract the juice for the following stage.",
+      "italic_text": "Next, the harvested sugar cane is crushed in a mill to extract the juice for the following stage."
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "The juice is subsequently purified through a limestone filter before being heated in an evaporator, where it thickens into syrup.",
+      "italic_text": "The juice is subsequently purified through a limestone filter before being heated in an evaporator, where it thickens into syrup."
+    },
+    {
+      "paragraph_index": 35,
+      "paragraph_text": "Finally, a centrifuge separates the sugar crystals from the syrup, and the crystals are then dried and cooled to produce sugar.",
+      "italic_text": "Finally, a centrifuge separates the sugar crystals from the syrup, and the crystals are then dried and cooled to produce sugar."
+    }
+  ],
+  "feedback_paragraphs": [],
+  "model_answer_paragraphs": [
+    "The diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "Write at least 150 words.",
+    "The diagram illustrates how sugar is manufactured from sugar cane, from the initial planting of sugar canes to the final drying and cooling of the product – sugar.",
+    "Overall, the production involves seven stages, which can be broadly divided into two phases: producing sugar cane juice and extracting sugar from the juice.",
+    "Sugar cane is first crushed into juice after 12-18 months of growth and harvesting by farmers and harvesters.",
+    "After growing for 12–18 months, the sugar cane is harvested either manually or mechanically before being crushed to extract the juice.",
+    "In the final stage, the juice is purified and heated to produce syrup, which is then centrifuged, dried and cooled to form sugar.",
+    "The extracted juice is then purified and heated to form syrup, after which a centrifuge separates the sugar crystals before they are dried and cooled.",
+    "At the beginning of the process, sugar canes need to be grew for 12-18 months to become mature.",
+    "At the first stage, sugar cane is cultivated for 12–18 months until it reaches maturity.",
+    "After that, the fully-grown sugar canes are cut down by farmers and harvesters, before being loaded.",
+    "The mature crop is then harvested either by hand or with harvesting machines before being transported for processing.",
+    "Following this, sugar cane gathered is crushed by the machine and made into juice for the next stage process.",
+    "Next, the harvested sugar cane is crushed in a mill to extract the juice for the following stage.",
+    "In the subsequent stage, the juice is purified using limestone filter and then heated in the evaporator so that the juice becomes syrup.",
+    "The juice is subsequently purified through a limestone filter before being heated in an evaporator, where it thickens into syrup.",
+    "After the centrifuge helps separate sugar crystals from syrup, the intermediate product is made into sugar trough drying and cooling.",
+    "Finally, a centrifuge separates the sugar crystals from the syrup, and the crystals are then dried and cooled to produce sugar.",
+    "The diagram illustrates the process used to produce sugar from sugar cane.",
+    "Overall, the production of sugar consists of seven stages, beginning with the cultivation of sugar cane and ending with the drying and cooling of sugar crystals. Broadly speaking, the process can be divided into two phases: extracting juice from the sugar cane and converting this liquid into sugar.",
+    "At the first stage, sugar cane is grown for a period of 12 to 18 months until it reaches maturity. Once fully grown, the crop is harvested either manually, with workers cutting the stalks by hand, or mechanically using harvesting machines. The harvested sugar cane is then transported to a mill, where it is crushed in order to extract the juice.",
+    "In the next stage, the juice passes through a limestone filter to remove impurities. The purified liquid is then heated in an evaporator, causing it to thicken into syrup. Following this, the syrup is placed in a centrifuge, which separates the sugar crystals from the remaining liquid. Finally, the crystals undergo drying and cooling processes, resulting in the finished sugar product.(182)"
+  ],
+  "counts": {
+    "paragraphs": 22,
+    "comments": 14,
+    "italic_rewrites": 7,
+    "images": 1
+  }
+}

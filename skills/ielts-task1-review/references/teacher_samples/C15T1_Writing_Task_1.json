@@ -1,0 +1,460 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 1/C15T1 Writing Task 1.docx",
+  "title": "C15T1 Writing Task 1",
+  "prompt": "",
+  "images": [
+    {
+      "source_part": "word/media/image1.png",
+      "path": "references/sample_images/C15T1_Writing_Task_1_image1.png",
+      "filename": "C15T1_Writing_Task_1_image1.png"
+    }
+  ],
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "C15T1 Writing Task 1",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "The graph illustrates the buying and drinking habits of coffee and tea in five Australian cities in last 4 weeks.",
+      "italic_text": "",
+      "comment_ids": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "index": 4,
+      "text": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks.",
+      "italic_text": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks.",
+      "comment_ids": [
+        "3"
+      ]
+    },
+    {
+      "index": 6,
+      "text": "Overall, the proportion of people who went to a café was higher than the proportions of those who bought fresh or instant coffee in almost all five cities, while buying fresh coffee was generally the least common.",
+      "italic_text": "",
+      "comment_ids": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Overall, visiting cafés was more popular than purchasing either fresh or instant coffee in most cities, while buying fresh coffee was generally the least common choice.",
+      "italic_text": "Overall, visiting cafés was more popular than purchasing either fresh or instant coffee in most cities, while buying fresh coffee was generally the least common choice.",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "Instant coffee was especially popular in Brisbane and Hobart where more than half of residents bought it in last month.",
+      "italic_text": "",
+      "comment_ids": [
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "index": 11,
+      "text": "In terms of people who went to café, Melbourne had the largest proportion, at about 64%, followed closely by Hobart at about 63% and Sydney at about 61%.",
+      "italic_text": "",
+      "comment_ids": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "index": 12,
+      "text": "In terms of café visits, Melbourne had the highest proportion, at about 64%, followed closely by Hobart (63%) and Sydney (61%).",
+      "italic_text": "In terms of café visits, Melbourne had the highest proportion, at about 64%, followed closely by Hobart (63%) and Sydney (61%).",
+      "comment_ids": []
+    },
+    {
+      "index": 14,
+      "text": "The percentages at Brisbane and Adelaide were lower, the former was approximately 55% and the latter was barely 50%.",
+      "italic_text": "",
+      "comment_ids": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "index": 15,
+      "text": "The figures for Brisbane and Adelaide were lower, at approximately 55% and just under 50%, respectively.",
+      "italic_text": "The figures for Brisbane and Adelaide were lower, at approximately 55% and just under 50%, respectively.",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "Nevertheless, went to a café was still a more popular habit than bought fresh or instant coffee among residents in these five cities.",
+      "italic_text": "",
+      "comment_ids": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "index": 19,
+      "text": "As for the other two habits, instant coffee was more popular overall.",
+      "italic_text": "",
+      "comment_ids": [
+        "16"
+      ]
+    },
+    {
+      "index": 20,
+      "text": "The proportion of those who chose to buy instant coffee was higher than those who preferred fresh coffee in every cities.",
+      "italic_text": "",
+      "comment_ids": [
+        "17"
+      ]
+    },
+    {
+      "index": 21,
+      "text": "The proportion of people who bought instant coffee was higher than that of fresh coffee in every city.",
+      "italic_text": "The proportion of people who bought instant coffee was higher than that of fresh coffee in every city.",
+      "comment_ids": [
+        "18"
+      ]
+    },
+    {
+      "index": 22,
+      "text": "In some cities like Brisbane and Adelaide, the number of residents who bought instant coffee was twice as high as residents who bought fresh coffee.",
+      "italic_text": "",
+      "comment_ids": [
+        "19"
+      ]
+    },
+    {
+      "index": 23,
+      "text": "In cities such as Brisbane and Adelaide, the number of people who bought instant coffee was roughly twice that of those who purchased fresh coffee.",
+      "italic_text": "In cities such as Brisbane and Adelaide, the number of people who bought instant coffee was roughly twice that of those who purchased fresh coffee.",
+      "comment_ids": []
+    },
+    {
+      "index": 25,
+      "text": "1. Eliminate small grammar errors: articles (the, a) / plural forms (city vs cities)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 27,
+      "text": "2. Avoid repetition",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 28,
+      "text": "You repeat: “habits” / “proportion of people”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "Replace with: figure / share / category / group",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 31,
+      "text": "3. Use advanced comparison structures",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 32,
+      "text": "“that of”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 33,
+      "text": "“respectively”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 34,
+      "text": "“twice as high as”",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 36,
+      "text": "4. Be concise: Remove unnecessary sentences / Don’t repeat overview ideas",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 38,
+      "text": "You already have: Clear overview / Good structure / Logical comparisons",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 39,
+      "text": "You just need: cleaner grammar / more precise phrasing / less repetition",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 41,
+      "text": "The bar chart compares the proportions of people in five Australian cities who bought fresh coffee, bought instant coffee, or visited a café for coffee or tea in the last four weeks.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 42,
+      "text": "Overall, visiting cafés was the most popular activity in most cities, whereas purchasing fresh coffee was generally the least common. Additionally, instant coffee was particularly popular in Brisbane and Hobart, where it was bought by over half of the population.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 43,
+      "text": "In terms of café visits, Melbourne recorded the highest proportion, at approximately 64%, followed closely by Hobart at 63% and Sydney at around 61%. By contrast, the figures for Brisbane and Adelaide were lower, at about 55% and just under 50%, respectively.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 44,
+      "text": "Regarding coffee purchases, instant coffee was more widely consumed than fresh coffee in all five cities. In Brisbane and Adelaide, for example, the proportion of residents who bought instant coffee was roughly twice that of those who purchased fresh coffee. Meanwhile, the percentages for fresh coffee remained comparatively low across all cities, particularly in Brisbane and Adelaide, where they were around the mid-30% range. (178 words)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:11:00Z",
+      "target": "graph",
+      "paragraph_index": 3,
+      "paragraph_text": "The graph illustrates the buying and drinking habits of coffee and tea in five Australian cities in last 4 weeks.",
+      "text": "Specify type: bar chart"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:12:00Z",
+      "target": "buying and drinking habits",
+      "paragraph_index": 3,
+      "paragraph_text": "The graph illustrates the buying and drinking habits of coffee and tea in five Australian cities in last 4 weeks.",
+      "text": "Slightly awkward phrasing – does not sound natural enough"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:10:00Z",
+      "target": "in last 4 weeks.",
+      "paragraph_index": 3,
+      "paragraph_text": "The graph illustrates the buying and drinking habits of coffee and tea in five Australian cities in last 4 weeks.",
+      "text": "Missing article: in the last 4 weeks"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:13:00Z",
+      "target": "proportions",
+      "paragraph_index": 4,
+      "paragraph_text": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks.",
+      "text": "mention proportions since that’s what the chart is showing"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:16:00Z",
+      "target": "proportion",
+      "paragraph_index": 6,
+      "paragraph_text": "Overall, the proportion of people who went to a café was higher than the proportions of those who bought fresh or instant coffee in almost all five cities, while buying fresh coffee was generally the least common.",
+      "text": "slightly repetition"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:16:00Z",
+      "target": "proportions",
+      "paragraph_index": 6,
+      "paragraph_text": "Overall, the proportion of people who went to a café was higher than the proportions of those who bought fresh or instant coffee in almost all five cities, while buying fresh coffee was generally the least common.",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:19:00Z",
+      "target": "especially",
+      "paragraph_index": 9,
+      "paragraph_text": "Instant coffee was especially popular in Brisbane and Hobart where more than half of residents bought it in last month.",
+      "text": "particularly (formal)"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:18:00Z",
+      "target": "bought",
+      "paragraph_index": 9,
+      "paragraph_text": "Instant coffee was especially popular in Brisbane and Hobart where more than half of residents bought it in last month.",
+      "text": "purchased (formal)"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:19:00Z",
+      "target": "in last month",
+      "paragraph_index": 9,
+      "paragraph_text": "Instant coffee was especially popular in Brisbane and Hobart where more than half of residents bought it in last month.",
+      "text": "in the last month"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:19:00Z",
+      "target": "café",
+      "paragraph_index": 11,
+      "paragraph_text": "In terms of people who went to café, Melbourne had the largest proportion, at about 64%, followed closely by Hobart at about 63% and Sydney at about 61%.",
+      "text": "a café"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:20:00Z",
+      "target": "at about",
+      "paragraph_index": 11,
+      "paragraph_text": "In terms of people who went to café, Melbourne had the largest proportion, at about 64%, followed closely by Hobart at about 63% and Sydney at about 61%.",
+      "text": "slightly repetitive and could be replaced with brackets"
+    },
+    {
+      "id": "12",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:22:00Z",
+      "target": "the latter",
+      "paragraph_index": 14,
+      "paragraph_text": "The percentages at Brisbane and Adelaide were lower, the former was approximately 55% and the latter was barely 50%.",
+      "text": "use comma splice (should be separated or restructured)"
+    },
+    {
+      "id": "13",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:22:00Z",
+      "target": "barely",
+      "paragraph_index": 14,
+      "paragraph_text": "The percentages at Brisbane and Adelaide were lower, the former was approximately 55% and the latter was barely 50%.",
+      "text": "slightly informal"
+    },
+    {
+      "id": "14",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:24:00Z",
+      "target": "Nevertheless, went to a café was still a more popular habit than bought fresh or instant coffee among residents in these five cities.",
+      "paragraph_index": 17,
+      "paragraph_text": "Nevertheless, went to a café was still a more popular habit than bought fresh or instant coffee among residents in these five cities.",
+      "text": "I would recommend deleting this sentence since it is stated in overview (repetitive idea)"
+    },
+    {
+      "id": "15",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:23:00Z",
+      "target": "went",
+      "paragraph_index": 17,
+      "paragraph_text": "Nevertheless, went to a café was still a more popular habit than bought fresh or instant coffee among residents in these five cities.",
+      "text": "going"
+    },
+    {
+      "id": "16",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:26:00Z",
+      "target": "other two habits",
+      "paragraph_index": 19,
+      "paragraph_text": "As for the other two habits, instant coffee was more popular overall.",
+      "text": "“habits” – acceptable, could be more academic. Why don’t you consider “remaining categories”"
+    },
+    {
+      "id": "17",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:27:00Z",
+      "target": "every cities",
+      "paragraph_index": 20,
+      "paragraph_text": "The proportion of those who chose to buy instant coffee was higher than those who preferred fresh coffee in every cities.",
+      "text": "Grammar - every city"
+    },
+    {
+      "id": "18",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:28:00Z",
+      "target": "that of",
+      "paragraph_index": 21,
+      "paragraph_text": "The proportion of people who bought instant coffee was higher than that of fresh coffee in every city.",
+      "text": "Consider using “ that of” for comparisions (Band 7.5+ feature)"
+    },
+    {
+      "id": "19",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:30:00Z",
+      "target": "residents who bought",
+      "paragraph_index": 22,
+      "paragraph_text": "In some cities like Brisbane and Adelaide, the number of residents who bought instant coffee was twice as high as residents who bought fresh coffee.",
+      "text": "Repetitive phrasing - “residents who bought”"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks.",
+      "italic_text": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks."
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "Overall, visiting cafés was more popular than purchasing either fresh or instant coffee in most cities, while buying fresh coffee was generally the least common choice.",
+      "italic_text": "Overall, visiting cafés was more popular than purchasing either fresh or instant coffee in most cities, while buying fresh coffee was generally the least common choice."
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "In terms of café visits, Melbourne had the highest proportion, at about 64%, followed closely by Hobart (63%) and Sydney (61%).",
+      "italic_text": "In terms of café visits, Melbourne had the highest proportion, at about 64%, followed closely by Hobart (63%) and Sydney (61%)."
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "The figures for Brisbane and Adelaide were lower, at approximately 55% and just under 50%, respectively.",
+      "italic_text": "The figures for Brisbane and Adelaide were lower, at approximately 55% and just under 50%, respectively."
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "The proportion of people who bought instant coffee was higher than that of fresh coffee in every city.",
+      "italic_text": "The proportion of people who bought instant coffee was higher than that of fresh coffee in every city."
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "In cities such as Brisbane and Adelaide, the number of people who bought instant coffee was roughly twice that of those who purchased fresh coffee.",
+      "italic_text": "In cities such as Brisbane and Adelaide, the number of people who bought instant coffee was roughly twice that of those who purchased fresh coffee."
+    }
+  ],
+  "feedback_paragraphs": [
+    "1. Eliminate small grammar errors: articles (the, a) / plural forms (city vs cities)",
+    "2. Avoid repetition",
+    "You repeat: “habits” / “proportion of people”",
+    "Replace with: figure / share / category / group",
+    "3. Use advanced comparison structures",
+    "“that of”",
+    "“respectively”",
+    "“twice as high as”",
+    "4. Be concise: Remove unnecessary sentences / Don’t repeat overview ideas",
+    "You already have: Clear overview / Good structure / Logical comparisons",
+    "You just need: cleaner grammar / more precise phrasing / less repetition"
+  ],
+  "model_answer_paragraphs": [
+    "The bar chart compares the proportions of people in five Australian cities who bought fresh coffee, bought instant coffee, or visited a café for coffee or tea in the last four weeks.",
+    "Overall, visiting cafés was the most popular activity in most cities, whereas purchasing fresh coffee was generally the least common. Additionally, instant coffee was particularly popular in Brisbane and Hobart, where it was bought by over half of the population.",
+    "In terms of café visits, Melbourne recorded the highest proportion, at approximately 64%, followed closely by Hobart at 63% and Sydney at around 61%. By contrast, the figures for Brisbane and Adelaide were lower, at about 55% and just under 50%, respectively.",
+    "Regarding coffee purchases, instant coffee was more widely consumed than fresh coffee in all five cities. In Brisbane and Adelaide, for example, the proportion of residents who bought instant coffee was roughly twice that of those who purchased fresh coffee. Meanwhile, the percentages for fresh coffee remained comparatively low across all cities, particularly in Brisbane and Adelaide, where they were around the mid-30% range. (178 words)"
+  ],
+  "counts": {
+    "paragraphs": 31,
+    "comments": 19,
+    "italic_rewrites": 6,
+    "images": 1
+  }
+}

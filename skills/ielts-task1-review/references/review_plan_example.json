@@ -1,0 +1,69 @@
+{
+  "prompt": "The bar chart shows the results of a survey about people's coffee and tea buying and drinking habits in five Australian cities.",
+  "visual_facts": [
+    "Type: bar chart.",
+    "Unit: percentage of city residents.",
+    "Main feature: going to a cafe was the most popular activity in most cities, while buying fresh coffee was generally the least common."
+  ],
+  "review_units": [
+    {
+      "original": "The graph illustrates the buying and drinking habits of coffee and tea in five Australian cities in last 4 weeks.",
+      "comments": [
+        {
+          "target": "graph",
+          "text": "Specify type: bar chart"
+        },
+        {
+          "target": "in last 4 weeks",
+          "text": "Missing article"
+        }
+      ],
+      "rewrite": "The bar chart illustrates the proportions of people in five Australian cities who bought and consumed coffee and tea in the last four weeks."
+    },
+    {
+      "original": "Overall, the proportion of people who went to a cafe was higher than the proportions of those who bought fresh or instant coffee in almost all five cities.",
+      "comments": [
+        {
+          "target": "proportion",
+          "text": "slightly repetitive"
+        }
+      ],
+      "rewrite": "Overall, visiting cafes was more popular than purchasing either fresh or instant coffee in most cities."
+    },
+    {
+      "original": "The percentages at Brisbane and Adelaide were lower, the former was approximately 55% and the latter was barely 50%.",
+      "comments": [
+        {
+          "target": "the latter",
+          "text": "Use comma or restructure"
+        },
+        {
+          "target": "barely",
+          "text": "slightly informal"
+        }
+      ],
+      "rewrite": "The figures for Brisbane and Adelaide were lower, at approximately 55% and just under 50%, respectively."
+    }
+  ],
+  "scores": {
+    "Task Achievement": "6.5",
+    "Coherence & Cohesion": "7",
+    "Lexical Resource": "6.5",
+    "Grammatical Range & Accuracy": "6.5",
+    "Overall": "6.5"
+  },
+  "score_explanation": [
+    "The main trends are clear, but some wording is repetitive and a few data descriptions need to be more precise.",
+    "Small grammar errors with articles and comparison structures prevent a secure Band 7."
+  ],
+  "focus_feedback": [
+    "To reach a secure Band 7, eliminate small article and plural errors.",
+    "To move toward 7.5, use more concise comparison structures such as respectively and that of."
+  ],
+  "model_answer": [
+    "The bar chart compares the proportions of residents in five Australian cities who bought fresh coffee, bought instant coffee, or visited a cafe for coffee or tea in the previous four weeks.",
+    "Overall, going to a cafe was the most popular activity in most cities, whereas purchasing fresh coffee was generally the least common. Instant coffee was also noticeably popular in Brisbane and Hobart, where more than half of residents bought it.",
+    "In terms of cafe visits, Melbourne recorded the highest figure, at about 64%, followed closely by Hobart and Sydney, at roughly 63% and 61% respectively. The proportions were lower in Brisbane, at around 55%, and Adelaide, at just under 50%.",
+    "Regarding coffee purchases, instant coffee was more common than fresh coffee in all five cities. This difference was particularly clear in Brisbane and Adelaide, where the share of people buying instant coffee was roughly twice that of those purchasing fresh coffee."
+  ]
+}

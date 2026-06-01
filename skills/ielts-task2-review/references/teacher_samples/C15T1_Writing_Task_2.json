@@ -1,0 +1,678 @@
+{
+  "source_file": "/Users/aaronliang/Desktop/IELTS/Task 2/C15T1 Writing Task 2.docx",
+  "title": "C15T1 Writing Task 2",
+  "prompt": "In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "paragraphs": [
+    {
+      "index": 1,
+      "text": "C15T1 Writing Task 2",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 3,
+      "text": "Write about the following topic:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 4,
+      "text": "In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "italic_text": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "comment_ids": []
+    },
+    {
+      "index": 5,
+      "text": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 6,
+      "text": "Write at least 250 words.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 8,
+      "text": "Topic: situation positive?negative?",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 9,
+      "text": "View 1: positive side",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 10,
+      "text": "View 2: negative side",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 11,
+      "text": "My opinion: negative",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 13,
+      "text": "Side 1: Positive side",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 14,
+      "text": "cultural pressure(x)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 15,
+      "text": "stability",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 16,
+      "text": "investment(maybe)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 17,
+      "text": "Side 2: Negative side",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 18,
+      "text": "financial pressure(loan)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 19,
+      "text": "freedom(x)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 20,
+      "text": "anxiety(peer pressure)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 22,
+      "text": "In some countries, renting a home is less important for people than owning one.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 23,
+      "text": "This essay will first analyse the positive side of this situation and then propose the negative aspect of this social phenomenon.",
+      "italic_text": "",
+      "comment_ids": [
+        "0"
+      ]
+    },
+    {
+      "index": 24,
+      "text": "This essay will discuss the reasons for this trend and examine its positive and negative aspects.",
+      "italic_text": "This essay will discuss the reasons for this trend and examine its positive and negative aspects.",
+      "comment_ids": [
+        "1"
+      ]
+    },
+    {
+      "index": 25,
+      "text": "From my perspective, I believe that although owning a home has many benefits, putting too much importance on it is mostly negative.",
+      "italic_text": "",
+      "comment_ids": [
+        "2"
+      ]
+    },
+    {
+      "index": 26,
+      "text": "In my view, although home ownership has several benefits, placing excessive importance on it is largely negative.",
+      "italic_text": "In my view, although home ownership has several benefits, placing excessive importance on it is largely negative.",
+      "comment_ids": [
+        "3"
+      ]
+    },
+    {
+      "index": 28,
+      "text": "There are many reasons why people may prefer to own a home.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 29,
+      "text": "There are several reasons why people prefer home ownership.",
+      "italic_text": "There are several reasons why people prefer home ownership.",
+      "comment_ids": [
+        "4"
+      ]
+    },
+    {
+      "index": 30,
+      "text": "The biggest benefit is that one no longer need to suffer from cultural pressure.",
+      "italic_text": "",
+      "comment_ids": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "index": 31,
+      "text": "In some culture, owning a home is connected with the concept of adulthood, marriage and success.",
+      "italic_text": "",
+      "comment_ids": [
+        "7"
+      ]
+    },
+    {
+      "index": 32,
+      "text": "In some cultures, owning a home is closely associated with adulthood, marriage, and success.",
+      "italic_text": "In some cultures, owning a home is closely associated with adulthood, marriage, and success.",
+      "comment_ids": [
+        "8"
+      ]
+    },
+    {
+      "index": 33,
+      "text": "For example, in my home country China, parents usually judge whether a man is would be a suitable husband for their daughter with by asking whether he owns a house.",
+      "italic_text": "",
+      "comment_ids": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "index": 34,
+      "text": "For example, in my home country, China, parents often judge whether a man would be a suitable husband based on whether he owns a house.",
+      "italic_text": "For example, in my home country, China, parents often judge whether a man would be a suitable husband based on whether he owns a house.",
+      "comment_ids": [
+        "11"
+      ]
+    },
+    {
+      "index": 36,
+      "text": "Therefore, owning a home can effectively avoid him the awkward situation and reduce the cultural pressure.",
+      "italic_text": "",
+      "comment_ids": [
+        "12"
+      ]
+    },
+    {
+      "index": 37,
+      "text": "Therefore, owning a home can help individuals avoid awkward situations and reduce social pressure.",
+      "italic_text": "Therefore, owning a home can help individuals avoid awkward situations and reduce social pressure.",
+      "comment_ids": [
+        "13"
+      ]
+    },
+    {
+      "index": 38,
+      "text": "Moreover, owning a home can provide people with stability and the property may even be considered as a valuable investment if the house prices in that country are on the rise.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 39,
+      "text": "Moreover, home ownership provides stability and can be a valuable investment, particularly when property prices are rising.",
+      "italic_text": "Moreover, home ownership provides stability and can be a valuable investment, particularly when property prices are rising.",
+      "comment_ids": [
+        "14"
+      ]
+    },
+    {
+      "index": 41,
+      "text": "However, I think this situation is mostly negative if home ownership becomes a pressure.",
+      "italic_text": "",
+      "comment_ids": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "index": 42,
+      "text": "However, this trend becomes negative when home ownership turns into a source of pressure.",
+      "italic_text": "However, this trend becomes negative when home ownership turns into a source of pressure.",
+      "comment_ids": []
+    },
+    {
+      "index": 43,
+      "text": "Due to the cultural pressure or some other reasons, young people may feel forced to purchase a house before they are financially ready.",
+      "italic_text": "",
+      "comment_ids": [
+        "17"
+      ]
+    },
+    {
+      "index": 44,
+      "text": "In reality, many young people who do not have a wealthy family to support them financially in buying a house are anxious about not owning a home.",
+      "italic_text": "",
+      "comment_ids": [
+        "18"
+      ]
+    },
+    {
+      "index": 45,
+      "text": "In reality, many young people without financial support from their families feel anxious about not owning a home.",
+      "italic_text": "In reality, many young people without financial support from their families feel anxious about not owning a home.",
+      "comment_ids": []
+    },
+    {
+      "index": 46,
+      "text": "This anxiety is intensified by peer pressure and social stereotypes, which push them to take heavy loans and lead to greater stress.",
+      "italic_text": "",
+      "comment_ids": [
+        "19",
+        "20"
+      ]
+    },
+    {
+      "index": 47,
+      "text": "Furthermore, it may reduce their flexibility, as renting may be more suitable for those who need to move for work or study frequently.",
+      "italic_text": "",
+      "comment_ids": [
+        "21"
+      ]
+    },
+    {
+      "index": 48,
+      "text": "Furthermore, it may reduce flexibility, as renting is often more suitable for those who need to relocate frequently for work or study.",
+      "italic_text": "Furthermore, it may reduce flexibility, as renting is often more suitable for those who need to relocate frequently for work or study.",
+      "comment_ids": [
+        "22"
+      ]
+    },
+    {
+      "index": 50,
+      "text": "In conclusion, people value the stability and social respect a home can brought.",
+      "italic_text": "",
+      "comment_ids": [
+        "23"
+      ]
+    },
+    {
+      "index": 51,
+      "text": "In conclusion, people value the stability and social status that home ownership can bring.",
+      "italic_text": "In conclusion, people value the stability and social status that home ownership can bring.",
+      "comment_ids": []
+    },
+    {
+      "index": 52,
+      "text": "Nevertheless, I believe the huge pressure to own rather than rent is largely negative, which may cause heavy loan, stress and less flexibility.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 53,
+      "text": "Nevertheless, the strong pressure to own rather than rent is largely negative, as it may lead to financial burdens, increased stress, and reduced flexibility.",
+      "italic_text": "Nevertheless, the strong pressure to own rather than rent is largely negative, as it may lead to financial burdens, increased stress, and reduced flexibility.",
+      "comment_ids": []
+    },
+    {
+      "index": 56,
+      "text": "You’re already close to Band 7.5, to get there:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 57,
+      "text": "Focus on:",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 58,
+      "text": "Grammar accuracy (small mistakes matter a lot)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 59,
+      "text": "Natural collocations (e.g., take on a loan, not take heavy loan)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 60,
+      "text": "Conciseness (avoid long, messy sentences)",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 62,
+      "text": "In many countries, owning a home is considered more important than renting. This essay will discuss the reasons for this trend and argue that it is largely a negative development.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 63,
+      "text": "There are several reasons why people place great importance on home ownership. One key factor is cultural expectations. In some societies, owning a home is closely associated with adulthood, marriage, and social status. For example, in China, parents often judge whether a man would be a suitable husband based on whether he owns a house. As a result, home ownership can help individuals gain social acceptance and avoid potential embarrassment. In addition, owning a home provides a sense of stability and security, and it can also serve as a valuable long-term investment, particularly in countries where property prices are rising.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 64,
+      "text": "However, this trend becomes problematic when home ownership turns into a source of pressure. Many young people feel compelled to purchase property before they are financially prepared, often due to cultural expectations and peer influence. Those who lack financial support from their families may experience significant anxiety about not owning a home. This pressure can lead individuals to take on large loans, resulting in long-term financial stress. Furthermore, prioritising home ownership may reduce flexibility, as renting is often a more practical option for people who need to relocate frequently for work or education.",
+      "italic_text": "",
+      "comment_ids": []
+    },
+    {
+      "index": 65,
+      "text": "In conclusion, while owning a home offers benefits such as stability and social recognition, the excessive emphasis placed on it is largely negative. It can create financial strain, increase stress, and limit personal flexibility, particularly for younger generations. (261 words)",
+      "italic_text": "",
+      "comment_ids": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:42:00Z",
+      "target": "first",
+      "paragraph_index": 23,
+      "paragraph_text": "This essay will first analyse the positive side of this situation and then propose the negative aspect of this social phenomenon.",
+      "text": "Avoid mechanical phrases like “first… then…”"
+    },
+    {
+      "id": "1",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:42:00Z",
+      "target": "discuss",
+      "paragraph_index": 24,
+      "paragraph_text": "This essay will discuss the reasons for this trend and examine its positive and negative aspects.",
+      "text": "“Discuss” is more natural for IELTS"
+    },
+    {
+      "id": "2",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:43:00Z",
+      "target": "From my perspective, I believe",
+      "paragraph_index": 25,
+      "paragraph_text": "From my perspective, I believe that although owning a home has many benefits, putting too much importance on it is mostly negative.",
+      "text": "Avoid “I believe” + “From my perspective” (repetition)"
+    },
+    {
+      "id": "3",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:43:00Z",
+      "target": "largely negative",
+      "paragraph_index": 26,
+      "paragraph_text": "In my view, although home ownership has several benefits, placing excessive importance on it is largely negative.",
+      "text": "“Largely negative” sounds more academic"
+    },
+    {
+      "id": "4",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:44:00Z",
+      "target": "home ownership",
+      "paragraph_index": 29,
+      "paragraph_text": "There are several reasons why people prefer home ownership.",
+      "text": "This would sound more concise and formal"
+    },
+    {
+      "id": "5",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:46:00Z",
+      "target": "need",
+      "paragraph_index": 30,
+      "paragraph_text": "The biggest benefit is that one no longer need to suffer from cultural pressure.",
+      "text": "Fix grammar: need → needs"
+    },
+    {
+      "id": "6",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:46:00Z",
+      "target": "suffer from",
+      "paragraph_index": 30,
+      "paragraph_text": "The biggest benefit is that one no longer need to suffer from cultural pressure.",
+      "text": "“face” is more natural than “suffer from” here"
+    },
+    {
+      "id": "7",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:47:00Z",
+      "target": "culture",
+      "paragraph_index": 31,
+      "paragraph_text": "In some culture, owning a home is connected with the concept of adulthood, marriage and success.",
+      "text": "Plural: cultures"
+    },
+    {
+      "id": "8",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:48:00Z",
+      "target": "closely associated",
+      "paragraph_index": 32,
+      "paragraph_text": "In some cultures, owning a home is closely associated with adulthood, marriage, and success.",
+      "text": "“closely associated with” is a strong collocation"
+    },
+    {
+      "id": "9",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:48:00Z",
+      "target": "is would be",
+      "paragraph_index": 33,
+      "paragraph_text": "For example, in my home country China, parents usually judge whether a man is would be a suitable husband for their daughter with by asking whether he owns a house.",
+      "text": "Fix grammar (“is would be”)"
+    },
+    {
+      "id": "10",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:49:00Z",
+      "target": "with by",
+      "paragraph_index": 33,
+      "paragraph_text": "For example, in my home country China, parents usually judge whether a man is would be a suitable husband for their daughter with by asking whether he owns a house.",
+      "text": "I’d recommend removing “with by”"
+    },
+    {
+      "id": "11",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:50:00Z",
+      "target": ",",
+      "paragraph_index": 34,
+      "paragraph_text": "For example, in my home country, China, parents often judge whether a man would be a suitable husband based on whether he owns a house.",
+      "text": "You would need commas for clarity"
+    },
+    {
+      "id": "12",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:51:00Z",
+      "target": "avoid him",
+      "paragraph_index": 36,
+      "paragraph_text": "Therefore, owning a home can effectively avoid him the awkward situation and reduce the cultural pressure.",
+      "text": "“avoid him”  → “help individuals avoid”"
+    },
+    {
+      "id": "13",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:51:00Z",
+      "target": ".",
+      "paragraph_index": 37,
+      "paragraph_text": "Therefore, owning a home can help individuals avoid awkward situations and reduce social pressure.",
+      "text": "Careful with articles"
+    },
+    {
+      "id": "14",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:52:00Z",
+      "target": ".",
+      "paragraph_index": 39,
+      "paragraph_text": "Moreover, home ownership provides stability and can be a valuable investment, particularly when property prices are rising.",
+      "text": "Try to be more concise and avoid unnecessary words"
+    },
+    {
+      "id": "15",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:53:00Z",
+      "target": "I think",
+      "paragraph_index": 41,
+      "paragraph_text": "However, I think this situation is mostly negative if home ownership becomes a pressure.",
+      "text": "Try not to use “I think” where possible"
+    },
+    {
+      "id": "16",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:54:00Z",
+      "target": "a pressure",
+      "paragraph_index": 41,
+      "paragraph_text": "However, I think this situation is mostly negative if home ownership becomes a pressure.",
+      "text": "A source of pressure"
+    },
+    {
+      "id": "17",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:55:00Z",
+      "target": "the cultural pressure",
+      "paragraph_index": 43,
+      "paragraph_text": "Due to the cultural pressure or some other reasons, young people may feel forced to purchase a house before they are financially ready.",
+      "text": "“cultural expectations” sounds more precise;\nand delete the article"
+    },
+    {
+      "id": "18",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:56:00Z",
+      "target": "buying a house",
+      "paragraph_index": 44,
+      "paragraph_text": "In reality, many young people who do not have a wealthy family to support them financially in buying a house are anxious about not owning a home.",
+      "text": "repetition"
+    },
+    {
+      "id": "19",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:58:00Z",
+      "target": "take",
+      "paragraph_index": 46,
+      "paragraph_text": "This anxiety is intensified by peer pressure and social stereotypes, which push them to take heavy loans and lead to greater stress.",
+      "text": "“take on” is correct verb"
+    },
+    {
+      "id": "20",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:57:00Z",
+      "target": "heavy loans",
+      "paragraph_index": 46,
+      "paragraph_text": "This anxiety is intensified by peer pressure and social stereotypes, which push them to take heavy loans and lead to greater stress.",
+      "text": "“heavy loans” → “large loans” (natural collocation)"
+    },
+    {
+      "id": "21",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:59:00Z",
+      "target": "may",
+      "paragraph_index": 47,
+      "paragraph_text": "Furthermore, it may reduce their flexibility, as renting may be more suitable for those who need to move for work or study frequently.",
+      "text": "Every word can cause repetition, including “may”"
+    },
+    {
+      "id": "22",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T21:59:00Z",
+      "target": "relocate",
+      "paragraph_index": 48,
+      "paragraph_text": "Furthermore, it may reduce flexibility, as renting is often more suitable for those who need to relocate frequently for work or study.",
+      "text": "“relocate” is more academic"
+    },
+    {
+      "id": "23",
+      "author": "theaxu0817@gmail.com",
+      "date": "2026-04-27T22:00:00Z",
+      "target": "brought",
+      "paragraph_index": 50,
+      "paragraph_text": "In conclusion, people value the stability and social respect a home can brought.",
+      "text": "bring"
+    }
+  ],
+  "italic_rewrites": [
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+      "italic_text": "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "This essay will discuss the reasons for this trend and examine its positive and negative aspects.",
+      "italic_text": "This essay will discuss the reasons for this trend and examine its positive and negative aspects."
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "In my view, although home ownership has several benefits, placing excessive importance on it is largely negative.",
+      "italic_text": "In my view, although home ownership has several benefits, placing excessive importance on it is largely negative."
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "There are several reasons why people prefer home ownership.",
+      "italic_text": "There are several reasons why people prefer home ownership."
+    },
+    {
+      "paragraph_index": 32,
+      "paragraph_text": "In some cultures, owning a home is closely associated with adulthood, marriage, and success.",
+      "italic_text": "In some cultures, owning a home is closely associated with adulthood, marriage, and success."
+    },
+    {
+      "paragraph_index": 34,
+      "paragraph_text": "For example, in my home country, China, parents often judge whether a man would be a suitable husband based on whether he owns a house.",
+      "italic_text": "For example, in my home country, China, parents often judge whether a man would be a suitable husband based on whether he owns a house."
+    },
+    {
+      "paragraph_index": 37,
+      "paragraph_text": "Therefore, owning a home can help individuals avoid awkward situations and reduce social pressure.",
+      "italic_text": "Therefore, owning a home can help individuals avoid awkward situations and reduce social pressure."
+    },
+    {
+      "paragraph_index": 39,
+      "paragraph_text": "Moreover, home ownership provides stability and can be a valuable investment, particularly when property prices are rising.",
+      "italic_text": "Moreover, home ownership provides stability and can be a valuable investment, particularly when property prices are rising."
+    },
+    {
+      "paragraph_index": 42,
+      "paragraph_text": "However, this trend becomes negative when home ownership turns into a source of pressure.",
+      "italic_text": "However, this trend becomes negative when home ownership turns into a source of pressure."
+    },
+    {
+      "paragraph_index": 45,
+      "paragraph_text": "In reality, many young people without financial support from their families feel anxious about not owning a home.",
+      "italic_text": "In reality, many young people without financial support from their families feel anxious about not owning a home."
+    },
+    {
+      "paragraph_index": 48,
+      "paragraph_text": "Furthermore, it may reduce flexibility, as renting is often more suitable for those who need to relocate frequently for work or study.",
+      "italic_text": "Furthermore, it may reduce flexibility, as renting is often more suitable for those who need to relocate frequently for work or study."
+    },
+    {
+      "paragraph_index": 51,
+      "paragraph_text": "In conclusion, people value the stability and social status that home ownership can bring.",
+      "italic_text": "In conclusion, people value the stability and social status that home ownership can bring."
+    },
+    {
+      "paragraph_index": 53,
+      "paragraph_text": "Nevertheless, the strong pressure to own rather than rent is largely negative, as it may lead to financial burdens, increased stress, and reduced flexibility.",
+      "italic_text": "Nevertheless, the strong pressure to own rather than rent is largely negative, as it may lead to financial burdens, increased stress, and reduced flexibility."
+    }
+  ],
+  "feedback_paragraphs": [
+    "You’re already close to Band 7.5, to get there:",
+    "Focus on:",
+    "Grammar accuracy (small mistakes matter a lot)",
+    "Natural collocations (e.g., take on a loan, not take heavy loan)",
+    "Conciseness (avoid long, messy sentences)"
+  ],
+  "model_essay_paragraphs": [
+    "In many countries, owning a home is considered more important than renting. This essay will discuss the reasons for this trend and argue that it is largely a negative development.",
+    "There are several reasons why people place great importance on home ownership. One key factor is cultural expectations. In some societies, owning a home is closely associated with adulthood, marriage, and social status. For example, in China, parents often judge whether a man would be a suitable husband based on whether he owns a house. As a result, home ownership can help individuals gain social acceptance and avoid potential embarrassment. In addition, owning a home provides a sense of stability and security, and it can also serve as a valuable long-term investment, particularly in countries where property prices are rising.",
+    "However, this trend becomes problematic when home ownership turns into a source of pressure. Many young people feel compelled to purchase property before they are financially prepared, often due to cultural expectations and peer influence. Those who lack financial support from their families may experience significant anxiety about not owning a home. This pressure can lead individuals to take on large loans, resulting in long-term financial stress. Furthermore, prioritising home ownership may reduce flexibility, as renting is often a more practical option for people who need to relocate frequently for work or education.",
+    "In conclusion, while owning a home offers benefits such as stability and social recognition, the excessive emphasis placed on it is largely negative. It can create financial strain, increase stress, and limit personal flexibility, particularly for younger generations. (261 words)"
+  ],
+  "counts": {
+    "paragraphs": 54,
+    "comments": 24,
+    "italic_rewrites": 13
+  }
+}
