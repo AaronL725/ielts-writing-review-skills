@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ielts-skills-hero.svg" alt="IELTS Writing Review Skills" width="100%">
+  <img src="./assets/ielts-writing-review-skills-hero.png" alt="IELTS Writing Review Skills" width="100%">
 
   <h1>IELTS Writing Review Skills</h1>
 
@@ -131,7 +131,7 @@ Task 2 skill 包含题目与作文提取、Task 2 官方评分标准、教师风
 ```text
 .
 |-- assets/
-|   `-- ielts-skills-hero.svg
+|   `-- ielts-writing-review-skills-hero.png
 |-- docs/
 |   |-- README.en.md
 |   |-- README.es.md

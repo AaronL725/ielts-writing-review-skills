@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/ielts-skills-hero.svg" alt="IELTS Writing Review Skills" width="100%">
+  <img src="../assets/ielts-writing-review-skills-hero.png" alt="IELTS Writing Review Skills" width="100%">
 
   <h1>IELTS Writing Review Skills</h1>
 
