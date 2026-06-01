@@ -34,17 +34,17 @@
     <text x="74" y="23" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#a9ecff">AGENT SKILLS</text>
 
     <text x="0" y="92" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#f7fbff" letter-spacing="0">IELTS Writing Review Skills</text>
-    <text x="0" y="136" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500" fill="#c7d8e8">Task 1 and Task 2 review with real DOCX comments, scoring, and model answers.</text>
+    <text x="0" y="136" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500" fill="#c7d8e8">中文主页 · DOCX 真批注 · 官方评分 · 教师风格范文</text>
 
     <g transform="translate(0 190)">
       <rect x="0" y="0" width="186" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="24" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">Default Band 7.5</text>
+      <text x="24" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">默认 Band 7.5</text>
 
       <rect x="204" y="0" width="178" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="228" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">Word Comments</text>
+      <text x="228" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">Word 批注</text>
 
       <rect x="400" y="0" width="174" height="50" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/>
-      <text x="424" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">Teacher Style</text>
+      <text x="424" y="31" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#f7fbff">教师风格</text>
     </g>
   </g>
 
