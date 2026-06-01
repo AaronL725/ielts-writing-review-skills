@@ -14,3 +14,5 @@ venv/
 /review_plan_*.json
 /ielts_task1_images_*/
 *(reviewed).docx
+!examples/
+!examples/*(reviewed).docx

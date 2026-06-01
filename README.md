@@ -36,6 +36,28 @@
 | `$ielts-task1-review` | Academic Task 1 图表、表格、地图、流程图、混合图 | 带 Word 批注的 reviewed DOCX、评分、反馈、4 段 Band 7.5 范文 |
 | `$ielts-task2-review` | Task 2 观点类、讨论类、问题解决类、利弊类、混合类作文 | 带 Word 批注的 reviewed DOCX、评分、反馈、4 段 Band 7.5 范文 |
 
+## 输入文件要求
+
+请使用**未批改过的 `.docx`** 作为输入。Reviewed 文件只适合作为效果预览，不要再拿 reviewed 文件重复批改。
+
+| 类型 | Word 文档中应该怎么放 | 不要这样放 |
+| --- | --- | --- |
+| Task 1 | 题目文字放在最前面；图表/地图/流程图作为 Word 内嵌图片放在题目后；学生答案放在图片后，并用正常段落分开 | 不要把学生答案放在图片前；不要缺少图表；不要把评分、范文或旧批注混进输入文件 |
+| Task 2 | 题目完整放在最前面；如果有 outline，可以放在题目后、正式作文前；正式作文放在最后，并用正常段落分开 | 不要把题目放在作文后；不要把 outline 当成正式作文；不要把旧反馈、范文或 reviewed 内容放进输入文件 |
+
+这些位置很重要，因为 skill 会先区分题目、图片、outline 和学生正文，再把 Word comments 锚定到学生正文段落上。
+
+## 示例文件
+
+仓库的 `examples/` 目录包含一组 Task 1 和 Task 2 示例。未带 `(reviewed)` 的文件是输入示例，带 `(reviewed)` 的文件是批改后效果预览。
+
+| 示例 | 文件 |
+| --- | --- |
+| Task 1 输入 | [C19T4 Writing Task 1.docx](<./examples/C19T4 Writing Task 1.docx>) |
+| Task 1 reviewed 输出 | [C19T4 Writing Task 1(reviewed).docx](<./examples/C19T4 Writing Task 1(reviewed).docx>) |
+| Task 2 输入 | [C19T4 Writing Task 2.docx](<./examples/C19T4 Writing Task 2.docx>) |
+| Task 2 reviewed 输出 | [C19T4 Writing Task 2(reviewed).docx](<./examples/C19T4 Writing Task 2(reviewed).docx>) |
+
 ## 核心亮点
 
 | 真实批改体验 | IELTS 内置知识 | Agent 友好 |
@@ -137,6 +159,11 @@ Task 2 skill 包含题目与作文提取、Task 2 官方评分标准、教师风
 |   |-- README.es.md
 |   |-- README.ja.md
 |   `-- README.ko.md
+|-- examples/
+|   |-- C19T4 Writing Task 1.docx
+|   |-- C19T4 Writing Task 1(reviewed).docx
+|   |-- C19T4 Writing Task 2.docx
+|   `-- C19T4 Writing Task 2(reviewed).docx
 |-- skills/
 |   |-- ielts-task1-review/
 |   |   |-- SKILL.md
