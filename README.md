@@ -62,6 +62,14 @@ flowchart LR
 
 ## 安装
 
+### 通用 agent 安装提示词
+
+```text
+Install the IELTS Writing Review Skills from this GitHub repository: https://github.com/AaronL725/ielts-writing-review-skills and put the two skills into the correct local skills directory.
+```
+
+也可以手动安装：
+
 先克隆仓库：
 
 ```bash
@@ -92,12 +100,6 @@ cp -R skills/ielts-task1-review skills/ielts-task2-review "$HOME/.claude/skills/
 ```bash
 mkdir -p .claude/skills
 cp -R skills/ielts-task1-review skills/ielts-task2-review .claude/skills/
-```
-
-### 通用 agent 安装提示词
-
-```text
-Install the IELTS Writing Review Skills from this GitHub repository: https://github.com/AaronL725/ielts-writing-review-skills and put the two skills into the correct local skills directory.
 ```
 
 ## Prompt 示例
@@ -158,6 +160,6 @@ Task 2 skill 包含题目与作文提取、Task 2 官方评分标准、教师风
 | Claude Code | Ready | 复制到 `~/.claude/skills` 或项目 `.claude/skills` |
 | 其他本地 agents | Manual | 使用通用安装提示词，并把两个 skill 放到对应 agent 的本地 skills 目录 |
 
-## 给这个仓库点 Star
+## ⭐️ 给这个仓库点 Star
 
 如果这个仓库能节省你批改 IELTS Writing 的时间，点一个 star 可以帮助更多学习者和老师找到它。
