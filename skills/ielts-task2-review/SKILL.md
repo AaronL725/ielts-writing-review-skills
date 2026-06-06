@@ -1,6 +1,6 @@
 ---
 name: ielts-task2-review
-description: Use this skill to review IELTS Writing Task 2 essays in a specific teacher's style. Trigger when the user asks for IELTS Task 2 correction, Band 7 or 7.5 improvement, teacher-style essay marking, reviewed Word DOCX output, comments on a Task 2 essay, or a full Task 2 model essay based on a student's draft. Supports both pasted prompt+essay text and simple .docx input containing the task prompt and student essay.
+description: Use this skill to review IELTS Writing Task 2 essays in a specific teacher's style. Trigger when the user asks for IELTS Task 2 correction, Band 7.5 or 8.0 improvement, teacher-style essay marking, reviewed Word DOCX output, comments on a Task 2 essay, or a full Task 2 model essay based on a student's draft. Supports both pasted prompt+essay text and simple .docx input containing the task prompt and student essay.
 ---
 
 # IELTS Task 2 Review
@@ -38,15 +38,15 @@ Imitate the teacher's marking style before giving generic IELTS advice. Use the 
    - A non-empty comment target must match text inside the selected student essay paragraph; do not fall back to prompt, outline, or the whole wrong paragraph.
    - Prefer concrete notes: `informal`, `repetition`, `unnatural`, `could be more concise`, `Careful with articles`, `Off-topic`, `This is vague`.
 6. Add italic rewrites after the relevant original unit.
-   - Rewrites should be concise, formal, natural, and Band 7/7.5 appropriate.
-   - Avoid making the essay sound like an over-polished Band 9 sample.
+   - Rewrites should be concise, formal, natural, and at a stable Band 7.5 standard.
+   - Keep rewrites close to the student's intended meaning; avoid making local fixes sound like an over-polished Band 9 sample.
 7. Score the student's original essay strictly using official Task 2 descriptors.
    - Score Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy, and estimated overall band.
    - Do this before giving improvement advice.
-8. Give concise Band 7 / 7.5-oriented feedback.
-   - Separate issues blocking stable Band 7 from improvements needed to move toward 7.5.
+8. Give concise Band 7.5 / 8.0-oriented feedback.
+   - Separate issues blocking stable Band 7.5 from improvements needed to move toward 8.0.
    - Keep this section short, like the teacher samples.
-9. Write a 250-300 word model essay at a stable Band 7.5 standard.
+9. Write a 250-300 word model essay at a stable Band 8.0 standard.
    - Use exactly four paragraphs:
      1. Introduction: paraphrase the prompt and state the essay's position.
      2. Body paragraph 1.
@@ -56,7 +56,7 @@ Imitate the teacher's marking style before giving generic IELTS advice. Use the 
    - Align it with the official criteria.
    - Preserve the student's main position when it is on-topic and defensible.
    - Correct any flawed or off-topic logic from the original draft.
-   - It must be strong enough for Band 7.5: a clear and sustained position, relevant and sufficiently developed support, logical paragraph progression, natural topic vocabulary, and frequent error-free sentences.
+   - It must be strong enough for Band 8.0: a clear and well-developed position, relevant and well-extended support, well-managed cohesion, flexible topic vocabulary, and mostly error-free grammar.
    - Keep it realistic and teacher-like, not an over-polished Band 9 essay.
 10. Generate a reviewed `.docx` by default.
    - For input `MyEssay.docx`, output `MyEssay(reviewed).docx` in the same folder unless the user specifies another path.
@@ -70,7 +70,7 @@ Imitate the teacher's marking style before giving generic IELTS advice. Use the 
    - Use `Cyber Esme` as the Word comment author.
    - Do not add big visible section headings such as `Task`, `Reviewed Essay`, `Score`, or `Model Essay`.
    - Preserve the original `word/document.xml` root namespace declarations and `mc:Ignorable`; do not leave undeclared prefixes such as `w14`, `w15`, `w16*`, or `wp14`.
-   - Insert a page break before the score and feedback page; keep the score lines and `To Reach Band 7 / 7.5` together; insert another page break before the model essay.
+   - Insert a page break before the score and feedback page; keep the score lines and `To Reach Band 7.5 / 8.0` together; insert another page break before the model essay.
    - Never overwrite the original essay unless explicitly requested.
 11. Clean up temporary byproducts after a successful review.
    - Delete temporary review plan files such as `review_plan_c17t3.json`.
@@ -87,7 +87,7 @@ Imitate the teacher's marking style before giving generic IELTS advice. Use the 
 - `scripts/extract_task2_input.py`: extract prompt, optional outline, and student essay from a Task 2 DOCX; it also protects against accidental leftover reviewed content.
 - `scripts/find_teacher_sample.py`: find matching bundled teacher samples using normalized filename and prompt overlap.
 - `scripts/create_review_docx.py`: create a reviewed DOCX from a JSON review plan; DOCX input is copied first, comments are anchored into extracted student essay paragraphs, and score/model sections are appended.
-- `scripts/validate_review_docx.py`: verify comments, italic rewrites, student-essay paragraph comment anchoring when `--input-docx` is supplied, root namespace compatibility, score lines, retained `To Reach Band 7 / 7.5` title, removed old headings, and model essay length/four-paragraph structure.
+- `scripts/validate_review_docx.py`: verify comments, italic rewrites, student-essay paragraph comment anchoring when `--input-docx` is supplied, root namespace compatibility, score lines, retained `To Reach Band 7.5 / 8.0` title, removed old headings, and model essay length/four-paragraph structure.
 - `scripts/extract_teacher_samples.py`: regenerate sample references from the 11 source DOCX files.
 - `scripts/extract_task2_band_descriptors.py`: regenerate descriptors from the PDF.
 
@@ -138,8 +138,8 @@ If the review plan is a permanent example/reference file, omit `--cleanup-plan`.
 
 - The reviewed DOCX must contain real Word comments, not plain bracketed notes.
 - At least the most important local issues must be anchored to specific text.
-- Italic rewrites must appear after the original unit.
+- Italic rewrites must appear after the original unit and be written at a stable Band 7.5 standard.
 - The score must evaluate the original essay, not the revised essay.
-- The model essay must be exactly 4 paragraphs with one blank line between paragraphs, 250-300 words, and should stand securely at Band 7.5 according to the official Task 2 descriptors.
+- The model essay must be exactly 4 paragraphs with one blank line between paragraphs, 250-300 words, and should stand securely at Band 8.0 according to the official Task 2 descriptors.
 - The style should look closer to the teacher's samples than to a generic IELTS tutor.
 - Temporary files from the review process should be removed after successful validation.

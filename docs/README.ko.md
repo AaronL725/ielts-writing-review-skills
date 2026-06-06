@@ -21,12 +21,12 @@
 
 이 저장소는 로컬 AI agent에서 IELTS Writing을 검토하기 위한 두 개의 skill을 제공합니다. 단순한 일반 첨삭이 아니라 과제와 학생 답안을 구분하고, Word 실제 코멘트를 삽입하며, 공식 IELTS band descriptors에 따라 채점하고, 간결한 rewrite와 model answer를 생성합니다.
 
-**기본 목표 band는 7.5입니다.** 목표 band를 따로 지정하지 않으면 두 skill은 model answer와 피드백을 안정적인 Band 7.5 수준에 맞춥니다. prompt에 `Target band: 7.0` 또는 `Target band: 8.0`처럼 적어 변경할 수 있습니다.
+**기본 목표 수준은 이탤릭 rewrite는 안정적인 Band 7.5, 마지막 model answer는 안정적인 Band 8.0입니다.** 목표 band를 따로 지정하지 않으면 두 skill은 부분 rewrite를 Band 7.5로, 마지막 model answer / model essay를 Band 8.0으로 맞춥니다. prompt에 `Target band: 7.5` 또는 `Target band: 8.0`처럼 적어 변경할 수 있습니다.
 
 | Skill | 용도 | 기본 출력 |
 | --- | --- | --- |
-| `$ielts-task1-review` | Academic Task 1 그래프, 표, 지도, 과정, 복합 시각 자료 | 코멘트가 포함된 reviewed DOCX, 점수, 피드백, 4문단 Band 7.5 model answer |
-| `$ielts-task2-review` | Task 2 의견형, 토론형, 문제해결형, 장단점형, 복합 essay | 코멘트가 포함된 reviewed DOCX, 점수, 피드백, 4문단 Band 7.5 model essay |
+| `$ielts-task1-review` | Academic Task 1 그래프, 표, 지도, 과정, 복합 시각 자료 | 코멘트가 포함된 reviewed DOCX, 점수, 피드백, Band 7.5 이탤릭 rewrite, 4문단 Band 8.0 model answer |
+| `$ielts-task2-review` | Task 2 의견형, 토론형, 문제해결형, 장단점형, 복합 essay | 코멘트가 포함된 reviewed DOCX, 점수, 피드백, Band 7.5 이탤릭 rewrite, 4문단 Band 8.0 model essay |
 
 ## 설치
 

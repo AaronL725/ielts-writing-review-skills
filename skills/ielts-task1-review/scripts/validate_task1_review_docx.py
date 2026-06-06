@@ -153,7 +153,7 @@ def main() -> None:
         if rpr is not None and rpr.find(qn("i")) is not None:
             italic_runs += 1
     all_text = text_of(doc)
-    for marker in ["To Reach Band 7 / 7.5", "Task Achievement", "Coherence & Cohesion", "Lexical Resource", "Grammatical Range & Accuracy", "Overall"]:
+    for marker in ["To Reach Band 7.5 / 8.0", "Task Achievement", "Coherence & Cohesion", "Lexical Resource", "Grammatical Range & Accuracy", "Overall"]:
         if marker not in all_text:
             raise SystemExit(f"Missing required review text: {marker}")
     for removed_heading in ["IELTS Writing Task 1 Review", "Reviewed Answer", "Model Answer"]:

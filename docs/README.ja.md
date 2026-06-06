@@ -21,12 +21,12 @@
 
 このリポジトリには、IELTS Writing をローカル AI agent でレビューするための 2 つの skill が含まれています。一般的な添削ではなく、課題と学生答案を判別し、Word の実コメントを挿入し、公式 IELTS band descriptors に基づいて採点し、短い改善 rewrite とモデル答案を生成します。
 
-**デフォルト目標 band は 7.5 です。** 目標 band を指定しない場合、モデル答案と改善フィードバックは安定した Band 7.5 レベルに合わせられます。`Target band: 7.0` や `Target band: 8.0` のように prompt で変更できます。
+**デフォルト目標は、斜体 rewrite が安定した Band 7.5、最後のモデル答案が安定した Band 8.0 です。** 目標 band を指定しない場合、局所的な rewrite は Band 7.5、最後の model answer / model essay は Band 8.0 に合わせられます。`Target band: 7.5` や `Target band: 8.0` のように prompt で変更できます。
 
 | Skill | 用途 | デフォルト出力 |
 | --- | --- | --- |
-| `$ielts-task1-review` | Academic Task 1 のグラフ、表、地図、プロセス、複合図表 | コメント付き reviewed DOCX、採点、フィードバック、4 段落の Band 7.5 モデル答案 |
-| `$ielts-task2-review` | Task 2 の意見、議論、問題解決、利点欠点、複合型 essay | コメント付き reviewed DOCX、採点、フィードバック、4 段落の Band 7.5 モデル essay |
+| `$ielts-task1-review` | Academic Task 1 のグラフ、表、地図、プロセス、複合図表 | コメント付き reviewed DOCX、採点、フィードバック、Band 7.5 の斜体 rewrite、4 段落の Band 8.0 モデル答案 |
+| `$ielts-task2-review` | Task 2 の意見、議論、問題解決、利点欠点、複合型 essay | コメント付き reviewed DOCX、採点、フィードバック、Band 7.5 の斜体 rewrite、4 段落の Band 8.0 モデル essay |
 
 ## インストール
 

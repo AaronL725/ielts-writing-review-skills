@@ -8,7 +8,7 @@ Use this guide as the highest-priority style reference after reading relevant fu
 - Use English comments.
 - Comment on concrete words or phrases rather than writing long paragraph feedback.
 - Prefer correction-oriented notes over motivational explanations.
-- Keep the level realistic for Band 7 / 7.5: natural, formal, concise, but not excessively sophisticated.
+- Keep italic rewrites at a stable Band 7.5 level: natural, formal, concise, but not excessively sophisticated.
 
 ## Common Comment Types
 
@@ -41,7 +41,7 @@ After comments and rewrites, give a short official-criteria score section, then 
 Use a tone like:
 
 ```text
-You are close to a secure Band 7. To move toward 7.5, focus on:
+You are close to a secure Band 7.5. To move toward 8.0, focus on:
 Grammar accuracy
 Natural collocations
 Conciseness
@@ -62,10 +62,10 @@ If the essay significantly misunderstands the task:
 ## Model Essay Style
 
 - 250-300 words.
-- Target a stable Band 7.5 standard, not merely a Band 7 answer moving toward 7.5.
+- Target a stable Band 8.0 standard, while keeping the essay realistic and teacher-like.
 - Clear introduction with position.
 - Two body paragraphs are usually enough; use three only if needed by the task.
 - Keep examples realistic and not over-specific.
 - Use topic vocabulary naturally.
-- Aim for secure Band 7.5: clear and sustained position, logical progression, relevant and extended support, natural collocations, varied but controlled grammar, and frequent error-free sentences.
+- Aim for secure Band 8.0: a clear and well-developed position, well-extended support, well-managed cohesion, flexible topic vocabulary, varied and mostly error-free grammar.
 - Do not over-write it into a Band 9 style; keep it learnable, concise, and close to the teacher's sample tone.

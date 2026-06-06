@@ -1,4 +1,4 @@
 interface:
   display_name: "IELTS Task 2 Review"
   short_description: "Teacher-style IELTS Task 2 marking"
-  default_prompt: "Use $ielts-task2-review to review this IELTS Task 2 essay and generate a teacher-style reviewed .docx."
+  default_prompt: "Use $ielts-task2-review to review this IELTS Task 2 essay and generate a teacher-style reviewed .docx with stable Band 7.5 rewrites and a stable Band 8.0 model essay."

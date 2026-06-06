@@ -8,7 +8,7 @@ Use this guide after inspecting the visual prompt and before writing comments.
 - Use English comments.
 - Anchor comments to specific words or phrases.
 - Prioritize Task Achievement issues before style polishing.
-- Keep rewrites Band 7 / 7.5 realistic: concise, formal, accurate, and comparison-driven.
+- Keep rewrites at a stable Band 7.5 standard: concise, formal, accurate, and comparison-driven.
 
 ## Common Task 1 Comment Types
 
@@ -51,12 +51,12 @@ Be concise: do not repeat overview ideas.
 ## Model Answer Style
 
 - 150-200 words.
-- Target a stable Band 7.5 standard, not merely a Band 7 answer.
+- Target a stable Band 8.0 standard, while keeping the answer realistic and teacher-like.
 - Introduction paraphrases the visual accurately.
 - Overview identifies the most important overall patterns.
 - Body paragraphs group data logically rather than listing every item.
 - Use approximate values when exact values are not printed.
-- Use precise comparison language and data phrasing that reflects Band 7.5 control: `whereas`, `respectively`, `that of`, `roughly twice as high as`, and concise bracketed data where natural.
+- Use precise comparison language and data phrasing that reflects Band 8.0 control: `whereas`, `respectively`, `that of`, `roughly twice as high as`, and concise bracketed data where natural.
 - Maintain a high level of accuracy in articles, plurals, units, percentages, and verb forms.
 - Avoid opinions, explanations, or causes unless the visual directly requires them.
 - Do not over-write it into a Band 9 style; keep it learnable, concise, and close to the teacher's sample tone.

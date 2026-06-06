@@ -21,12 +21,12 @@
 
 This repository packages two IELTS Writing review skills for local AI agents. They are designed to do more than generic essay critique: each skill identifies the task and student writing, inserts real Word comments, scores with official IELTS descriptors, adds concise rewrites, and generates a high-quality model answer.
 
-**Default target band: 7.5.** If you do not specify a target band, both skills calibrate model answers and feedback to a stable Band 7.5 level. You can override this in your prompt with `Target band: 7.0`, `Target band: 8.0`, or another goal.
+**Default target levels: stable Band 7.5 italic rewrites and stable Band 8.0 final model answers.** If you do not specify a target band, both skills calibrate local rewrites to Band 7.5 and the final model answer or model essay to Band 8.0. You can override this in your prompt with `Target band: 7.5`, `Target band: 8.0`, or another goal.
 
 | Skill | Best for | Default output |
 | --- | --- | --- |
-| `$ielts-task1-review` | Academic Task 1 charts, tables, maps, processes, and mixed visuals | Reviewed DOCX with comments, score, feedback, and a 4-paragraph Band 7.5 model answer |
-| `$ielts-task2-review` | Task 2 opinion, discussion, problem-solution, advantages/disadvantages, and mixed essay prompts | Reviewed DOCX with comments, score, feedback, and a 4-paragraph Band 7.5 model essay |
+| `$ielts-task1-review` | Academic Task 1 charts, tables, maps, processes, and mixed visuals | Reviewed DOCX with comments, score, feedback, Band 7.5 italic rewrites, and a 4-paragraph Band 8.0 model answer |
+| `$ielts-task2-review` | Task 2 opinion, discussion, problem-solution, advantages/disadvantages, and mixed essay prompts | Reviewed DOCX with comments, score, feedback, Band 7.5 italic rewrites, and a 4-paragraph Band 8.0 model essay |
 
 ## Install
 

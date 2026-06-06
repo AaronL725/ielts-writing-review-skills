@@ -6,7 +6,7 @@ Extracted from the local IELTS writing band descriptors PDF. Use these official 
 
 - Score the student's original essay first.
 - Score four criteria separately: Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.
-- Score the student's original essay strictly. For the final model essay, target a stable Band 7.5 standard by combining secure Band 7 performance with achievable Band 8 features.
+- Score the student's original essay strictly. For italic rewrites, target a stable Band 7.5 standard; for the final model essay, target a stable Band 8.0 standard according to the official Band 8 descriptors.
 
 ## Band 9
 

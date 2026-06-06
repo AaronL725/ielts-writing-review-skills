@@ -21,12 +21,12 @@
 
 Este repositorio incluye dos skills para que un AI agent local revise IELTS Writing. No se limita a dar comentarios genericos: identifica la tarea y la respuesta del estudiante, inserta comentarios reales en Word, puntua con los descriptores oficiales de IELTS, agrega reescrituras breves y genera una respuesta modelo.
 
-**La banda objetivo predeterminada es 7.5.** Si no indicas una banda objetivo, ambos skills calibran el modelo y el feedback a un nivel estable de Band 7.5. Puedes cambiarlo en el prompt con `Target band: 7.0`, `Target band: 8.0` u otro objetivo.
+**Niveles objetivo predeterminados: reescrituras en cursiva de Band 7.5 estable y modelo final de Band 8.0 estable.** Si no indicas una banda objetivo, ambos skills calibran las reescrituras locales a Band 7.5 y la respuesta o ensayo modelo final a Band 8.0. Puedes cambiarlo en el prompt con `Target band: 7.5`, `Target band: 8.0` u otro objetivo.
 
 | Skill | Uso principal | Salida predeterminada |
 | --- | --- | --- |
-| `$ielts-task1-review` | Graficos, tablas, mapas, procesos y visuales mixtos de Academic Task 1 | DOCX revisado con comentarios, puntuacion, feedback y modelo de 4 parrafos Band 7.5 |
-| `$ielts-task2-review` | Ensayos de opinion, discusion, problema-solucion, ventajas/desventajas y tareas mixtas | DOCX revisado con comentarios, puntuacion, feedback y modelo de 4 parrafos Band 7.5 |
+| `$ielts-task1-review` | Graficos, tablas, mapas, procesos y visuales mixtos de Academic Task 1 | DOCX revisado con comentarios, puntuacion, feedback, reescrituras en cursiva Band 7.5 y modelo de 4 parrafos Band 8.0 |
+| `$ielts-task2-review` | Ensayos de opinion, discusion, problema-solucion, ventajas/desventajas y tareas mixtas | DOCX revisado con comentarios, puntuacion, feedback, reescrituras en cursiva Band 7.5 y modelo de 4 parrafos Band 8.0 |
 
 ## Instalacion
 

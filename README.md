@@ -19,7 +19,7 @@
   <p>
     <a href="https://github.com/AaronL725/ielts-writing-review-skills/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AaronL725/ielts-writing-review-skills?style=for-the-badge&label=Stars&color=ffd166"></a>
     <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-8ef0b0?style=for-the-badge"></a>
-    <img alt="Default target band 7.5" src="https://img.shields.io/badge/default_band-7.5-62d2ff?style=for-the-badge">
+    <img alt="Rewrites Band 7.5, model answers Band 8.0" src="https://img.shields.io/badge/rewrites_7.5-model_8.0-62d2ff?style=for-the-badge">
     <img alt="Codex ready" src="https://img.shields.io/badge/Codex-ready-111827?style=for-the-badge">
     <img alt="Claude Code ready" src="https://img.shields.io/badge/Claude_Code-ready-6b5cff?style=for-the-badge">
   </p>
@@ -29,12 +29,12 @@
 
 这个仓库打包了两个 IELTS 写作批改 skills，让 AI agent 不只是给泛泛建议，而是按照接近真实老师的方式完成一整套批改流程：识别题目和学生原文、插入 Word 真批注、给出官方评分维度、添加局部精修改写，并生成对应的高质量范文。
 
-**默认目标分数：Band 7.5。** 如果你不额外指定目标分，两个 skill 都会默认把范文和提升建议校准到稳定 Band 7.5 水平。你也可以在 prompt 里写 `Target band: 7.0`、`Target band: 8.0` 等，让 agent 按你的目标分调整反馈重点。
+**默认目标水平：斜体改写稳定 Band 7.5，结尾范文稳定 Band 8.0。** 如果你不额外指定目标分，两个 skill 都会默认把局部 italic rewrite 校准到稳定 7.5，把最后的 model answer / model essay 校准到稳定 8.0。你也可以在 prompt 里写 `Target band: 7.5`、`Target band: 8.0` 等，让 agent 按你的目标分调整反馈重点。
 
 | Skill | 适合场景 | 默认输出 |
 | --- | --- | --- |
-| `$ielts-task1-review` | Academic Task 1 图表、表格、地图、流程图、混合图 | 带 Word 批注的 reviewed DOCX、评分、反馈、4 段 Band 7.5 范文 |
-| `$ielts-task2-review` | Task 2 观点类、讨论类、问题解决类、利弊类、混合类作文 | 带 Word 批注的 reviewed DOCX、评分、反馈、4 段 Band 7.5 范文 |
+| `$ielts-task1-review` | Academic Task 1 图表、表格、地图、流程图、混合图 | 带 Word 批注的 reviewed DOCX、评分、反馈、稳定 Band 7.5 斜体改写、4 段 Band 8.0 范文 |
+| `$ielts-task2-review` | Task 2 观点类、讨论类、问题解决类、利弊类、混合类作文 | 带 Word 批注的 reviewed DOCX、评分、反馈、稳定 Band 7.5 斜体改写、4 段 Band 8.0 范文 |
 
 ## 输入文件要求
 
@@ -65,7 +65,7 @@
 | 插入真实 Word comments，不是纯文本括号批注 | 使用官方 IELTS band descriptors 评分 | 可作为 Codex 和 Claude Code 本地 skill 使用 |
 | 批注锚定学生原文，不批到题目或 outline 上 | 内置教师风格规则和样本提炼参考 | 包含 DOCX 提取、生成、验证脚本 |
 | 在原文后插入简洁的 italic rewrite | Task 1 强制先看图，Task 2 强制先看任务回应 | 保留原文件，输出独立 reviewed copy |
-| 输出分数页、短反馈和范文 | 默认生成真实可学的 Band 7.5 范文 | 可通过 prompt 自定义目标分 |
+| 输出分数页、短反馈和范文 | 默认斜体改写 Band 7.5，结尾范文 Band 8.0 | 可通过 prompt 自定义目标分 |
 
 ## 批改流程
 
@@ -75,7 +75,7 @@ flowchart LR
     B --> C[Word 真批注]
     B --> D[官方维度评分]
     B --> E[教师风格精修改写]
-    B --> F[默认 Band 7.5 范文]
+    B --> F[默认 Band 8.0 范文]
     C --> G[Reviewed Word document]
     D --> G
     E --> G

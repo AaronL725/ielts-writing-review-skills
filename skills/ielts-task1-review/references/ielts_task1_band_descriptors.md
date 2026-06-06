@@ -6,7 +6,7 @@ Extracted from the local IELTS writing band descriptors PDF. Use these official 
 
 - Score the student's original answer first.
 - Score four criteria separately: Task Achievement, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.
-- Score the student's original answer strictly. For the final model answer, target a stable Band 7.5 standard by combining secure Band 7 performance with achievable Band 8 features.
+- Score the student's original answer strictly. For italic rewrites, target a stable Band 7.5 standard; for the final model answer, target a stable Band 8.0 standard according to the official Band 8 descriptors.
 
 ## Band 9
 

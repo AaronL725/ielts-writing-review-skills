@@ -25,11 +25,11 @@ Use this structure for every reviewed IELTS Academic Task 1 document.
    - Lexical Resource
    - Grammatical Range & Accuracy
    - Overall
-5. `To Reach Band 7 / 7.5`
+5. `To Reach Band 7.5 / 8.0`
    - This is the only visible section title retained after the answer review.
    - Keep this on the same page as the score lines.
-   - Mention blockers for stable Band 7 first.
-   - Then mention the most useful move toward 7.5.
+   - Mention blockers preventing stable Band 7.5 first.
+   - Then mention the most useful move toward 8.0.
 6. Model answer
    - Start this on a new page after the score/focus page.
    - Do not use a visible `Model Answer` heading.
@@ -41,7 +41,7 @@ Use this structure for every reviewed IELTS Academic Task 1 document.
      4. Body paragraph 2: report the second logical group of details.
    - Leave one blank line between model answer paragraphs.
    - Accurate to the visual.
-   - Stable Band 7.5 standard: clear overview, well-selected key features, logical grouping, precise data language, and controlled grammar.
+   - Stable Band 8.0 standard: skilful key feature selection, clear overview, logical grouping, precise data language, natural comparisons, well-managed cohesion, and mostly error-free grammar.
 
 ## Filename Rules
 
@@ -69,7 +69,7 @@ Use this structure for every reviewed IELTS Academic Task 1 document.
 - Do not include `Visual Facts` in the reviewed DOCX unless specifically requested.
 - Do not add big visible section headings such as `Task`, `Reviewed Answer`, `Score`, or `Model Answer`.
 - Insert a page break before the score and feedback page.
-- Keep the score lines and `To Reach Band 7 / 7.5` together.
+- Keep the score lines and `To Reach Band 7.5 / 8.0` together.
 - Insert another page break before the model answer.
 
 ## Cleanup Rules

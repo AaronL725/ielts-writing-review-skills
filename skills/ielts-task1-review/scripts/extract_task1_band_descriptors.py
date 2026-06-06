@@ -64,7 +64,7 @@ def write_markdown(descriptors: dict[str, dict[str, str]], path: Path) -> None:
         "",
         "- Score the student's original answer first.",
         "- Score four criteria separately: Task Achievement, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.",
-        "- Target stable Band 7 first, then push toward 7.5 by borrowing achievable Band 8 features.",
+        "- For italic rewrites, target stable Band 7.5. For the final model answer, target stable Band 8.0 according to the official Band 8 descriptors.",
         "",
     ]
     for band, criteria in descriptors.items():

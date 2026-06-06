@@ -1,6 +1,6 @@
 ---
 name: ielts-task1-review
-description: Use this skill to review IELTS Academic Writing Task 1 answers in a specific teacher's style. Trigger when the user asks for IELTS Task 1 correction, chart/table/map/process description review, Band 7 or 7.5 improvement, teacher-style marking, reviewed Word DOCX output, comments on a Task 1 answer, or a full Task 1 model answer based on a student's draft and visual prompt. Supports .docx input containing an embedded chart image and pasted text with an attached image or image path.
+description: Use this skill to review IELTS Academic Writing Task 1 answers in a specific teacher's style. Trigger when the user asks for IELTS Task 1 correction, chart/table/map/process description review, Band 7.5 or 8.0 improvement, teacher-style marking, reviewed Word DOCX output, comments on a Task 1 answer, or a full Task 1 model answer based on a student's draft and visual prompt. Supports .docx input containing an embedded chart image and pasted text with an attached image or image path.
 ---
 
 # IELTS Task 1 Review
@@ -41,13 +41,14 @@ Use these references in order:
    - Use short English comments anchored to specific words or phrases.
    - Use comments like `Specify type: bar chart`, `mention proportions`, `slightly repetitive`, `formal`, `Use comma`, `This is stated in overview`.
 7. Add italic rewrites after relevant units.
-   - Rewrites must be concise, formal, data-accurate, and Band 7/7.5 appropriate.
+   - Rewrites must be concise, formal, data-accurate, and at a stable Band 7.5 standard.
+   - Keep rewrites learnable and close to the student's intended meaning; do not turn local fixes into over-complex Band 9 wording.
 8. Score the student's original answer strictly using official Task 1 descriptors.
    - Score Task Achievement, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy, and estimated overall band.
-9. Give concise Band 7 / 7.5-oriented feedback.
-   - Mention blockers for stable Band 7 first.
-   - Then mention the most useful move toward 7.5.
-10. Write a 150-200 word model answer at a stable Band 7.5 standard.
+9. Give concise Band 7.5 / 8.0-oriented feedback.
+   - Mention blockers preventing stable Band 7.5 first.
+   - Then mention the most useful move toward 8.0.
+10. Write a 150-200 word model answer at a stable Band 8.0 standard.
    - Use exactly four paragraphs:
      1. Introduction: paraphrase the task prompt.
      2. Overview: begin with `Overall` and summarize the main features.
@@ -56,7 +57,7 @@ Use these references in order:
    - Leave one blank line between model answer paragraphs in the output DOCX.
    - Align it with the visual and official criteria.
    - Correct any inaccurate visual interpretation.
-   - It must be strong enough for Band 7.5: clear overview, accurate key feature selection, logical grouping, precise data language, natural comparisons, and consistently controlled grammar.
+   - It must be strong enough for Band 8.0: skilful key feature selection, clear overview, logical grouping, precise data language, natural comparisons, well-managed cohesion, and mostly error-free grammar.
    - Keep it realistic and teacher-like, not an over-complex Band 9 answer.
 11. Generate a reviewed `.docx` by default.
    - For input `MyAnswer.docx`, output `MyAnswer(reviewed).docx` in the same folder unless the user specifies another path.
@@ -70,7 +71,7 @@ Use these references in order:
    - Do not include a visible `Visual Facts` section unless the user asks for it or `--include-visual-facts` is intentionally used.
    - Do not add big visible section headings such as `Task`, `Reviewed Answer`, `Score`, or `Model Answer`.
    - Preserve the original `word/document.xml` root namespace declarations and `mc:Ignorable`; do not leave undeclared prefixes such as `w14`, `w15`, `w16*`, or `wp14`.
-   - Insert a page break before the score and feedback page; keep the score lines and `To Reach Band 7 / 7.5` together; insert another page break before the model answer.
+   - Insert a page break before the score and feedback page; keep the score lines and `To Reach Band 7.5 / 8.0` together; insert another page break before the model answer.
    - Never overwrite the original answer unless explicitly requested.
 12. Clean up temporary byproducts after a successful review.
    - Delete temporary files such as `review_plan_*.json`, extracted scratch images, and unpacked DOCX folders.
@@ -90,7 +91,7 @@ Use these references in order:
 - `scripts/extract_task1_input.py`: extract prompt, student answer, and student answer paragraph indices from a Task 1 DOCX.
 - `scripts/create_task1_review_docx.py`: create a reviewed DOCX from a JSON review plan; DOCX input is copied first, comments are anchored into extracted student answer paragraphs, and score/model sections are appended.
 - `scripts/create_and_validate_task1_review.py`: create a reviewed DOCX, validate it, and clean extracted scratch images in one command.
-- `scripts/validate_task1_review_docx.py`: verify comments, italic rewrites, student-answer paragraph comment anchoring when `--input-docx` is supplied, root namespace compatibility, page breaks, font, author, score lines, retained `To Reach Band 7 / 7.5` title, removed old headings, and model answer length/four-paragraph structure.
+- `scripts/validate_task1_review_docx.py`: verify comments, italic rewrites, student-answer paragraph comment anchoring when `--input-docx` is supplied, root namespace compatibility, page breaks, font, author, score lines, retained `To Reach Band 7.5 / 8.0` title, removed old headings, and model answer length/four-paragraph structure.
 - `scripts/extract_task1_teacher_samples.py`: regenerate teacher sample references.
 - `scripts/extract_task1_band_descriptors.py`: regenerate descriptors from the PDF.
 
@@ -150,7 +151,7 @@ If the review plan is a permanent example/reference file, omit `--cleanup-plan`.
 - Comments must stay within the extracted student answer paragraphs; prompt text and image captions are not valid anchor targets.
 - The reviewed DOCX must contain real Word comments, not bracketed notes.
 - Important Task Achievement issues must be commented first.
-- Italic rewrites must be data-accurate.
+- Italic rewrites must be data-accurate and written at a stable Band 7.5 standard.
 - The score must evaluate the original answer.
-- The model answer must be exactly 4 paragraphs with one blank line between paragraphs, 150-200 words, and should stand securely at Band 7.5 according to the official Task 1 descriptors.
+- The model answer must be exactly 4 paragraphs with one blank line between paragraphs, 150-200 words, and should stand securely at Band 8.0 according to the official Task 1 descriptors.
 - The style should look closer to the teacher's Task 1 samples than to a generic IELTS tutor.

@@ -23,11 +23,11 @@ Use this structure for every reviewed IELTS Task 2 document.
    - Grammatical Range & Accuracy
    - Overall
    - One or a few short evidence-based scoring notes.
-4. `To Reach Band 7 / 7.5`
+4. `To Reach Band 7.5 / 8.0`
    - This is the only visible section title retained after the essay review.
    - Concise focus list.
-   - Mention blockers for stable Band 7 first.
-   - Then mention the most useful move toward 7.5.
+   - Mention blockers preventing stable Band 7.5 first.
+   - Then mention the most useful move toward 8.0.
 5. Model essay
    - Start this on a new page after the score and focus feedback page.
    - Do not use a visible `Model Essay` heading.
@@ -40,7 +40,7 @@ Use this structure for every reviewed IELTS Task 2 document.
    - Leave one blank line between model essay paragraphs.
    - Use the student's core ideas where possible.
    - Correct off-topic or flawed logic.
-   - Stable Band 7.5 standard: clear position, relevant development, logical progression, natural topic vocabulary, and controlled grammar.
+   - Stable Band 8.0 standard: clear and well-developed position, relevant and well-extended support, well-managed cohesion, flexible topic vocabulary, and mostly error-free grammar.
 
 ## Filename Rules
 
@@ -82,6 +82,7 @@ Use this structure for every reviewed IELTS Task 2 document.
 - Italicize rewritten sentences/paragraphs.
 - Put the italic rewrite after the original unit.
 - Do not rewrite every sentence when the original is already acceptable.
+- Rewrites should reach a stable Band 7.5 standard while staying close to the student's intended meaning.
 - Prefer focused, realistic improvements over a complete Band 9 transformation.
 
 ## Font And Pagination Rules
@@ -91,5 +92,5 @@ Use this structure for every reviewed IELTS Task 2 document.
 - Preserve the copied DOCX's original `word/document.xml` root namespace declarations and `mc:Ignorable` prefix list.
 - Do not add big visible section headings such as `Task`, `Reviewed Essay`, `Score`, or `Model Essay`.
 - Insert a page break before the score and feedback page.
-- Keep the score lines and `To Reach Band 7 / 7.5` together after that page break.
+- Keep the score lines and `To Reach Band 7.5 / 8.0` together after that page break.
 - Insert another page break before the model essay.
