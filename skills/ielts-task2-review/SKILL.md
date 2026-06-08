@@ -42,6 +42,7 @@ Imitate the teacher's marking style before giving generic IELTS advice. Use the 
    - Keep rewrites close to the student's intended meaning; avoid making local fixes sound like an over-polished Band 9 sample.
 7. Score the student's original essay strictly using official Task 2 descriptors.
    - Score Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy, and estimated overall band.
+   - For this teacher-style educational review, criterion scores and the estimated overall score may use whole or half bands, such as `6`, `6.5`, or `7`. Use `.5` when the original essay sits between adjacent whole-band descriptor anchors; do not force criterion scores to integers.
    - Do this before giving improvement advice.
 8. Give concise Band 7.5 / 8.0-oriented feedback.
    - Separate issues blocking stable Band 7.5 from improvements needed to move toward 8.0.
@@ -123,6 +124,8 @@ When using `scripts/create_review_docx.py`, first produce a JSON file with this 
   ]
 }
 ```
+
+Scores are teacher-style estimates for the review output, so each criterion and `Overall` may be a whole band or a half band.
 
 Then run:
 

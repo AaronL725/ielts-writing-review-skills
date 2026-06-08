@@ -25,6 +25,7 @@ Use this structure for every reviewed IELTS Academic Task 1 document.
    - Lexical Resource
    - Grammatical Range & Accuracy
    - Overall
+   - Each score may be a whole or half band; do not round criterion estimates to integers.
 5. `To Reach Band 7.5 / 8.0`
    - This is the only visible section title retained after the answer review.
    - Keep this on the same page as the score lines.

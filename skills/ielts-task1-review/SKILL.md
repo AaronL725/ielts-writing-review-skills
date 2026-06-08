@@ -45,6 +45,7 @@ Use these references in order:
    - Keep rewrites learnable and close to the student's intended meaning; do not turn local fixes into over-complex Band 9 wording.
 8. Score the student's original answer strictly using official Task 1 descriptors.
    - Score Task Achievement, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy, and estimated overall band.
+   - For this teacher-style educational review, criterion scores and the estimated overall score may use whole or half bands, such as `6`, `6.5`, or `7`. Use `.5` when the original answer sits between adjacent whole-band descriptor anchors; do not force criterion scores to integers.
 9. Give concise Band 7.5 / 8.0-oriented feedback.
    - Mention blockers preventing stable Band 7.5 first.
    - Then mention the most useful move toward 8.0.
@@ -128,6 +129,8 @@ When using `scripts/create_task1_review_docx.py`, first produce a JSON file with
   ]
 }
 ```
+
+Scores are teacher-style estimates for the review output, so each criterion and `Overall` may be a whole band or a half band.
 
 Then run:
 
