@@ -15,6 +15,14 @@
     · <a href="./README.ko.md"><strong>한국어</strong></a>
     · <a href="./README.es.md">Español</a>
     · <a href="./README.vi.md">Tiếng Việt</a>
+    · <a href="./README.hi.md">हिन्दी</a>
+    · <a href="./README.ar.md">العربية</a>
+    · <a href="./README.fr.md">Français</a>
+    · <a href="./README.bn.md">বাংলা</a>
+    · <a href="./README.pt.md">Português</a>
+    · <a href="./README.id.md">Bahasa Indonesia</a>
+    · <a href="./README.ur.md">اردو</a>
+    · <a href="./README.ru.md">Русский</a>
   </p>
 
   <p>
@@ -65,7 +73,7 @@
 | --- | --- | --- |
 | 일반 텍스트의 괄호 메모가 아니라 실제 Word 댓글을 삽입 | 공식 IELTS band descriptors를 사용해 채점 | Codex와 Claude Code의 로컬 skill로 사용 가능 |
 | 문제나 개요가 아닌 학생 원문에 댓글을 연결 | 교사 스타일 규칙과 예제 추출 참고 자료를 내장 | DOCX 추출, 생성, 검증 스크립트 포함 |
-| 원문 뒤에 간결한 이탤릭 개선문을 삽입 | Task 1은 반드시 먼저 시각 자료를 확인하고, Task 2는 반드시 먼저 과제 응답을 확인 | 원본 파일을 보존하고 별도의 reviewed copy 생성 |
+| 원문 뒤에 간결한 이탤릭 개선문을 삽입 | Task 1은 시각 자료를 먼저 확인해야 하며, Task 2는 task response를 먼저 확인해야 함 | 원본 파일을 보존하고 별도의 reviewed copy 생성 |
 | 점수 페이지, 짧은 피드백, 모범 답안을 생성 | 이탤릭 개선문은 기본 Band 7.5, 마지막 모범 답안은 기본 Band 8.0 | 프롬프트에서 목표 밴드 사용자 지정 가능 |
 
 ## 첨삭 흐름
@@ -156,10 +164,18 @@ Task 2 skill에는 문제와 에세이 추출, Task 2 공식 평가 기준, 교�
 |-- assets/
 |   `-- ielts-writing-review-skills-hero.png
 |-- docs/
+|   |-- README.ar.md
+|   |-- README.bn.md
 |   |-- README.en.md
 |   |-- README.es.md
+|   |-- README.fr.md
+|   |-- README.hi.md
+|   |-- README.id.md
 |   |-- README.ja.md
 |   |-- README.ko.md
+|   |-- README.pt.md
+|   |-- README.ru.md
+|   |-- README.ur.md
 |   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
