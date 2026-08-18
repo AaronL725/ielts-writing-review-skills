@@ -28,14 +28,14 @@
 
 ## Kho lưu trữ này là gì?
 
-Kho lưu trữ này đóng gói hai skill chấm và nhận xét IELTS Writing, giúp AI agent không chỉ đưa ra những góp ý chung chung mà có thể thực hiện một quy trình chấm bài hoàn chỉnh theo cách gần với giáo viên thực tế: nhận diện đề bài và bài viết gốc của học viên, chèn comment thực trong Word, chấm theo các tiêu chí chính thức, thêm các đoạn viết lại được tinh chỉnh có chọn lọc và tạo bài mẫu chất lượng cao tương ứng.
+Kho lưu trữ này đóng gói hai skill chấm và nhận xét IELTS Writing, giúp AI agent không chỉ đưa ra những góp ý chung chung mà có thể thực hiện một quy trình chấm bài hoàn chỉnh theo cách gần với giáo viên thực tế: nhận diện đề bài và bài viết gốc của học viên, chèn comment thực trong Word, chấm theo các tiêu chí chính thức, thêm các đoạn viết lại được tinh chỉnh theo từng phần và tạo bài mẫu chất lượng cao tương ứng.
 
 **Mức mục tiêu mặc định: các đoạn viết lại in nghiêng ổn định ở Band 7.5, còn bài mẫu cuối cùng ổn định ở Band 8.0.** Nếu bạn không chỉ định thêm band mục tiêu, cả hai skill sẽ mặc định hiệu chỉnh các đoạn italic rewrite cục bộ ở mức Band 7.5 ổn định và model answer / model essay cuối cùng ở mức Band 8.0 ổn định. Bạn cũng có thể ghi `Target band: 7.5`, `Target band: 8.0`, v.v. trong prompt để agent điều chỉnh trọng tâm phản hồi theo band mục tiêu của bạn.
 
 | Skill | Trường hợp phù hợp | Đầu ra mặc định |
 | --- | --- | --- |
 | `$ielts-task1-review` | Academic Task 1: biểu đồ, bảng, bản đồ, sơ đồ quy trình và dạng hình kết hợp | DOCX đã được review kèm Word comments, điểm số, phản hồi, các đoạn viết lại in nghiêng Band 7.5 ổn định và bài mẫu Band 8.0 gồm 4 đoạn |
-| `$ielts-task2-review` | Task 2: bài nêu quan điểm, thảo luận, vấn đề–giải pháp, lợi ích–bất lợi và dạng bài kết hợp | DOCX đã được review kèm Word comments, điểm số, phản hồi, các đoạn viết lại in nghiêng Band 7.5 ổn định và bài mẫu Band 8.0 gồm 4 đoạn |
+| `$ielts-task2-review` | Task 2: bài nêu quan điểm, thảo luận, vấn đề–giải pháp, ưu điểm–nhược điểm và dạng bài kết hợp | DOCX đã được review kèm Word comments, điểm số, phản hồi, các đoạn viết lại in nghiêng Band 7.5 ổn định và bài mẫu Band 8.0 gồm 4 đoạn |
 
 ## Yêu cầu đối với tệp đầu vào
 
@@ -43,7 +43,7 @@ Hãy sử dụng **tệp `.docx` chưa được chấm/review** làm đầu vào
 
 | Loại | Cách sắp xếp trong tài liệu Word | Không nên làm như sau |
 | --- | --- | --- |
-| Task 1 | Đặt phần chữ của đề bài ở đầu; đặt biểu đồ/bản đồ/sơ đồ quy trình dưới dạng ảnh được nhúng trong Word ngay sau đề; đặt bài làm của học viên sau ảnh và chia thành các đoạn văn bình thường | Không đặt bài làm của học viên trước ảnh; không bỏ thiếu hình minh họa; không trộn điểm số, bài mẫu hoặc comment cũ vào tệp đầu vào |
+| Task 1 | Đặt phần chữ của đề bài ở đầu; đặt biểu đồ/bản đồ/sơ đồ quy trình dưới dạng ảnh được nhúng trong Word ngay sau đề; đặt bài làm của học viên sau ảnh và chia thành các đoạn văn bình thường | Không đặt bài làm của học viên trước ảnh; không được thiếu hình minh họa; không trộn điểm số, bài mẫu hoặc comment cũ vào tệp đầu vào |
 | Task 2 | Đặt đầy đủ đề bài ở đầu; nếu có outline, có thể đặt sau đề và trước bài viết chính thức; đặt bài viết chính thức ở cuối và chia thành các đoạn văn bình thường | Không đặt đề bài sau bài viết; không coi outline là bài viết chính thức; không đưa phản hồi cũ, bài mẫu hoặc nội dung reviewed vào tệp đầu vào |
 
 Vị trí của các phần này rất quan trọng, vì skill trước tiên sẽ phân biệt đề bài, hình ảnh, outline và phần bài viết chính của học viên, sau đó mới neo Word comments vào các đoạn thuộc bài viết của học viên.
@@ -63,9 +63,9 @@ Thư mục `examples/` trong kho lưu trữ chứa một bộ ví dụ Task 1 v�
 
 | Trải nghiệm chấm bài thực tế | Kiến thức IELTS tích hợp sẵn | Thân thiện với Agent |
 | --- | --- | --- |
-| Chèn Word comments thực, không phải ghi chú thuần văn bản trong ngoặc | Chấm điểm theo official IELTS band descriptors | Có thể dùng như local skill cho Codex và Claude Code |
-| Comment được neo vào bài viết gốc của học viên, không chấm nhầm vào đề bài hoặc outline | Tích hợp quy tắc theo phong cách giáo viên và tài liệu tham chiếu được rút ra từ mẫu | Bao gồm script trích xuất, tạo và xác minh DOCX |
-| Chèn một đoạn italic rewrite ngắn gọn sau phần văn bản gốc | Task 1 bắt buộc ưu tiên xem hình trước; Task 2 bắt buộc ưu tiên đánh giá task response | Giữ nguyên tệp gốc và xuất một reviewed copy riêng biệt |
+| Chèn Word comments thực, không phải ghi chú thuần văn bản trong ngoặc | Chấm điểm theo các IELTS band descriptors chính thức | Có thể dùng như local skill cho Codex và Claude Code |
+| Comment được neo vào bài viết gốc của học viên, không chấm nhầm vào đề bài hoặc outline | Tích hợp quy tắc theo phong cách giáo viên và tài liệu tham chiếu được đúc kết từ mẫu | Bao gồm script trích xuất, tạo và xác minh DOCX |
+| Chèn một đoạn italic rewrite ngắn gọn sau phần văn bản gốc | Task 1 bắt buộc xem hình trước; Task 2 bắt buộc xem xét task response trước | Giữ nguyên tệp gốc và xuất một reviewed copy riêng biệt |
 | Xuất trang điểm số, phản hồi ngắn và bài mẫu | Mặc định các đoạn viết lại in nghiêng ở Band 7.5, bài mẫu cuối ở Band 8.0 | Có thể tùy chỉnh band mục tiêu thông qua prompt |
 
 ## Quy trình chấm và nhận xét
@@ -145,9 +145,9 @@ Use $ielts-task2-review to review my IELTS Writing Task 2 essay. Target band: [y
 
 ## Mỗi Skill bao gồm những gì?
 
-Skill Task 1 bao gồm quy trình phân tích hình ảnh, tiêu chí chấm điểm chính thức của Task 1, quy tắc chấm bài theo phong cách giáo viên, tài liệu tham chiếu được rút ra từ mẫu, mẫu biểu đồ, script trích xuất DOCX, script tạo DOCX và script xác minh.
+Skill Task 1 bao gồm quy trình phân tích hình ảnh, tiêu chí chấm điểm chính thức của Task 1, quy tắc chấm bài theo phong cách giáo viên, tài liệu tham chiếu được đúc kết từ mẫu, mẫu biểu đồ, script trích xuất DOCX, script tạo DOCX và script xác minh.
 
-Skill Task 2 bao gồm trích xuất đề bài và bài viết, tiêu chí chấm điểm chính thức của Task 2, quy tắc chấm bài theo phong cách giáo viên, tài liệu tham chiếu được rút ra từ mẫu, logic đối chiếu mẫu của giáo viên, script tạo DOCX và script xác minh.
+Skill Task 2 bao gồm trích xuất đề bài và bài viết, tiêu chí chấm điểm chính thức của Task 2, quy tắc chấm bài theo phong cách giáo viên, tài liệu tham chiếu được đúc kết từ mẫu, logic đối chiếu mẫu của giáo viên, script tạo DOCX và script xác minh.
 
 ## Cấu trúc kho lưu trữ
 
@@ -187,7 +187,7 @@ Skill Task 2 bao gồm trích xuất đề bài và bài viết, tiêu chí ch�
 | --- | --- | --- |
 | Codex | Ready | Sao chép vào `$CODEX_HOME/skills`, thông thường là `~/.codex/skills` |
 | Claude Code | Ready | Sao chép vào `~/.claude/skills` hoặc `.claude/skills` của dự án |
-| Các local agent khác | Manual | Sử dụng prompt cài đặt chung và đặt cả hai skill vào thư mục local skills tương ứng của agent |
+| Các agent cục bộ khác | Manual | Sử dụng prompt cài đặt chung và đặt cả hai skill vào thư mục local skills tương ứng của agent |
 
 ## ⭐️ Hãy Star kho lưu trữ này
 
