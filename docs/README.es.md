@@ -14,6 +14,7 @@
     · <a href="./README.ja.md">日本語</a>
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md"><strong>Español</strong></a>
+    · <a href="./README.vi.md">Tiếng Việt</a>
   </p>
 
   <p>
@@ -64,7 +65,7 @@ El directorio `examples/` del repositorio contiene un conjunto de ejemplos de Ta
 | --- | --- | --- |
 | Inserta comentarios reales de Word, no anotaciones entre paréntesis en texto plano | Utiliza los descriptores oficiales de banda de IELTS para la evaluación | Funciona como skill local para Codex y Claude Code |
 | Ancla los comentarios al texto original del estudiante, no al enunciado ni al esquema | Incluye reglas de estilo docente y referencias para extraer patrones de ejemplos | Incluye scripts de extracción, generación y validación de DOCX |
-| Inserta una reescritura breve en cursiva después del texto original | Task 1 prioriza el análisis visual; Task 2 prioriza la respuesta a la tarea | Conserva el archivo original y crea una copia revisada independiente |
+| Inserta una reescritura breve en cursiva después del texto original | Task 1 exige revisar primero el elemento visual; Task 2 exige revisar primero la respuesta a la tarea | Conserva el archivo original y crea una copia revisada independiente |
 | Genera una página de puntuación, retroalimentación breve y una respuesta modelo | Las reescrituras en cursiva usan Band 7.5 por defecto; el modelo final usa Band 8.0 | Permite personalizar la banda objetivo desde el prompt |
 
 ## Flujo de corrección
@@ -158,7 +159,8 @@ La skill de Task 2 incluye la extracción del enunciado y del ensayo, los criter
 |   |-- README.en.md
 |   |-- README.es.md
 |   |-- README.ja.md
-|   `-- README.ko.md
+|   |-- README.ko.md
+|   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
 |   |-- C19T4 Writing Task 1(reviewed).docx
