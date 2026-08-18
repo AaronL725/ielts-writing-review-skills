@@ -14,6 +14,7 @@
     · <a href="./docs/README.ja.md">日本語</a>
     · <a href="./docs/README.ko.md">한국어</a>
     · <a href="./docs/README.es.md">Español</a>
+    · <a href="./docs/README.vi.md">Tiếng Việt</a>
   </p>
 
   <p>
@@ -158,7 +159,8 @@ Task 2 skill 包含题目与作文提取、Task 2 官方评分标准、教师风
 |   |-- README.en.md
 |   |-- README.es.md
 |   |-- README.ja.md
-|   `-- README.ko.md
+|   |-- README.ko.md
+|   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
 |   |-- C19T4 Writing Task 1(reviewed).docx
