@@ -15,6 +15,14 @@
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md">Español</a>
     · <a href="./README.vi.md">Tiếng Việt</a>
+    · <a href="./README.hi.md">हिन्दी</a>
+    · <a href="./README.ar.md">العربية</a>
+    · <a href="./README.fr.md">Français</a>
+    · <a href="./README.bn.md">বাংলা</a>
+    · <a href="./README.pt.md">Português</a>
+    · <a href="./README.id.md">Bahasa Indonesia</a>
+    · <a href="./README.ur.md">اردو</a>
+    · <a href="./README.ru.md">Русский</a>
   </p>
 
   <p>
@@ -65,7 +73,7 @@ The repository's `examples/` directory contains one set of Task 1 and Task 2 exa
 | --- | --- | --- |
 | Inserts real Word comments rather than plain-text notes in parentheses | Uses the official IELTS band descriptors for scoring | Works as a local skill for Codex and Claude Code |
 | Anchors comments to the student's original writing, not to the task or outline | Includes teacher-style rules and sample-extraction references | Includes scripts for DOCX extraction, generation, and validation |
-| Inserts a concise italic rewrite after the original text | Task 1 requires looking at the visual first; Task 2 requires checking task response first | Preserves the original file and creates a separate reviewed copy |
+| Inserts a concise italic rewrite after the original text | Task 1 requires checking the visual first; Task 2 requires checking task response first | Preserves the original file and creates a separate reviewed copy |
 | Generates a score page, brief feedback, and a model answer | Italic rewrites default to Band 7.5; the final model answer defaults to Band 8.0 | Supports a custom target band in the prompt |
 
 ## Review workflow
@@ -156,10 +164,18 @@ The Task 2 skill includes task and essay extraction, the official Task 2 scoring
 |-- assets/
 |   `-- ielts-writing-review-skills-hero.png
 |-- docs/
+|   |-- README.ar.md
+|   |-- README.bn.md
 |   |-- README.en.md
 |   |-- README.es.md
+|   |-- README.fr.md
+|   |-- README.hi.md
+|   |-- README.id.md
 |   |-- README.ja.md
 |   |-- README.ko.md
+|   |-- README.pt.md
+|   |-- README.ru.md
+|   |-- README.ur.md
 |   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
