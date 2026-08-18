@@ -14,6 +14,7 @@
     · <a href="./README.ja.md">日本語</a>
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md">Español</a>
+    · <a href="./README.vi.md">Tiếng Việt</a>
   </p>
 
   <p>
@@ -64,7 +65,7 @@ The repository's `examples/` directory contains one set of Task 1 and Task 2 exa
 | --- | --- | --- |
 | Inserts real Word comments rather than plain-text notes in parentheses | Uses the official IELTS band descriptors for scoring | Works as a local skill for Codex and Claude Code |
 | Anchors comments to the student's original writing, not to the task or outline | Includes teacher-style rules and sample-extraction references | Includes scripts for DOCX extraction, generation, and validation |
-| Inserts a concise italic rewrite after the original text | Task 1 prioritizes visual analysis; Task 2 prioritizes task response | Preserves the original file and creates a separate reviewed copy |
+| Inserts a concise italic rewrite after the original text | Task 1 requires looking at the visual first; Task 2 requires checking task response first | Preserves the original file and creates a separate reviewed copy |
 | Generates a score page, brief feedback, and a model answer | Italic rewrites default to Band 7.5; the final model answer defaults to Band 8.0 | Supports a custom target band in the prompt |
 
 ## Review workflow
@@ -158,7 +159,8 @@ The Task 2 skill includes task and essay extraction, the official Task 2 scoring
 |   |-- README.en.md
 |   |-- README.es.md
 |   |-- README.ja.md
-|   `-- README.ko.md
+|   |-- README.ko.md
+|   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
 |   |-- C19T4 Writing Task 1(reviewed).docx
