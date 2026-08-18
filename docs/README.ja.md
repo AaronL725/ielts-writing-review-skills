@@ -14,6 +14,7 @@
     · <a href="./README.ja.md"><strong>日本語</strong></a>
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md">Español</a>
+    · <a href="./README.vi.md">Tiếng Việt</a>
   </p>
 
   <p>
@@ -64,7 +65,7 @@
 | --- | --- | --- |
 | プレーンテキストの括弧書きではなく、Word の実際のコメントを挿入 | IELTS の公式 band descriptors を使って採点 | Codex と Claude Code のローカルスキルとして利用可能 |
 | 問題文やアウトラインではなく、受験者の原文にコメントを紐付け | 教師らしい添削ルールとサンプル抽出用の参考資料を内蔵 | DOCX の抽出、生成、検証用スクリプトを同梱 |
-| 原文の後に簡潔な斜体の改善例を挿入 | Task 1 では図表分析を、Task 2 では設問への応答を優先 | 元ファイルを保持し、別の reviewed copy を生成 |
+| 原文の後に簡潔な斜体の改善例を挿入 | Task 1 は必ず先に図表を確認し、Task 2 は必ず先にタスクへの応答を確認 | 元ファイルを保持し、別の reviewed copy を生成 |
 | 採点ページ、短いフィードバック、モデル答案を生成 | 斜体の改善例はデフォルトで Band 7.5、最後のモデル答案は Band 8.0 | プロンプトから目標バンドを指定可能 |
 
 ## 添削フロー
@@ -158,7 +159,8 @@ Task 2 スキルには、問題文とエッセイの抽出、Task 2 の公式評
 |   |-- README.en.md
 |   |-- README.es.md
 |   |-- README.ja.md
-|   `-- README.ko.md
+|   |-- README.ko.md
+|   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
 |   |-- C19T4 Writing Task 1(reviewed).docx
