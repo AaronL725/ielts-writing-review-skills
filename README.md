@@ -15,6 +15,14 @@
     · <a href="./docs/README.ko.md">한국어</a>
     · <a href="./docs/README.es.md">Español</a>
     · <a href="./docs/README.vi.md">Tiếng Việt</a>
+    · <a href="./docs/README.hi.md">हिन्दी</a>
+    · <a href="./docs/README.ar.md">العربية</a>
+    · <a href="./docs/README.fr.md">Français</a>
+    · <a href="./docs/README.bn.md">বাংলা</a>
+    · <a href="./docs/README.pt.md">Português</a>
+    · <a href="./docs/README.id.md">Bahasa Indonesia</a>
+    · <a href="./docs/README.ur.md">اردو</a>
+    · <a href="./docs/README.ru.md">Русский</a>
   </p>
 
   <p>
@@ -156,10 +164,18 @@ Task 2 skill 包含题目与作文提取、Task 2 官方评分标准、教师风
 |-- assets/
 |   `-- ielts-writing-review-skills-hero.png
 |-- docs/
+|   |-- README.ar.md
+|   |-- README.bn.md
 |   |-- README.en.md
 |   |-- README.es.md
+|   |-- README.fr.md
+|   |-- README.hi.md
+|   |-- README.id.md
 |   |-- README.ja.md
 |   |-- README.ko.md
+|   |-- README.pt.md
+|   |-- README.ru.md
+|   |-- README.ur.md
 |   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
