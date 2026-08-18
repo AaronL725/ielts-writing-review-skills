@@ -15,6 +15,14 @@
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md"><strong>Español</strong></a>
     · <a href="./README.vi.md">Tiếng Việt</a>
+    · <a href="./README.hi.md">हिन्दी</a>
+    · <a href="./README.ar.md">العربية</a>
+    · <a href="./README.fr.md">Français</a>
+    · <a href="./README.bn.md">বাংলা</a>
+    · <a href="./README.pt.md">Português</a>
+    · <a href="./README.id.md">Bahasa Indonesia</a>
+    · <a href="./README.ur.md">اردو</a>
+    · <a href="./README.ru.md">Русский</a>
   </p>
 
   <p>
@@ -156,10 +164,18 @@ La skill de Task 2 incluye la extracción del enunciado y del ensayo, los criter
 |-- assets/
 |   `-- ielts-writing-review-skills-hero.png
 |-- docs/
+|   |-- README.ar.md
+|   |-- README.bn.md
 |   |-- README.en.md
 |   |-- README.es.md
+|   |-- README.fr.md
+|   |-- README.hi.md
+|   |-- README.id.md
 |   |-- README.ja.md
 |   |-- README.ko.md
+|   |-- README.pt.md
+|   |-- README.ru.md
+|   |-- README.ur.md
 |   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
