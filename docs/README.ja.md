@@ -15,6 +15,14 @@
     · <a href="./README.ko.md">한국어</a>
     · <a href="./README.es.md">Español</a>
     · <a href="./README.vi.md">Tiếng Việt</a>
+    · <a href="./README.hi.md">हिन्दी</a>
+    · <a href="./README.ar.md">العربية</a>
+    · <a href="./README.fr.md">Français</a>
+    · <a href="./README.bn.md">বাংলা</a>
+    · <a href="./README.pt.md">Português</a>
+    · <a href="./README.id.md">Bahasa Indonesia</a>
+    · <a href="./README.ur.md">اردو</a>
+    · <a href="./README.ru.md">Русский</a>
   </p>
 
   <p>
@@ -65,7 +73,7 @@
 | --- | --- | --- |
 | プレーンテキストの括弧書きではなく、Word の実際のコメントを挿入 | IELTS の公式 band descriptors を使って採点 | Codex と Claude Code のローカルスキルとして利用可能 |
 | 問題文やアウトラインではなく、受験者の原文にコメントを紐付け | 教師らしい添削ルールとサンプル抽出用の参考資料を内蔵 | DOCX の抽出、生成、検証用スクリプトを同梱 |
-| 原文の後に簡潔な斜体の改善例を挿入 | Task 1 は必ず先に図表を確認し、Task 2 は必ず先にタスクへの応答を確認 | 元ファイルを保持し、別の reviewed copy を生成 |
+| 原文の後に簡潔な斜体の改善例を挿入 | Task 1 では最初に図表を確認することを必須とし、Task 2 では最初に task response を確認することを必須とする | 元ファイルを保持し、別の reviewed copy を生成 |
 | 採点ページ、短いフィードバック、モデル答案を生成 | 斜体の改善例はデフォルトで Band 7.5、最後のモデル答案は Band 8.0 | プロンプトから目標バンドを指定可能 |
 
 ## 添削フロー
@@ -156,10 +164,18 @@ Task 2 スキルには、問題文とエッセイの抽出、Task 2 の公式評
 |-- assets/
 |   `-- ielts-writing-review-skills-hero.png
 |-- docs/
+|   |-- README.ar.md
+|   |-- README.bn.md
 |   |-- README.en.md
 |   |-- README.es.md
+|   |-- README.fr.md
+|   |-- README.hi.md
+|   |-- README.id.md
 |   |-- README.ja.md
 |   |-- README.ko.md
+|   |-- README.pt.md
+|   |-- README.ru.md
+|   |-- README.ur.md
 |   `-- README.vi.md
 |-- examples/
 |   |-- C19T4 Writing Task 1.docx
